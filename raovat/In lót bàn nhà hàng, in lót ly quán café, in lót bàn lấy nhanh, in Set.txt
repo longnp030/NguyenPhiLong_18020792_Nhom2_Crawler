@@ -1,0 +1,29 @@
+{'description': 'In lót bàn nhà hàng, đặt in lót bàn theo yêu cầu, báo giá in '
+                'lót bàn. - KT: A4, 25x38 (cm). - Chất liệu: giấy Of 100, Of '
+                '150. - In 1 mặt, 1 màu hoặc nhiều màu. - Thiết kế lót bàn nhà '
+                'hàng miễn phí theo yêu cầu. - Đảm bảo chuẩn thời gian giao '
+                'hàng. - Nhận vận chuyển hàng cẩn thận toàn quốc. * Đội ngũ tư '
+                'vấn hỗ trợ nhiệt tình, hệ thống ship hàng có tâm và giao hàng '
+                'đảm bảo nhanh chóng nhất. Liên hệ đặt hàng: CÔNG TY IN BẢO '
+                'AN: - Địa chỉ: Số 32 ngõ Thái Hà- Đống Đa- Hà Nội. - Điện '
+                'thoại: 024 32444 288 - Hotline: 0966 967 467 - 0912 363 960 '
+                '(Zalo/ Imess) - Skype: thuypt18 * Truy cập để xem các mẫu: '
+                'Fanpage: https://www.facebook.com/inquyenmenunhahang/ '
+                'Instagram: https://www.instagram.com/In.an.gia.re/ * Hoặc '
+                'truy cập vào Website: inbaoan.vn',
+ 'name': 'In lót bàn nhà hàng, in lót ly quán café, in lót bàn lấy nhanh, in '
+         'Set',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/15/7c702f397796a02a5189740618bf9996.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/15/fb2ebce6e882fb4ee9e37b2376772413.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '12-06-2016',
+            'name': 'thuypt18z6',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Quận Đống Đa',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'In lót bàn nhà hàng',
+          ' in lót ly quán café',
+          ' in lót bàn lấy nhanh']}

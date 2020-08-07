@@ -1,0 +1,36 @@
+{'description': 'Cơ sở sản xuất: đồ thờ tượng phật Xuân Thắng - 0932.755.666 '
+                'website: https://dothoxuanthang.com/ Email: '
+                'dothogosondong@gmail.com Địa chỉ: Số 36 Ngã tư Sơn đồng, Hoài '
+                'Đức, Hà Nội Xưởng sản xuất: Số 16 Ngõ Rùa, Thôn Đình, Sơn '
+                'Đồng, Hoài Đức, Hà Nội Thiết kế thi công gian thờ gia tiên, '
+                'nhà thờ họ, đình chùa đền... Chế tác và phục chế các mẫu đồ '
+                'thờ tượng phật. Chuyên sản xuất hoành phi câu đối bằng gỗ cho '
+                'gia tiên, nhà thờ họ Cam kết với quý khách hàng: GỖ LÕI LOẠI '
+                '1 - ĐỤC CHẠM HOÀN THIỆN KỸ - BẢO HÀNH 10 NĂM Gỗ chế tác 100% '
+                'gỗ lõi đã qua xử lý để đảm bảo tính chất cơ lý, ít cong vênh, '
+                'ít nứt, gỗ chắc chắn, không chịu tác động của nước, chịu lực '
+                'lớn, gỗ mịn, màu gỗ đồng nhất, khả năng chống mối mọt.. Quy '
+                'cách đồ thờ hoành phi câu đối: Hoành phi thờ làm bằng gỗ 1 '
+                'tấm (không ghép). Loại gỗ sử dụng: gỗ dổi, gỗ mít, gỗ vàng '
+                'tâm, gỗ gụ, gỗ hương... Gỗ lõi, dày dặn, khô và đồng nhất. '
+                'Đục chạm kỹ và bằng tay Sản phẩm hoàn thiện sơn son thếp bạc '
+                'thếp vàng hoặc thếp vàng 24k 999.9, phun PU 5 nước.',
+ 'name': 'Hoành phi câu đối bằng gỗ đẹp cho thờ gia tiên, nhà thờ họ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/03/09/7ae9f7078f874b5d0c5f93150c3270b8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/09/5ce663ef7e5a460b28e57efd5593bb71.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/09/4abab3bab05a917ad606278881c862ee.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/09/08a9c5a3dbb7e7f61df880ef9a660698.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/09/5a367bf277ce9ba3a71d6fc33baff38b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/09/629353409823fdd7e38e6b848c13d47d.jpeg'],
+ 'price': '17.990.000',
+ 'seller': {'address': 'dothogosondong@gmail.com',
+            'date': '27-09-2016',
+            'name': 'Đồ thờ tượng phật Xuân Thắng',
+            'phone': '0932755666'},
+ 'tags': ['Hà Nội',
+          'Huyện Hoài Đức',
+          'Khác',
+          'Thú nuôi',
+          'hoành phi câu đối',
+          ' hoành phi câu đối gỗ',
+          ' hoành phi câu đối bằng gỗ đẹp']}

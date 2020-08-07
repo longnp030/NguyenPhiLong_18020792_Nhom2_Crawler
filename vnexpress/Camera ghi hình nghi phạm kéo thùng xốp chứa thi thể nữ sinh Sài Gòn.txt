@@ -1,0 +1,58 @@
+{'author': 'Duy Trần',
+ 'categories': ['Pháp luật'],
+ 'content': 'Ngày 14/1, anh Nguyễn Văn Sửu - nhân viên bảo vệ chung cư trên '
+            'đường Nguyễn Văn Công (quận Gò Vấp) - nói vẫn chưa hết bàng hoàng '
+            'về việc phát hiện thi thể Thu (nữ sinh lớp 9) trong thùng xốp do '
+            'nghi phạm Nguyễn Phạm Quốc Bình (16 tuổi) định đưa đi phi tang. '
+            'Anh cho biết, đầu giờ chiều 13/1 được trung tâm an ninh của chung '
+            'cư báo "camera ghi hình người lạ đang vận chuyển thùng xốp khả '
+            'nghi tại hàng lang lầu 5", Sửu và đồng nghiệp lên xem. Họ thấy '
+            'nam thanh niên mập mạp, đeo kính cận, đang cố di chuyển chiếc '
+            'thùng lớn, cao khoảng một mét, đến thang máy. "Tôi hỏi trong '
+            'thùng có gì thì cậu ta bảo sống tại chung cư, đưa đồ thừa đi đốt '
+            'và đã xin phép ban quản lý. Theo quy định, chung cư sẽ cấp giấy '
+            'xác nhận nên tôi hỏi giấy đó đâu. Anh ta tỏ ra lúng túng, nói '
+            'không mang theo", nam bảo vệ kể. Nghi người này vận chuyển đồ '
+            'trộm cắp của cư dân, anh Sửu lập tức báo ban quản lý. Nam thanh '
+            'niên đi lại quanh quẩn, nói sẽ gọi điện cho người thân. "Cậu ta '
+            'sau đó đi nhanh khỏi hiện trường. Thùng xốp được bỏ lại gồm 2 cái '
+            'úp lên nhau, dán băng keo chặt xung quanh", anh Sửu mô tả. Được '
+            'báo sự việc, ông Vũ Hùng Cường – Quản lý chung cư – đến kiểm tra. '
+            '"Thùng đó trông khác thường, bốc mùi tanh nên ban đầu tôi tưởng '
+            'người trong chung cư lưu trữ cá hay hải sản gì đó. Do chủ thùng '
+            'bỏ đi nên tôi báo cảnh sát khu vực", ông Cường cho hay. Khi lực '
+            'lượng chức năng đến, ông Cường soi đèn pin còn bảo vệ dùng dao '
+            'rạch lớp băng keo. Họ hoảng hốt khi thấy thi thể cô gái bên '
+            'trong. Camera an ninh trong chung cư và quanh khu vực cho thấy '
+            'Bình chở Thu vào tầng hầm gửi xe trước đó một ngày. Trưa hôm qua '
+            'cậu ta trở lại với 2 thùng xốp, đi về khu vực cửa thoát hiểm. Sau '
+            'đó, thùng xốp được nam sinh đẩy ra với vẻ khó khăn. Một người đi '
+            'cùng Bình đến chung cư để vận chuyển thùng xốp cũng được camera '
+            'ghi lại. Anh này được xác định là lái xe ba gác, lúc bảo vệ phát '
+            'hiện vụ việc anh này đứng dưới chung cư rồi bỏ đi sau đó. Nạn '
+            'nhân và nghi phạm học cùng trường, thường xuyên cùng bạn bè đến '
+            'khuôn viên chung cư chơi đùa. "Dù không biết tên nhưng tôi đều '
+            'quen mặt, các em đều ngoan hiền cả", ông Cường nói. Bình bị cảnh '
+            'sát bắt sau đó. Nam sinh được đưa đến hiện trường lại để phục vụ '
+            'điều tra. Khai với Công an quận Gò Vấp, Bình cho biết vì muốn '
+            'chiếm đoạt điện thoại của Thu nên rủ lên sân thượng chung cư '
+            'chơi, để ra tay. Cả hai đi bằng cầu thang bộ rất tối, vắng. Đến '
+            'tầng 6, thấy Thu cầm điện thoại bấm, Bình giật lấy nhưng bị chống '
+            'cự nên lấy cây chống cửa thoát hiểm (bằng đá granite) ở gần đó '
+            'đánh liên tiếp vào đầu khiến nạn nhân tử vong. Sau khi bỏ đi với '
+            'điện thoại và 500.000 đồng của Thu, hôm sau Bình quay lại bỏ xác '
+            'nạn nhân vào thùng xốp, thuê xe ba gác chở đi phi tang thì bị '
+            'phát hiện. "Vụ án rất đau lòng, hành vi của nghi phạm nếu đúng '
+            'như lời khai ban đầu thì quá man rợ dù cậu ta chưa tròn 16 tuổi. '
+            'Cũng nhờ lực lượng bảo vệ của chung cư đã phát hiện, nhờ hệ thống '
+            'camera giám sát ở đây mà cơ quan điều tra nhận diện chính xác và '
+            'tìm ra nghi phạm nhanh chóng", lãnh đạo Công an quận Gò Vấp nói. '
+            '* Tên nạn nhân đã thay đổi.',
+ 'datetime': 'Thứ bảy, 14/1/2017, 15:59 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2017/01/14/nghi-can-8471-1484377779.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=Rc0Nn_Mjr2o958xXov5EeA',
+                  'https://i1-vnexpress.vnecdn.net/2017/01/14/thung-xop-3984-1484377779.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=AtRcw0IYrw_ng8zKpbnj-w'],
+ 'tags': ['nữ sinh bị giết bỏ thùng xốp',
+          'thi thể nữ sinh trong chung cư',
+          'nam sinh giết bạn'],
+ 'title': 'Camera ghi hình nghi phạm kéo thùng xốp chứa thi thể nữ sinh Sài '
+          'Gòn'}

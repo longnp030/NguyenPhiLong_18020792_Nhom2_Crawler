@@ -1,0 +1,14 @@
+{'author': 'M.T.',
+ 'categories': ['Khoa học'],
+ 'content': 'Hãng sản xuất Atech Flash Technology cho biết thiết bị mang tên '
+            'iCarta được thiết kế để "tăng cường cảm xúc của bạn trong căn '
+            'phòng nhỏ nhất". Thiết bị trị giá khoảng 50 bảng Anh, kết hợp bệ '
+            'cắm iPod với thanh cuộn giấy vệ sinh. Thiết bị cung cấp âm thanh '
+            'chất lượng cao từ chiếc loa chống ẩm. Nó cũng nạp điện cho iPod '
+            'khi đang chơi nhạc theo chương trình cài sẵn hay bật ngẫu hứng. '
+            'iCarta được coi là một trong những phụ kiện iPod lạ lùng nhất từ '
+            'trước tới nay. (theo Ananova )',
+ 'datetime': 'Thứ sáu, 16/6/2006, 10:03 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Công nghệ nghe nhạc trong toilet'}

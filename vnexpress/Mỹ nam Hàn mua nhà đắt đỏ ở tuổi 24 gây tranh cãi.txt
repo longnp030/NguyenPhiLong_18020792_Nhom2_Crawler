@@ -1,0 +1,56 @@
+{'author': 'Thanh Cao',
+ 'categories': ['Giải trí', 'Giới sao', 'Quốc tế'],
+ 'content': '* Toàn cảnh một căn hộ tại khu Seongsu-dong cao cấp Căn hộ này '
+            'được giới nhà giàu chọn mua vì chỉ cách Gangnam, Gangbuk 30 phút '
+            'chạy xe và có phong cách phục vụ chuyên nghiệp như khách sạn. Bữa '
+            'sáng được chuẩn bị bởi nhà hàng buffet. Cư dân có thể gọi đặt các '
+            'món yêu thích và có người đem đến tận nhà. Tại đây còn có dịch vụ '
+            'dọn phòng và đậu xe. Thông tin trên khiến nhiều người Hàn bất ngờ '
+            'bởi loạt sao tậu được nhà tại Seongsu-dong đều đã thành danh, có '
+            'hơn 10 năm hoạt động nghệ thuật như Eunhyuk, Leeteuk, Kim Heechul '
+            '(nhóm Super Junior), Han Eun Jung, bình luận viên Oh Jeong '
+            'Yeon... Trong khi ấy, Seo Kang Joon vẫn là diễn viên tiềm năng, '
+            'mới gây chú ý khoảng ba năm trở lại đây và cát-xê nhận được ở mức '
+            'trung bình khá. Trước đó, vào tháng 12/2016, mỹ nam Kim Jae Joong '
+            '(nhóm JY J) bỏ ra 2,1 tỷ won (khoảng 42 tỷ đồng) để mua căn hộ có '
+            'diện tích 184 mét vuông tại đây. Trên Daum và các diễn đàn lớn xứ '
+            'Hàn, nhiều người nhận định tài tử sinh năm 1993 vẫn chưa đủ khả '
+            'năng kiếm nhiều tiền như vậy trong thời gian ngắn. Dưới bài viết '
+            'trên Nate nổ ra nhiều tranh cãi việc Seo Kang Joon mua được nhà ở '
+            'tuổi 24 dù không phải diễn viên hạng A . Có ý kiến cho rằng: "Kim '
+            'Jae Joong mua được thì tôi có thể hiểu nhưng Seo Kang Joon đã đủ '
+            'khả năng rồi ư?". "Anh ta làm thế nào có được chừng ấy tiền vậy? '
+            'Anh ta đã làm gì?". Một số khác nói: "Một căn hộ cao cấp ở tuổi '
+            'của Seo Kang Joon đến bác sĩ cũng chẳng mua nổi". "Anh ta toàn '
+            "thủ vai phụ, chỉ mới đóng vai chính một phim nhưng lại là 'bom "
+            "xịt', đến quảng cáo cũng làng nhàng, vậy tiền đâu ra để anh ta "
+            'mua nhà?. "Các nghệ sĩ nổi tiếng phải mất chục năm mới mơ đến '
+            'việc sở hữu một căn hộ ở khu nhà giàu, còn Kang Joon chỉ mất ba '
+            'năm, thật khó tin", độc giả khác viết... Hiện Seo Kang Joon chưa '
+            'lên tiếng về những tranh cãi quanh việc mua nhà. Seo Kang Joon '
+            'đóng phim từ năm 2012, chủ yếu đóng vai phụ và được mệnh danh là '
+            'mỹ nam mắt nâu quyến rũ của Hàn Quốc. Anh hoạt động chung nhóm '
+            '5urprise - cùng Kang Tae Oh của phim Tuổi thanh xuân . 5urprise '
+            'đặt mục tiêu trở thành nghệ sĩ đa năng, từ diễn xuất đến ca '
+            'nhạc.... Sau một vài vai diễn mờ nhạt, năm 2014, anh nổi tiếng '
+            'hơn nhờ chương trình thực tế Roommate. Khuôn mặt sáng, làn da '
+            'trắng và tính cách điềm đạm của anh gây ấn tượng. Thời điểm ấy, '
+            'Kang Joon và bốn thành viên còn lại phải sống chung trong một căn '
+            'phòng nhỏ, thường ăn mì tôm qua bữa và luôn mơ ước được ăn thịt. '
+            'Cuộc sống kham khổ của những thanh niên đang độ tuổi 19-20 được '
+            'phát sóng trên truyền hình dấy lên sự đồng cảm. * Seo Kang Joon '
+            'trổ tài chơi piano trong Roommate Nhờ hiệu ứng tốt từ Roommate, n '
+            'ăm 2015, Seo Kang Joon tạo dấu ấn khi đảm nhận vai nam thứ trong '
+            'Bẫy tình yêu . M ột năm sau đó, anh nhận vai chính đầu tiên trong '
+            'sự nghiệp. Trong Entourage, anh vào vai diễn viên nổi tiếng và '
+            'điển trai. Tuy nhiên, tác phẩm lại trở thành "bom xịt", thất bại '
+            "về tỷ lệ người xem. * Seo Kang Joon trong phim 'Bẫy tình yêu' Anh "
+            'được mời đóng một số CF quảng cáo nhờ hình tượng sạch. Sắp tới, '
+            'anh đóng chính trong Are You Human Too? - \xa0vai một tài phiệt '
+            'bị hôn mê sâu.',
+ 'datetime': 'Thứ tư, 30/8/2017, 08:01 (GMT+7)',
+ 'paths_to_img': ['https://i1-giaitri.vnecdn.net/2017/08/29/1-9086-1504024462.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=6Q4LJefNNXYc_ScHkUbPBg',
+                  'https://i1-giaitri.vnecdn.net/2017/08/29/edd-4316-1504024462.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=SuET-9YJFhHYpkhDWphG_w',
+                  'https://i1-giaitri.vnecdn.net/2017/08/29/seo-kang-joon-lee-ho-jung-high-8015-7874-1504024462.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=lAFAjYMB8qNPqxUuABs3-Q'],
+ 'tags': ['seo kang joon', 'romate', 'bẫy tình yêu'],
+ 'title': 'Mỹ nam Hàn mua nhà đắt đỏ ở tuổi 24 gây tranh cãi'}

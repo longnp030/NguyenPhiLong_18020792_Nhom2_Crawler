@@ -1,0 +1,58 @@
+{'author': 'Huyền Lê',
+ 'categories': ['Thế giới'],
+ 'content': 'Cảnh sát Hong Kong xác nhận hai cảnh sát giao thông phải bắn ba '
+            'phát đạn để ngăn người biểu tình chặn một lối sang đường ở khu '
+            'Sai Wan Ho, quận Đông sáng nay. Cảnh sát nói rằng vài người biểu '
+            'tình cố cướp súng của một cảnh sát nên anh đã bắn để cảnh cáo, '
+            'song viên đạn trúng vào một người biểu tình. Những người khác sau '
+            'đó cố xông tới để giúp người biểu tình bị bắn, buộc cảnh sát phải '
+            'nổ thêm hai phát đạn. Hai người biểu tình bị bắt tại hiện trường. '
+            'Cảnh sát nói rằng viên sĩ quan không định làm ai bị thương, nhưng '
+            'buộc phải nổ súng vì bị đe dọa tính mạng. Người trúng đạn hiện '
+            'trong tình trạng ổn định sau ca phẫu thuật. Theo tờ Global Times '
+            'của Trung Quốc, những người biểu tình mặc đồ màu đen tổ chức tổng '
+            'đình công trên toàn Hong Kong và lên kế hoạch cản trở giao thông '
+            'từ sáng sớm. Họ ném các mảnh vỡ từ một cây cầu ở ngã ba, đốt lửa '
+            'trên đường phố, trong ga tàu điện ngầm, ném bom xăng vào xe buýt '
+            'trường học và "tấn công dân thường". Nhiều tuyến tàu phải tạm '
+            'dừng hoạt động và một số trường đại học phải cho sinh viên nghỉ '
+            'vì đình trệ giao thông nghiêm trọng. Vụ nổ súng khiến người biểu '
+            'tình phẫn nộ, kéo đến tập trung ở\xa0Sai Wan Ho. Đám đông đứng '
+            'quanh khu vực hiện trường được phong tỏa để la hét cảnh sát.\xa0'
+            'Người biểu tình mặc áo đen sau đó diễu hành qua khu Central, cạy '
+            'gạch trên đường phố tấn công cảnh sát. Cảnh sát phải bắn hơi cay '
+            'để giải tán đám đông. Tại ga tàu điện ngầm Ma On Shan ở quận Sha '
+            'Tin trưa nay,\xa0một người đàn ông chưa rõ danh tính chỉ trích '
+            'đám đông biểu tình.\xa0Theo video của Global Times,\xa0người này '
+            'hét lên với đám đông, sau đó một người trong đám đông biểu tình '
+            'bất thình lình tiến lại gần người đàn ông này, đổ chất lỏng dễ '
+            'cháy lên người ông và dùng bật lửa đốt. Người đàn ông lập tức '
+            'chìm trong ngọn lửa dữ dội, la hét và bỏ chạy. Không rõ ngọn lửa '
+            'kéo dài bao lâu thì được dập tắt. Một đoạn video khác cho thấy '
+            'người đàn ông đang đứng và có vẻ choáng váng. Ông cởi trần và bị '
+            'bỏng khắp cơ thể. Nạn nhân được đưa đi cấp cứu tại bệnh viện '
+            'Prince of Wales ở quận Sha Tin và hiện trong tình trạng nguy '
+            'kịch. Một nguồn tin cảnh sát Hong Kong nói rằng họ đang điều tra '
+            'sự cố. Cảnh sát đã bắt 266 người trong độ tuổi từ 11 đến 74 trong '
+            'các cuộc biểu tình hôm nay. Một số người bị buộc tội tụ tập bất '
+            'hợp pháp, phá hoại tài sản, tấn công cảnh sát và có ý định giết '
+            'người. Người biểu tình đã đập phá và chặn các tuyến đường tại 120 '
+            'địa điểm trên toàn thành phố. Hiện chưa rõ số người tham gia biểu '
+            'tình hôm nay. Hàng trăm nghìn người Hong Kong đã xuống đường biểu '
+            'tình từ đầu tháng 6 để phản đối dự luật dẫn độ cho phép đưa tội '
+            'phạm đến các khu vực tài phán mà đặc khu chưa ký hiệp ước dẫn độ, '
+            'bao gồm cả Trung Quốc đại lục. Dù chính quyền đặc khu tuyên bố '
+            'rút dự luật, người biểu tình vẫn xuống đường do lo ngại các quyền '
+            'tự do của Hong Kong bị can thiệp và đòi các yêu sách khác. Số '
+            'liệu sơ bộ do chính quyền Hong Kong công bố cho thấy biểu tình '
+            'khiến đặc khu lần đầu rơi vào suy thoái kỷ lục kể từ cuộc khủng '
+            'hoảng tài chính toàn cầu năm 2008. (Theo CNN , Global Times, SCMP '
+            ')',
+ 'datetime': 'Thứ hai, 11/11/2019, 16:52 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2019/11/11/canh-sat-hong-kong-8527-1573466603.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=9s0pH_WGDMy_GASkrClmUw'],
+ 'tags': ['hong kong',
+          'biểu tình ở hong kong',
+          'người biểu tình hong kong',
+          'cảnh sát hong kong',
+          'người đàn ông bị thiêu trong biểu tình hong kong'],
+ 'title': 'Cảnh sát Hong Kong nổ súng khi đụng độ người biểu tình'}

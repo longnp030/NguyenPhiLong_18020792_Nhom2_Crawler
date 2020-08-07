@@ -1,0 +1,34 @@
+{'description': 'Thịt trâu gác bếp Điện Biên hay còn gọi thịt trâu sấy khô là '
+                'món ăn phổ biến cũng là đặc sản của người dân tộc Thái ở Tây '
+                'Bắc. Nếu ai được một lần có dịp thưởng thức món Thịt trâu gác '
+                'bếp Điện Biên sấy khô trên bếp củi sẽ không thể nào quên cái '
+                'hương vị thơm ngon là lạ của từng thớ thịt. Núi rừng Tây Bắc '
+                'được thiên nhiên ban tặng vô vàn những sản vật vừa ngon vừa '
+                'lạ, với bàn tay khéo léo mang đậm hương vị Tây Bắc. Với những '
+                'ai có dịp ghé thăm vùng Tây Bắc sẽ không thể nào quên được '
+                'hương vị của món thịt trâu gác bếp được chế biến kỳ công theo '
+                'phương thức truyền thống, hay hương vị của  hạt Mắc Khén, Hạt '
+                'Dổi hay mùi thơm của Thảo Quả khi nướng trên than hồng hay '
+                'hương vị lạ lẫm mà thân quen của bát nước chấm Chẩm Chéo khi '
+                'có dịp may thưởng thức bữa cơm của người dân tộc Thái… Đó '
+                'chính là linh hồn của ẩm thực Tây Bắc. Bếp Tây Bắc hân hạnh '
+                'phục vụ Đặc Sản Tây Bắc tại Hà Nội, giao hàng trong nội '
+                'thành...',
+ 'name': 'Thịt trâu gác bếp Điện Biên tại Hà Nội',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/28/ff48f66878d033ed4bd546127c321b4a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/28/1705a12cd492606ee4ac53fc98ac3e76.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/28/06d6dcb5aa5cf263e980073d86c90d5d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/28/a173991362da2fead624414f721e9e45.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/28/39b2e72542aedbd3b755167132a2da8b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/28/b722ce59b85c0d6792ee27a877f2b21a.jpeg'],
+ 'price': '450.000',
+ 'seller': {'address': 'beptaybac.com@gmail.com',
+            'date': '28-05-2020',
+            'name': 'Bếp Tây Bắc',
+            'phone': '0933363386'},
+ 'tags': ['Hà Nội',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'thịt trâu gác bếp Điện Biên',
+          ' thịt trâu gác bếp',
+          ' thịt trâu sấy khô']}

@@ -1,0 +1,31 @@
+{'description': '#ST24 GẠO THƠM SIÊU CẤP VÔ ĐỊCH⁉️ Nổi danh là giống gạo mềm '
+                'dẻo chất lượng cao của gia đình gạo A An, gạo ST24 còn khiến '
+                'nhà nhà mê mẩn bởi hương thơm ngất ngây ngay khi vừa khui túi '
+                'gạo. Mùi thơm lá dứa đặc trưng đốn tim người nội trợ trong '
+                'vòng một nốt nhạc. Hương lá dứa dịu nhẹ phảng phất ấy không '
+                'đến từ hương liệu hay chất tạo mùi, mà là một đặc tính của '
+                'giống lúa ST24. Nhờ vào tính năng ấy, gạo ST24 của Kỹ sư Hồ '
+                'Quang Cua và 2 đồng sự đã được vinh danh là "TOP 3 GẠO NGON '
+                'THẾ GIỚI" năm 2016. Nhờ tác dụng của nhiệt độ cao, mùi hương '
+                'càng tròn vẹn hơn sau khi nấu. Chỉ cần mở nắp nồi ra đã ngửi '
+                'thấy mùi cơm thơm ngon kích thích vị giác, hạt cơm trắng '
+                'ngần, rất dẻo và mềm cơm. Khách hàng nhà A An dù rất kỹ tính, '
+                'cầu kỳ về khẩu vị ăn uống cũng đã bị ST24 chinh phục ngay sau '
+                'lần đầu tiên ăn thử. Hoàn toàn xứng danh TOP 3 GẠO NGON THẾ '
+                'GIỚI. MIẾN SHIP GIAO HÀNG TẬN NƠI KHU VỰC NỘI THÀNH HÀ NỘI VÀ '
+                'DỊCH VỤ CHĂM SÓC KHÁCH HÀNG XUYÊN SUỐT TRONG QUÁ TRÌNH SỬ '
+                'DỤNG.',
+ 'name': 'Gạo ST24 ngon',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/15/ecbd890598b9cf94522116efb570d767.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/15/584baf47c830fbc56d9e4ae85826e87c.jpeg'],
+ 'price': '229.000',
+ 'seller': {'address': '48 Lê Văn Lương - Thanh Xuân - Hà Nội',
+            'date': '15-06-2020',
+            'name': 'lehoa0905',
+            'phone': '0917090590'},
+ 'tags': ['Hà Nội',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Gạo ST24',
+          ' gạo ST21',
+          ' Gạo ngon chuẩn ngạo']}

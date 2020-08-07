@@ -1,0 +1,13 @@
+{'author': 'Minh Châu',
+ 'categories': ['Thế giới'],
+ 'content': 'Thông tin này do các quan chức Hàn Quốc giấu tên cung cấp. Trước '
+            'đó, một phát ngôn viên của Đại sứ quán Mỹ từ chối bình luận về '
+            'thông tin do báo chí Nhật đăng tải là 3 người nọ đã tới Singapore '
+            'hôm nay để chuẩn bị tới Hàn Quốc. Hồi cuối tuần, 2 người CHDCND '
+            'Triều Tiên khác đã vào Đại sứ quán Canada ở Bắc Kinh và hiện vẫn '
+            'còn ở đó. Thương thuyết hôm nay giữa Trung Quốc và Canada về vấn '
+            'đề này đã đạt được một số tiến bộ. (theo Reuters )',
+ 'datetime': 'Thứ ba, 14/5/2002, 15:34 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': '3 người Triều Tiên đột nhập LSQ Mỹ được đưa tới Hàn Quốc'}

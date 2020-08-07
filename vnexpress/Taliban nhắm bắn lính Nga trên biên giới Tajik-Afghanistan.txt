@@ -1,0 +1,14 @@
+{'author': 'H.F.',
+ 'categories': ['Thế giới'],
+ 'content': 'Phía Nga không bắn trả. Hiện tại, 11.000 lính Nga đang đóng tại '
+            'Tajikistan để giúp bảo vệ đường biên giới Tajik-Afghanistan dài '
+            '1.200 km, theo một thoả thuận đặc biệt giữa Matxcơva và Dushanbe. '
+            'Ngoài ra, Kremlin cũng gửi thêm một sư đoàn gồm 7.000 quân tinh '
+            'nhuệ tới đất nước Trung Á này. Trong khi cuộc chiến của Mỹ chống '
+            'Taliban và Al-Qaeda đang hết sức nóng bỏng, Tajikistan - giáp '
+            'giới với Afghanistan về phía đông bắc - có một vị trí vô cùng '
+            'quan trọng. (theo AFP )',
+ 'datetime': 'Thứ năm, 8/11/2001, 09:09 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Taliban nhắm bắn lính Nga trên biên giới Tajik-Afghanistan'}

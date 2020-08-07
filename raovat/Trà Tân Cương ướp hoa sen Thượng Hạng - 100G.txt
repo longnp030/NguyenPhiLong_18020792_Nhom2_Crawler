@@ -1,0 +1,25 @@
+{'description': 'Hạn sử dụng : 1 năm kể từ ngày sản xuất 100gram trà tân cương '
+                'thái nguyên loại móc câu 1 tôm 1 lá của công ty Tân Cương '
+                'Xanh chúng tôi ướp với Hoa Sen gồm nhụy sen và gạo sen tự '
+                'nhiên . Sản phẩm thơm ngon này của Tân Cương Xanh không chỉ '
+                'thơm ngon nên được lựa chọn không thể thiếu của các đối tác , '
+                'các cơ quan nhà nước và sản phẩm chính xuất khẩu của công ty '
+                'chúng tôi - Do sản phẩm được ướp hoa sen tự nhiên nên khi '
+                'thưởng thức quý khách sẽ cảm nhận được hương thơm tinh khiết '
+                'của sen tươi - Sản phẩm được làm bằng trà tân cương móc câu '
+                'nên giữ được hương vị tiền chát hậu ngọt nổi tiếng Lưu ý : '
+                'Qúy khách không nên dùng nước pha là nước máy , trong nước '
+                'máy có Clo sẽ khử mùi thơm của trà. Qúy khách có thể dùng '
+                'nước khoáng đóng chai , ngon nhất là dùng nước mưa',
+ 'name': 'Trà Tân Cương ướp hoa sen Thượng Hạng - 100G',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/02/c20e1c446ec2a311cd9f70b09add7daa.jpeg'],
+ 'price': '55.000',
+ 'seller': {'address': 'Số 2, Ngõ 31/26 Trần Quốc Hoàn, Cầu Giấy, Hà Nội',
+            'date': '13-03-2020',
+            'name': 'Tcx001',
+            'phone': '0946821287'},
+ 'tags': ['Hà Nội',
+          'Quận Cầu Giấy',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Trà Tân Cương']}

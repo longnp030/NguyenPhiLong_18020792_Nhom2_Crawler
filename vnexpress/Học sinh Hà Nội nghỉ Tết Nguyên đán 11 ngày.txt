@@ -1,0 +1,14 @@
+{'author': 'Tiến Dũng',
+ 'categories': ['Giáo dục'],
+ 'content': 'Theo bà Bích, do không phải học thứ 7 nên thực tế học sinh tiểu '
+            'học được nghỉ 7 ngày, còn bậc THCS, THPT, GDTX được nghỉ 9 ngày. '
+            'Thứ hai ngày 22/2 học sinh trở lại trường. Lý giải việc cho học '
+            'sinh nghỉ dài hơn năm ngoái, lãnh đạo Sở cho hay, năm học này Hà '
+            'Nội triển khai học sớm 2 tuần (từ ngày 17/8). Năm 2009, năm đầu '
+            'tiên áp dụng chủ trương tăng nghỉ Tết, giảm nghỉ hè, học sinh Hà '
+            'Nội được nghỉ Tết 10 ngày (từ 28 tháng Chạp đến mùng 7 tháng '
+            'Giêng).',
+ 'datetime': 'Thứ hai, 4/1/2010, 11:15 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Học sinh Hà Nội nghỉ Tết Nguyên đán 11 ngày'}

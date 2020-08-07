@@ -1,0 +1,14 @@
+{'description': 'WIRKON (Diệt khuẩn, xử lý nước) - Đặc điểm: Dạng bột màu hồng '
+                'nhạt. - Công dụng: + Sát trùng nước và xử lý nước trong ao '
+                'nuôi tôm cá. + Tiêu diệt vi khuẩn, virus, nấm... + Quy cách: '
+                '5 kg/xô (Thùng 4 xô). - Xuất xứ: Trung Quốc',
+ 'name': 'Winkon xử lý nước, diệt khuẩn',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/03/04/33409d88ec55b9b712e053c1b6796114.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'CÔNG TY TNHH XNK AGRIVINA Địa chỉ: 383 Nguyễn Duy '
+                       'Trinh, phường Bình trưng Tây, quận 2, TPHCM Web: '
+                       'nongngiepviet.com.vn',
+            'date': '14-08-2019',
+            'name': 'bảo trâm',
+            'phone': '0918310303'},
+ 'tags': ['Khác', 'Thú nuôi', 'winkon; xử lí nước', ' diệt khuẩn']}

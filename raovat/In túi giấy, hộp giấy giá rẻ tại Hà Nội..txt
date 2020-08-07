@@ -1,0 +1,19 @@
+{'description': '\uf0fc Để có được mỗi sản phẩm ưng ý đến với khách hàng đó là '
+                'cả một sự lỗ lực k ngừng nghỉ,1 tình yêu, niềm tâm huyết với '
+                'nghề của toàn thể nhân viên công ty IN BẢO AN. Với phương '
+                'châm UY TÍN ,CHẤT LƯỢNG. IN BẢO AN cam kết sẽ mang đến cho '
+                'bạn những sản phẩm tốt nhất, chất lượng nhất. Liên hệ với '
+                'chúng tôi: Công ty In Bảo An ; Địa chỉ: số 32 ngõ Thái '
+                'Hà-Đống Đa- Hà Nội. Hotline: 0969 953 527 Instagram: '
+                'https://www.instagram.com/ Hoặc truy cập website: '
+                'https://inbaoan.vn/',
+ 'name': 'In túi giấy, hộp giấy giá rẻ tại Hà Nội.',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/23/d6f8454d9dd8ec17e63d5ebfc16a7e75.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/1a8df5ae8b88f43384d3eec5d502b462.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/0dcc405064af04d8191ebd704e2e2bc8.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '22-07-2020',
+            'name': 'hk0246226',
+            'phone': None},
+ 'tags': ['Dịch vụ', 'Tìm đối tác']}

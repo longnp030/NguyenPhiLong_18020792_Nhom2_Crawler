@@ -1,0 +1,33 @@
+{'description': 'Các sản phẩm thùng nhựa công nghiệp của công ty Phước Đạt '
+                'được sản xuất trên quy trình công nghệ tiên tiến, sản phẩm '
+                'được sản xuất bằng nhựa nguyên sinh có chất UV chống tia cực '
+                'tím. -\tGiao hàng tận nơi, giấy tờ - thủ tục mua bán nhanh '
+                'gọn, -\tChất lượng sản phẩm đảm bảo uy tín, -\tGiá thành sản '
+                'phẩm hợp lí. Hotline/Zalo: 096 7788 450 Ms Ngọc Các kích '
+                'thước thùng nhựa công nghiệp thùng chữ nhật (Loại 1 lớp - 2 '
+                'lớp) +Thùng nhựa chữ nhật 2000l (1800 x 1400 x 1000 mm) '
+                '+Thùng nhựa chữ nhật 1100l (2060 x 1050 x 670 mm) +Thùng nhựa '
+                'chữ nhật 1000l (2150 x 1160 x 510 mm) +Thùng nhựa chữ nhật '
+                '750l (1510 x 1100 x 720 mm) +Thùng nhựa chữ nhật 500l (1320 x '
+                '950 x 660 mm) +Thùng nhựa chữ nhật 300l (1050x 840x 410 mm) '
+                '+Thùng nhựa chữ nhật 200l (910 x 760 x 410 mm) +Thùng nhựa '
+                'chữ nhật 100l (850 x 650 x 310 mm) +Thùng nhựa chữ nhật 50l '
+                '(670 x 510 x 260 mm) Công ty TNHH XNK TM DV Phước Đạt ĐC: '
+                '35-36 Đg DD6, Chợ An Sương, P.Tân Hưng Thuận, Q12, Tp.HCM '
+                'Hotline/zalo: 096 7788 450 Ms Ngọc',
+ 'name': 'Thùng nhựa nuôi cá cảnh các loại 1100 lít',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/03/17/52c2a2bd4cfa6c3f7793bbe5f8e700bc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/17/9ea064c4d7ca1012ec0fab99fb6bdeec.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/17/4f3b9690dda5ba1c92dd05b8773925cf.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/17/189183fc4204e8d3d93c2fe07158916b.jpeg'],
+ 'price': '1.200.000',
+ 'seller': {'address': 'phuocdat8@gmail.com',
+            'date': '21-06-2017',
+            'name': 'Kim Ngọc',
+            'phone': '0967788450'},
+ 'tags': ['Bình Dương',
+          'Khác',
+          'Thú nuôi',
+          'thùng nhựa nuôi cá',
+          ' thùng chữ nhật trồng rau',
+          ' thùng nhựa chứa nước']}

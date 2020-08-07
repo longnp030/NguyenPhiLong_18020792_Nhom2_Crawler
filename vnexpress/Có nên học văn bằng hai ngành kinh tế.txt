@@ -1,0 +1,13 @@
+{'author': 'Hoàng Quốc Việt',
+ 'categories': ['Giáo dục', 'Tư vấn'],
+ 'content': 'Em vốn là sinh viên Địa chất nhưng khi ra trường không xin được '
+            'việc đúng ngành đào tạo. 2 năm qua em phải làm sale mà ở quê công '
+            'việc này không phát triển lắm. Em đang phân vân có nên học văn '
+            'bằng hai Kinh tế hoặc một ngành nào đó để có cơ hội việc làm tốt '
+            'hơn. Mong mọi người tư vấn giúp em, nên làm sale tiếp hay đi học? '
+            'Nếu học văn bằng hai, em nên chọn ngành nào để sau khi ra trường '
+            'dễ xin việc? Em cảm ơn.',
+ 'datetime': 'Thứ tư, 10/12/2014, 07:00 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': ['học văn bằng 2', 'học đại học', 'ngành kinh tế'],
+ 'title': 'Có nên học văn bằng hai ngành kinh tế'}

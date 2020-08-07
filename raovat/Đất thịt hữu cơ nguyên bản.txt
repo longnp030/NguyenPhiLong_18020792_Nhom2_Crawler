@@ -1,0 +1,26 @@
+{'description': 'Đất thịt hữu cơ nguyên bản là gì? Đất hay là lớp ngay phía '
+                'dưới lớp thực vật bề mặt, có màu sẫm, giàu mùn, khoáng và là '
+                'môi trường sinh trưởng phát triển tốt nhất cho thực vật cùng '
+                'các vi sinh vật trong nó. Được chia ra thành nhiều loại, có '
+                'loại chứa nhiều cát, cấu trúc rời rạc, lỏng lẻo thoát nước '
+                'nhanh. Có loại nhiều sét, cấu trúc dẻo, dính, thoát nước kém. '
+                'Còn có loại cân bằng giữa cát và sét trong đất, người ta gọi '
+                'đó là đất lý tưởng. Tại sao nên sử dụng đất thịt hữu cơ '
+                'nguyên bản để trồng rau màu, hoa cảnh? Do cấu trúc hoàn hảo '
+                'trong việc GIỮ LIÊN KẾT VỚI RỄ CÂY, các giá thể trồng cây nói '
+                'chung nếu không có nó sẽ khó giữ gốc và rễ cây vững chắc. Là '
+                'môi trường bền vững, có thể DÙNG VĨNH VIỄN, chỉ cần biết cách '
+                'cải tạo và bảo vệ bạn sẽ có luôn luôn có một môi '
+                'http://vuonsanthuong.com/vat-tu-huu-co/dat-lam-vuon/dat-thit-huu-co-nguyen-ban.html '
+                '#0932115036',
+ 'name': 'Đất thịt hữu cơ nguyên bản',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/06/26/700ee474fb528e86c6f71f11fef1230b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/26/e7fbd1f9dc0849672ea76890c5736c68.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/26/b56cf9697a4ad8ba2f50013171a04ddc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/26/bcfba8972f7b46447b9186d4ce7b15cd.jpeg'],
+ 'price': '35.000',
+ 'seller': {'address': 'thinhandd17b2@gmail.com',
+            'date': '27-12-2018',
+            'name': 'trần nhân',
+            'phone': '0932115036'},
+ 'tags': ['TP Hồ Chí Minh', 'Khác', 'Cây cảnh']}

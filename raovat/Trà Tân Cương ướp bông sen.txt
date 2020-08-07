@@ -1,0 +1,12 @@
+{'description': 'Trà Ướp Bông Sen Đơn giá : 50 000 VNĐ/1 Bông Có rất nhiều '
+                'loại chè có thể ướp với hoa sen, tuy nhiên, ngHqfJdQLL83I '
+                'Hotline Tân Cương Xanh Hotline: 0912 74 1357 - 0983 412 602',
+ 'name': 'Trà Tân Cương ướp bông sen',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/02/ab646c6e3db7370ba17aecccc0126b21.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/02/601c623e61f8e869c344f77eed3e68bb.jpeg'],
+ 'price': '50.000',
+ 'seller': {'address': 'Số 2 Ngõ 31/26 Trần Quốc Hoàn , Cầu Giấy, Hà Nội.',
+            'date': '10-03-2020',
+            'name': 'Như Quỳnh',
+            'phone': '0333916204'},
+ 'tags': ['Ẩm thực, du lịch', 'Ẩm thực', 'trà ướp sen']}

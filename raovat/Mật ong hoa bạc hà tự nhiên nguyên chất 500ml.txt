@@ -1,0 +1,36 @@
+{'description': 'Mật Ong Hoa Bạc Hà một đặc sản nổi tiếng của vùng cao nguyên '
+                'đá Đồng Văn Hà Giang. Được tạo ra từ giống Ong Nội hút mật '
+                'của loài hoa dại mang tên Hoa Bạc Hà chỉ có ở vùng cao nguyên '
+                'đá Đồng Văn, Hà Giang. Có màu vàng chanh, hơi xanh, vị thơm '
+                'thanh mát không nóng là một tặng phẩm của thiên nhiên dành '
+                'cho sức khỏe và sắc đẹp của con người. Nếu bạn đến Hà Giang '
+                'vào cuối thu đầu đông, bạn sẽ thấy có một loại hoa dại có '
+                'thân thảo, cao khoảng 40-60 cm, hoa có màu tím, hoa nở khoảng '
+                'cuối tháng 10 và nở rộ vào tháng 11 – 12 dương lịch hàng năm, '
+                'đó chính là cây hoa bạc hà dại. Chính vì là loại cây mọc dại '
+                'lên sản lượng Mật Hoa Bạc Hà thu được hàng năm không nhiều. '
+                'Thế nhưng bù lại do sống trong điều kiện tự nhiên khắc nhiệt '
+                'lên mật bạc hà có mùi hương rất riêng, sánh đặc và ngọt mát. '
+                'Do vậy, Mật Ong Hoa Bạc Hà có giá bán cao nhất trong các loại '
+                'mật ong. Chúng tôi với kinh nghiệm hơn 15 năm chăm nuôi ong '
+                'mật nội điạ tự tin mang đến bạn những sản phẩm chất lượng '
+                'nhất.',
+ 'name': 'Mật ong hoa bạc hà tự nhiên nguyên chất 500ml',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/02/b3f5bd66e824b2a119e77f78a1bb8d4e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/e40c320701b512682dca7d0ea30de5d0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/46c1f5239b012756736be6a935a97684.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/0a92b8ab811334ce32f82154752cdb4e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/69296ccae69f393f898996594dfcc846.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/b8a1c3b4306d088d30e9023b4b972bc6.jpeg'],
+ 'price': '350.000',
+ 'seller': {'address': 'hoabachashop@gmail.com',
+            'date': '02-05-2020',
+            'name': 'Hoa Bạc Hà',
+            'phone': '0368181868'},
+ 'tags': ['Hà Giang',
+          'Huyện Đồng Văn',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Mật ong bạc hà',
+          ' Mật ong tự nhiên',
+          ' Mật ong nguyên chất']}

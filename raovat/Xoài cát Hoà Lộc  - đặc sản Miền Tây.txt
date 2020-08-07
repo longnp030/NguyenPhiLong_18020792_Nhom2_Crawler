@@ -1,0 +1,20 @@
+{'description': 'Xoài cát Hoà Lộc  - đặc sản Miền Tây Giá bán chỉ 79k/kg Mua '
+                '5kg giá 77k/kg nhe Giá sỉ inbox nha khách Giá bán rẻ hơn '
+                'nhiều nơi lắm luôn rồi đó khách Xoài đúng chuẩn Hoà Lộc, ăn '
+                'có vị thơm riêng biệt không giống mùi các vị xoài khác Khách '
+                'đặt hàng ăn thử đi nè Bao ngon – hạt bao lép – dày thịt lắm '
+                'nha Liên hệ: 0973 938 677 ( Ngọc Quí)',
+ 'name': 'Xoài cát Hoà Lộc  - đặc sản Miền Tây',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/17/a93ce7b2b78bd7898326962cab42a946.jpeg'],
+ 'price': '57.000',
+ 'seller': {'address': '',
+            'date': '16-07-2019',
+            'name': 'quinguyen02121998@gmail.com',
+            'phone': None},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 12',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'xoài cát hoà lộc',
+          ' xoài cát',
+          ' xoài cát giá rẻ']}

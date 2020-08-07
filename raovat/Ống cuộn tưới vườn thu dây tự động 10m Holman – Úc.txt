@@ -1,0 +1,30 @@
+{'description': 'Ống cuộn tưới vườn là một phát minh mới của Holman – Úc. Với '
+                'kiểu dáng đẹp và nhỏ gọn dễ dang mang đi xung quang ngôi nhà '
+                'của bạn hoặc những khu vực cần tưới cây. Cơ chế thu hồi dây '
+                'tự động giúp cuộn dây gọn gàng hơn. Chất liệu nhựa của ống '
+                'dây cùng với màu sắc trung tính giúp chống lại tia UV mặt '
+                'trời. Chiều dài ống linh hoạt phù hợp với ban công – sân vườn '
+                'cỡ nhỏ và trung bình. Thiết kể mở nắp trên thùng ống giúp '
+                'kiểm tra dễ dàng chất lượng ống khi sử dụng. Các đầu nối phi '
+                '12mm bên trong hộp đựng cho phép kết nối nhanh với các vị trí '
+                'nước hoặc gắn dễ dàng vào ống mới. Giá đỡ nhẹ, linh hoạt cho '
+                'phép bạn khoan gắn trên tường, dễ dàng gỡ ra mang cuộn dây đi '
+                'khu vực khác. Cơ chế phân lớp bên trong hộp đựng dây giúp cho '
+                'dây được thu lại gọn gàng và không bị đứt gãy. Sản phẩm được '
+                'bảo hành 1 năm. Có thể mua hàng khắp toàn quốc theo hệ thống '
+                'của Igreen – Sân Vườn Thông Minh.',
+ 'name': 'Ống cuộn tưới vườn thu dây tự động 10m Holman – Úc',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/06/25/f100ff7195fdbe06e84e4ac77c5de404.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/25/87346d54aff6201cdb57ba8cda2748ce.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/25/5c59437f19dda4696b7b26312b97c2bf.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/25/b1fddfec0bb166255c787719e840b23f.jpeg'],
+ 'price': '2.150.000',
+ 'seller': {'address': 'sale1@i-green.com.vn',
+            'date': '12-09-2018',
+            'name': 'Nguyễn Viết Vinh',
+            'phone': '0962999642'},
+ 'tags': ['Khác',
+          'Cây cảnh',
+          'ong cuon tuoi vuon',
+          ' tuoi canh quan',
+          ' voi xit tuoi cay']}

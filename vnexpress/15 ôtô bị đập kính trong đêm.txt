@@ -1,0 +1,12 @@
+{'author': 'Ngọc Trường',
+ 'categories': ['Pháp luật'],
+ 'content': 'Nhóm nghi can tuổi từ 15 đến 25, gây án tại\xa0quận Hải Châu và '
+            'Cẩm Lệ. Chiều 9/5, Công an Đà Nẵng xác định\xa0Trần Phú Đạt (20 '
+            'tuổi, trú quận Thanh Khê, Đà Nẵng) mỗi lần đi gây án thường rủ\xa0'
+            '3-4 người tham gia. Ban đêm, chọn khu vực vắng vẻ có nhiều ôtô '
+            'đậu đỗ, cả nhóm phân công người cảnh giới để số còn lại phá kính, '
+            'xe\xa0lục tìm tài sản.',
+ 'datetime': 'Thứ bảy, 9/5/2020, 22:41 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2020/05/09/t-7601-1589037797.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=cE1sH6xrKh_1dOZeLQHJJg'],
+ 'tags': ['đà nẵng', 'trộm cắp', 'phá kính', 'ô tô'],
+ 'title': '15 ôtô bị đập kính trong đêm'}

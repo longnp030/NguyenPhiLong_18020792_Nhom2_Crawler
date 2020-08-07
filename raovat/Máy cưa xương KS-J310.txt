@@ -1,0 +1,29 @@
+{'description': 'THÔNG TIN SẢN PHẨM * Đặc điểm: -   Loại máy này đượcdùng '
+                'trong các gian bếp của nhà hàng, khách sạn và những khu chế '
+                'biến thực phẩm - Có thể dùng để cắt xương, thịt, cá đông '
+                'lạnh, giò heo,.... -Phần bàn cắt rộnggiúp thao tác ổn định và '
+                'vận hành dễ dàng - Sản phẩm đượcthiết kế với bánh xe lớn, có '
+                'thể điều chỉnh sức căng của lưỡi và tháo dỡ dễdàng - Lưỡi cưa '
+                'được sảnxuất tại Italy. Có lò xo điều chỉnh đàn hồi lưỡi cắt, '
+                'lưỡi cắt giúp lưỡi cắt bền hơn - Thân máy được làm từ hợp kim '
+                'nhôm đảm bảo không bị gỉ sét trong quá trình sử dụng '
+                '1.         Đĩa giữ lưỡi cưa trên 2.         Khe cố định lưỡi '
+                'cưa 3.         Bàn đặt xương, đặt thịt đông 4.         Tay '
+                'căn trùng lưỡi cưa(Dùng để thay lưỡi cưa) 5.         Đế '
+                '6.         Đĩa giữ lưỡi cưa cuối 7.         Chốt khóa '
+                '8.         Cữ cố định xương 9.         Cần đẩy xương 10.    '
+                'Lưỡi cưa Thông số kỹ thuật:  máy cưa xương J310 Model: JG310 '
+                'Điện áp: 220V/50Hz Điện áp: 220v/50Hz Công suất: 1100W Tốc độ '
+                'cắt: 1420 r /min. Độ',
+ 'name': 'Máy cưa xương KS-J310',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/07/8d1c3b6607fc421692dbde733ad4f5ba.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'hoanganhokasu@gmail.com',
+            'date': '04-05-2020',
+            'name': 'hoanganhokasu',
+            'phone': '0939.219.368'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 7',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'máy cưa xương']}

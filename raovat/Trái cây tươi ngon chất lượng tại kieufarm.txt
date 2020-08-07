@@ -1,0 +1,25 @@
+{'description': 'Trái cây sạch – ngon – chất lượng tại kieufarm Kieufarm cập '
+                'nhật lại các mặt hàng để quý khách hàng dễ dàng nắm bắt và dễ '
+                'dàng lựa chọn như: Dưa lưới Sầu riêng Dưa hấu Măng cụt Cam '
+                'Quýt Đu đủ Mãng cầu Bơ ...... Với giá tốt cho cả khách sỉ và '
+                'lẻ Ưu đãi hấp dẫn với khách lấy số lượng lớn Liên hệ/zalo: '
+                '0973938677',
+ 'name': 'Trái cây tươi ngon chất lượng tại kieufarm',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/27/feacfa8a7853802fe66b0572e94e76d8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/bdf3c84d2433a32ee8341432dba0f2b0.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/cda4e5e0c19c47a1c9e3df7e06f3af06.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/ca711c2f80ee6f8f0a307a7e8b016b8f.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/fdea7e4e6bc935f5da94a5cc6dd37a0e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/14368580502a103d49db7e436e5375c1.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '16-07-2019',
+            'name': 'quinguyen02121998@gmail.com',
+            'phone': None},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 12',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'trái cây sạch',
+          ' nông sản sạch',
+          ' kieufarm']}

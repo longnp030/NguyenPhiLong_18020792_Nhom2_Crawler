@@ -1,0 +1,28 @@
+{'description': 'Chắc hẳn rằng ai ai cũng biết sự bổ dưỡng của bào ngư, độ quý '
+                'hiếm của nó và giá của nó khá cao. Nhưng làm sao để mua được '
+                'bào ngư chất lượng, giá tốt thì không phải ai cũng biết. Bởi '
+                'vì hiện nay do nhu cầu tiêu dùng cao rất nhiều cơ sở cung cấp '
+                'loại hải sản này ra đời. Và không phải cơ sở nào cũng có thể '
+                'cung cấp sản phẩm chất lượng. Mua bào ngư ở đâu? Chọn những '
+                'địa chỉ bán hải sản chất lượng Để xem xét chất lượng của bào '
+                'ngư thì bạn nên đến trực tiếp những cơ sở bán hải sản. Bào '
+                'ngư có rất nhiều loại cho nên chọn bào ngư cũng không phải dễ '
+                'dàng. Nếu bạn vẫn phân vân không chọn được địa chỉ cụ thể thì '
+                'hãy tìm đến với Đại Dương Xanh. Bạn có thể đặt hàng online '
+                'hoặc có thể liên hệ trực tiếp để qua hotline 0906845636 – '
+                '0966836636(Có zalo) để được tư vẫn rõ hơn.Chúng tôi cam kết '
+                'sẽ mang lại cho bạn loại bào ngư ngon nhất và giá cả phù hợp '
+                'nhất.',
+ 'name': 'Mua bào ngư ở đâu giá tốt, chất lượng cao',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/05/0d95de90fdfdbf392b93ba5f7df9651f.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '394/1 Nguyễn Tri Phương, P4, Q10, Thành phố Hồ Chí '
+                       'Minh',
+            'date': '13-04-2020',
+            'name': 'Hải Sản Đại Dương Xanh',
+            'phone': '0906845636'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'bào ngư',
+          ' ở đâu bán bào ngư',
+          ' bào ngư giá tốt']}

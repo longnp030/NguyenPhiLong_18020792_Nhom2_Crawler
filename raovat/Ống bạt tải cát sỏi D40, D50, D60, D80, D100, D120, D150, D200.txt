@@ -1,0 +1,33 @@
+{'description': 'Mua ống bạt tải cát sỏi liên hệ: 0945 916 880 – 0968 638 052 '
+                'Ống được làm bằng nhựa PVC cao cấp, bên trong có sợi Polyeste '
+                'làm tăng độ bền của ống Ống chuyên dụng dẫn nước công trình, '
+                'dẫn nước thải, dùng trong hệ thống thoát nước mùa mưa Ống '
+                'dùng để xả nước có cát, dẫn nước có cát, nước có bùn. Đường '
+                'kính ống đa dạng: phi 28, phi 40, phi 50, phi 65, phi 80, phi '
+                '100 phi 120, phi 150, phi 200 Tùy theo nhu cầu và mục đích sử '
+                'dụng nên ống có đường kính và độ dày khác nhau: Ống xả nước: '
+                'Dày 0.6mm Ống xả cát: Dày 1.4mm Ống tải sỏi: Dày 2.4mm Ống '
+                'tải sỏi đá đặc biệt: Dày 2.8mm Xuất xứ : Việt Nam Chiều dài : '
+                '20m, 40m hoặc 50m/ cuộn Liên hệ với chúng tôi để mua ống bạt '
+                'cốt dù chính hãng giá rẻ. Chúng tôi luôn sẵn sàng hỗ trợ và '
+                'tư vấn để quý khách lựa chọn những sản phẩm ưng ý nhất. Công '
+                'Ty TNHH sản Xuất Và Thương Mại Uy Vũ Địa chỉ Hà Nội: Số 109 '
+                'Tựu Liệt, Thanh Trì, Hà Nội ĐT:  0945 916 880 – 0968 638 052 '
+                'Zalo:0945 916 880',
+ 'name': 'Ống bạt tải cát sỏi D40, D50, D60, D80, D100, D120, D150, D200',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/ab6e71a2c4351189385c610f2914c44d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/f7d007e19b55924be973336c3b96cfae.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/145d5b0d4cd97e746122c63768ac3015.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/31f2ba7751e5ae73f22bb4b56ff2c83a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/e2df537325f263e5f69649ef62cde9b5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/a6a7a71fe97b015a42d71573888c5ed5.jpeg'],
+ 'price': '25.000',
+ 'seller': {'address': 'Hà Nội',
+            'date': '26-10-2017',
+            'name': 'ngocanh.uyvu',
+            'phone': '0945916880'},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          'ống bạt tải cát',
+          ' ống bạt dẫn nước',
+          ' Ống bạt tải cát sỏi']}

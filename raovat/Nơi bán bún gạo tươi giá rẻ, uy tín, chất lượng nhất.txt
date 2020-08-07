@@ -1,0 +1,19 @@
+{'description': 'Bún gạo tươi được làm 100 %từ gạo và nước, không sử dụng bất '
+                'kỳ một chất tẩy trắng hay hàn the để bảo quản sản phẩm. Ngoài '
+                'công dụng như bún tươi thì bún Mikiri có thể làm được nhiều '
+                'món như: Xào, trộn, chiên giòn ..... Bún Mikiri có vị gạo '
+                'thơm rất đặc trưng, sợi bún tròn mượt vừa dẻo, vừa dai, không '
+                'bị nát. Bún gạo khô có sẵn trong nhà thì chỉ cần 5 phút chế '
+                'biến là có thể sử dụng ngay, số lượng nhiều ít tùy bạn quyết '
+                'định. Hạn chế tình trạng mua bún tươi về nhưng dùng không hết '
+                'phải bỏ đi rất phí. Thông tin liên hệ: _ Công ty TNHH SX TM '
+                'DV T&Z _ Hotline: 0908.71.68.71 _ Địa chỉ: 416/43/22 Dương '
+                'Quảng Hàm, Phường 5, Quận Gò Vấp, TPHCM.',
+ 'name': 'Nơi bán bún gạo tươi giá rẻ, uy tín, chất lượng nhất',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/07/47522f6ab8eb1a0a0677b9e17f608a51.jpeg'],
+ 'price': '25.000',
+ 'seller': {'address': '416/43/22 Dương Quảng Hàm, Phường 5, Gò Vấp',
+            'date': '07-09-2017',
+            'name': 'chetaomynhan95',
+            'phone': '0902716871'},
+ 'tags': ['Ẩm thực, du lịch', 'Ẩm thực', 'bún mikiri', ' bún gạo tươi']}

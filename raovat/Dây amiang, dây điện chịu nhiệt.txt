@@ -1,0 +1,22 @@
+{'description': 'Dây amiang, Dây điện chịu nhiệt Dây điện chịu nhiệt Quy cách '
+                'sản phẩm Dây amiang chịu nhiệt 0.5mm2…2.5mm…6.0mm2…25mm2. '
+                'Nhiệt độ: 200 độ C… 700 Độ C Dây amiang 1 lõi nhiều sợi đồng '
+                'mạ niken Hàng luôn có sẵn trong kho với số lượng lớn. Ứng '
+                'dụng Dây điện chịu nhiệt được dùng làm dây dẫn trong những lò '
+                'sấy, lò hơi, lò nung, các loại điện trở nhiệt… Quý khách có '
+                'nhu cầu mua hàng, hay muốn biết thêm chi tiết sản phẩm, vui '
+                'lòng liên hệ với chúng tôi: Công ty TNHH TM Hoàng Kim Địa '
+                'chỉ: Số 42 ngõ 924 Nguyễn Khoái, P. Thanh Trì, Hoàng Mai, Hà '
+                'Nội Mobile: 0919575909 / 0967902850 ; 0979599533 / 0912086984 '
+                'Email: giaho.ceo@gmail.com http://maynganhnhua.vn '
+                'https://maynganhnhua.com.vn',
+ 'name': 'Dây amiang, dây điện chịu nhiệt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/21/fbe512916202933afcee325fbae6603f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/6795ccdf23a97a0351fb10f6eba4416b.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 42 ngõ 924 Nguyễn Khoái, P. Thanh Trì, Hoàng Mai, '
+                       'Hà Nội',
+            'date': '27-04-2020',
+            'name': 'hoangkimhn01@gmail.com',
+            'phone': '0912086984'},
+ 'tags': ['Hà Nội', 'Dịch vụ', 'Tìm đối tác']}

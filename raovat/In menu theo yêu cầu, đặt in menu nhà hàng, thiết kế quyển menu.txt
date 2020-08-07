@@ -1,0 +1,32 @@
+{'description': 'Nghe bảo Hottrend hè năm nay là tím mộng mer nên In Bảo An '
+                'cũng vừa trả xong đơn hàng cho khách ở Kim Mã. - Chất liệu: '
+                'bìa da, gáy lò xo, ruột 10 lá nilon đảm bảo sạch sẽ, lau chùi '
+                'dễ dàng. - Thiết kế menu theo yêu cầu. - Thời gian giao hàng '
+                'đúng hẹn và vận chuyển tận nơi cho khách hàng. Màu tím này '
+                'khách đã lịm tim chưa ạ :)))). Khách có thể thưởng thức thêm '
+                'đồ ăn Huế tại Tam Gia quán với nhiều món ăn phong phú cho '
+                'khách lựa chọn. * Đội ngũ tư vấn hỗ trợ nhiệt tình, hệ thống '
+                'ship hàng có tâm và giao hàng đảm bảo nhanh chóng nhất. Liên '
+                'hệ đặt hàng: CÔNG TY IN BẢO AN: - Địa chỉ: Số 32 ngõ Thái Hà- '
+                'Đống Đa- Hà Nội. - Điện thoại: 024 32444 288 - Hotline: 0966 '
+                '967 467 - 0912 363 960 (Zalo/ Imess) - Skype: thuypt18 * Truy '
+                'cập để xem các mẫu: Fanpage: '
+                'https://www.facebook.com/inquyenmenunhahang/ Instagram: '
+                'https://www.instagram.com/In.an.gia.re/ * Hoặc truy cập vào '
+                'Website: inbaoan.vn',
+ 'name': 'In menu theo yêu cầu, đặt in menu nhà hàng, thiết kế quyển menu',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/16/7b7c8b6761f1b6c78f13fd26e5d018cf.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/16/eae1bd5eda750ad33f89f10bbae81ac0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/16/191dd34dce067024ae5d60675f9ff300.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '12-06-2016',
+            'name': 'thuypt18z6',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Quận Hà Đông',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'In quyển menu bìa da',
+          ' in menu da',
+          ' menu da có sẵn']}

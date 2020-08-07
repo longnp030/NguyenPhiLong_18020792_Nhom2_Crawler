@@ -1,0 +1,14 @@
+{'author': 'Nguyễn Nghĩa',
+ 'categories': ['Xe'],
+ 'content': 'Ngày 3/2, một vị khách Trung Đông vinh dự trở thành chủ sở hữu '
+            'chiếc Cayenne GTS thứ 200.000 xuất xưởng tại nhà máy ở Leipzig, '
+            'Đức. Thành tích này còn đưa Cayenne trở thành mẫu xe bán chạy '
+            'nhất trong lịch sử Porsche và giúp vị Chủ tịch nổi tiếng Wendelin '
+            'Wiedeking nằm trong danh sách 10 người có ảnh hưởng lớn nhất đến '
+            'ngành công nghiệp ôtô thế giới, theo đánh giá của Motor Trend . '
+            'Những nơi giúp Cayenne đạt mức tăng trưởng cao là Trung Quốc, '
+            'Nga, Mỹ Latin, Trung Đông và Nam Phi.',
+ 'datetime': 'Thứ hai, 4/2/2008, 08:10 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Porsche Cayenne đạt kỷ lục 200.000 xe'}

@@ -1,0 +1,24 @@
+{'description': 'Hộp cơm nhà hàng, hộp sushi, hộp cơm bento, khay bento, hộp '
+                'cơm, Khay nhựa, khay bento, khay đen, khay đa năng, khay '
+                'sushi cao cấp, chất liệu ABS bền, sang trọng, mẫu mã đa dạng, '
+                'giá tốt duy nhất có ở Vạn Lộc. Hotline – 090 444 3386/ 0978 '
+                '727 202 https://dungcunhahang247.com/ '
+                'https://www.facebook.com/dungcunhahang247',
+ 'name': 'Khay Sushi, khay Sashimi, bento, khay Nhật các loại',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/15/cd215cae1399a1dab30dd2215b062f98.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/15/76acdb6f2b5ab54e067ffc2d20779617.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/15/4f67d752f1a87ff9d7482bee7f4f7c55.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/15/5ba6922d3a27700d0dbf09c7381904b8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/15/01cfc3006f385da7f05a866eca606e3a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/15/158c2882397ed8967369ed989cffbc12.jpeg'],
+ 'price': '145.000',
+ 'seller': {'address': 'Số 13 Hẻm 297/42 Phan Huy Ích, P. 14, Q. Gò Vấp, Tp Hồ '
+                       'Chí Minh',
+            'date': '14-03-2018',
+            'name': 'batdiavanloc',
+            'phone': '0978727202'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Khay Sushi',
+          ' khay Sashimi',
+          ' bento']}

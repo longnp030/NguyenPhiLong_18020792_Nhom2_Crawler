@@ -1,0 +1,19 @@
+{'description': 'Khô cá hố nhà mình làm là khô cá hố tẩm, vừa nướng thôi đã '
+                'thơm ngào ngạt, ăn vào có độ ngọt của cá, mềm hoặc giòn giòn, '
+                'nhất định sẽ không làm khách hàng thất vọng. Không sử dụng '
+                'chất bảo quản, hàn the. Sử dụng nguyên liệu tươi sống được '
+                'đánh bắt và chế biến ngay 100% cá biển tự nhiên, không trộn '
+                'tạp Sản phẩm nhà làm, đảm bảo vệ sinh an toàn thực phẩm',
+ 'name': 'Khô cá hố tẩm Nha Trang nhà làm I Chả cá Nha Trang Ngọc Tân',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/24/8ffc5726cd52d2b2c7134cf285cfec30.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/24/36c3e5964c79461903ec595d4a16ab03.jpeg'],
+ 'price': '180.000',
+ 'seller': {'address': '50/49 Lê Thị Hồng, P.7, Gò Vấp, TpHCM',
+            'date': '24-05-2020',
+            'name': 'Ngoctan chaca',
+            'phone': '096 324 7945'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'khô cá',
+          ' khô cá hố']}

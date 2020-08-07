@@ -1,0 +1,31 @@
+{'description': 'Sau cơn mưa tối qua, hôm nay đã "trả" Hà Nội 1 sáng trong '
+                'lành, mát mẻ, tươi mới. Đầu sáng In Bảo An cũng trả hàng cho '
+                'khách những cuốn menu gáy lò xo với màu vàng cổ điển khiến '
+                'chúng ta nhớ về 1 Hà Nội xưa. - Chất liệu: bìa carton, gáy lò '
+                'xo (có thể chọn 1 trong 2 màu: trắng hoặc đen), ruột giấy '
+                'Couches 300, cán 1 lớp nilon mờ tránh nước và lau chùi dễ '
+                'dàng. - Thiết kế menu quán cafe theo yêu cầu. - Thời gian '
+                'giao hàng: nhanh chóng, đúng hẹn. - Địa điểm: áp dụng với các '
+                'đơn trên Toàn quốc. * Đội ngũ tư vấn hỗ trợ nhiệt tình, hệ '
+                'thống ship hàng có tâm và giao hàng đảm bảo nhanh chóng nhất. '
+                'Liên hệ đặt hàng: CÔNG TY IN BẢO AN: - Địa chỉ: Số 23 ngõ 34 '
+                'Nguyên Hồng- Đống Đa- Hà Nội. - Điện thoại: 024 32444 288 - '
+                'Hotline: 0966 967 467 - 0912 363 960 (Zalo/ Imess) - Skype: '
+                'thuypt18 * Truy cập để xem các mẫu: Fanpage: '
+                'https://www.facebook.com/inquyenmenunhahang/ Instagram: '
+                'https://www.instagram.com/In.an.gia.re/ * Hoặc truy cập vào '
+                'Website: inbaoan.vn',
+ 'name': 'In menu cafe, in quyển thực đơn cafe, in menu nhà hàng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/14/8935b609b1427e475fc73b011d9c5927.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '12-06-2016',
+            'name': 'thuypt18z6',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Huyện Gia Lâm',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Bán menu bìa da có sẵn',
+          ' in menu gáy lò xo',
+          ' in menu gáy còng']}

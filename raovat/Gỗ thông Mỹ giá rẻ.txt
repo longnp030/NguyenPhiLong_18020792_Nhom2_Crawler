@@ -1,0 +1,34 @@
+{'description': 'Tìm địa điểm bán gỗ Thông Mỹ nhập khẩu hay mua gỗ Thông Mỹ ở '
+                'đâu chất lượng, giá cả hợp lý. Cùng nguồn gốc gỗ rõ ràng đầy '
+                'đủ giấy tớ chứng minh xuất xứ là mối quan tâm của rất nhiều '
+                'công ty gỗ, xưởng gỗ hiện nay. Vì hiện nay gỗ thông Mỹ đang '
+                'có giá cả rất phù hợp với mức thu nhập trung bình của người '
+                'Việt Nam. Đặc biệt gỗ Thông Mỹ lại có được một vị thế đặc '
+                'biệt và được ưa chuộng hơn cả. Sau đây TigerWood xin phép '
+                'giới thiệu với quý khách hàng một vài đặc tính của gỗ thông '
+                'Mỹ cũng như các ứng dụng chủ yếu của gỗ thông Mỹ hiện nay !. '
+                '- Kết cấu đặc biệt - Dễ gia công và chế tác - Chịu được điều '
+                'kiện khí hậu tại Việt Nam - Tính ứng dụng tuyệt vời - Một lựa '
+                'chọn chi phí hiệu quả cho doanh nghiệp TigerWood\xa0'
+                '(0907.665.335). - Đơn vị cung cấp gỗ thông Mỹ uy tín tại Bình '
+                'Dương. Với quy cách và phẩm cấp đa dạng, đáp ứng nhu cầu '
+                'khách hàng. Phục vụ cho sản xuất nội thất và thi công công '
+                'trình. Liên hệ ngay để được tư vấn và báo giá.',
+ 'name': 'Gỗ thông mỹ giá rẻ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/23/02c0f387ff72e7188532967e06cfac9b.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/c8dbd9da4a3fec6faff2422f1a7614c9.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/0f4eea6c813391694308b1dc05fe626e.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/2e647fbc54ea7a6a5cd2e05c5c341eaf.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/420afa0474ca50397f118b565b4ee027.png'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '661,The oasis II, KDC Vietsing, P.An Phú, Thuận '
+                       'An,Bình Dương',
+            'date': '21-07-2020',
+            'name': 'thpt.thaihoa.tranvanhung@gmail.com',
+            'phone': '0907665335'},
+ 'tags': ['Bình Dương',
+          'Dịch vụ',
+          'Tìm đối tác',
+          'gỗ thông mỹ giá rẻ',
+          'gỗ thông mỹ',
+          'giá gỗ thông mỹ']}

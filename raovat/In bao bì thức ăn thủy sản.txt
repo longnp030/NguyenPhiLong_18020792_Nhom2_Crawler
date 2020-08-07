@@ -1,0 +1,20 @@
+{'description': 'Cung cấp bao PP dệt ghép màng Phục vụ: Đựng gạo cao cấp xuất '
+                'khẩu, phân bón, thức ăn gia xúc, lúa giống, nông sản, hạt '
+                'nhựa, hóa chất. Nhận sản xuất theo đơn hàng mọi số lượng, giá '
+                'tốt nhất. Để được báo giá và biết thêm chi tiết xin vui lòng '
+                'liên hệ: CÔNG TY TNHH SẢN XUẤT BAO BÌ NHẬT TIẾN Hotline Kinh '
+                'Doanh : 0972.954.879 Email: baobinhattien@gmail.com Web: '
+                'baobinhattien.com',
+ 'name': 'In bao bì thức ăn thủy sản',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/eca8268d8d383af170ad366833170d42.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/c3e77e4557a358410a70fe9ca505e12f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/a8f5d4eff26014b116f00cc3bbd4fa0e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/58ef39c4048a96ae39aa079ad2853de2.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/d110a4580aa3c0969ad1c7f9954142f2.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/e6dde4d36cfc532dbab5d3d7c27653cd.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Đồng Nai',
+            'date': '13-11-2018',
+            'name': 'mstuyenbaobinhattien',
+            'phone': '0972954879'},
+ 'tags': ['Dịch vụ', 'Tìm đối tác', 'In bao bì thức ăn thủy sản']}

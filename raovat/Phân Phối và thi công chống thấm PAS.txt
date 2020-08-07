@@ -1,0 +1,28 @@
+{'description': 'CHỐNG THẤM PAS-P500 Là sản phẩm chống thấm Polymer cải tiến '
+                'và cốt liệu được chọn lọc. Được thi công lên bề mặt vữa và bê '
+                'tông để ngăn sự thấm nước. Thông tin sản phẩm: Dạng lỏng và '
+                'cốt liệu          Màu sắc: Màu trắng\t\t       Độ phủ: '
+                '0.5kg/m2 Tỷ lệ trộn: 1 Kg P500  pha với 0.5 Kg Xi '
+                'Măng                           Theo tỷ lệ: (1:0,5) Đóng gói: '
+                '18Kg/ Thùng. CHỐNG THẤM PAS-P800 là sản phẩm chống thấm một '
+                'thành phần Acrylic co-Polymer cải tiến. Được thi công lên bề '
+                'mặt vữa và bê tông để ngăn sự thấm nước, kháng UV, giảm nóng '
+                'cho bề mặt. Chống Thấm Sàn MÁi - TƯỜNG (lộ thiên) Acrylic '
+                'co-Polymer cải tiến Ưu điểm của PAS- P800: - Kháng nước - Đẹp '
+                'bề mặt sàn - tường - Kháng UV - Giảm nóng cho bề mặt sàn - '
+                'tường - Dễ thi công - Không độc hại - Giá kinh tế Thông tin '
+                'sản phẩm: Dạng: Lỏng sệt\t\tMàu sắc: Xám trắng\t\tĐộ phủ: '
+                '0,5Kg/m2 Lăn trực tiếp không cần pha thêm nước hay xi măng. '
+                'Đóng gói: 18 kg/ Thùng THÔNG TIN LIÊN HỆ CÔNG TY TNHH PHỤ GIA '
+                'XÂY DỰNG VIỆT NAM ĐC: 54b/5 Đường số 26, P. Hiệp Bình C',
+ 'name': 'Phân Phối và thi công chống thấm PAS',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/0ddd00dc9ff16f3708eb390090cc0b42.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/b6d8b8e219a0148d528ad4655f917a57.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/8bc5bba4cf86f0555dbac88c6b37eb8f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/c9c51a802a0eb53bcaa66870189445b6.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '20-07-2020',
+            'name': 'trucphuongbn24@yahoo.com',
+            'phone': None},
+ 'tags': ['Dịch vụ', 'Tìm đối tác', 'Chống thấm']}

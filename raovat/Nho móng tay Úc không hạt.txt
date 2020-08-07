@@ -1,0 +1,17 @@
+{'description': 'NHO MÓNG TAY KHÔNG HẠT - Nhập khẩu từ Úc bằng máy bay, chất '
+                'lượng loại 1. - Nho ngón tay quả dài, vị ngọt và vỏ mỏng. - '
+                'Giàu vitamin, khoáng chất, chất dinh dưỡng tốt cho sức khỏe. '
+                '- Có thể ăn trực tiếp, làm nước ép, sinh tố, làm bánh, sữa '
+                'chua... http://thucphamsach24h.vn/nho-ngon-tay-khong-hat-uc',
+ 'name': 'Nho móng tay Úc không hạt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/29/1a00d3a225aa5c9e7824b19f032eea97.jpeg'],
+ 'price': '145.000',
+ 'seller': {'address': '1159 Hoàng Sa, Phường 5, Quận Tân Bình, HCM',
+            'date': '29-05-2020',
+            'name': 'www.thucphamsach24h.vn',
+            'phone': '0834107107'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Tân Bình',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Nho móng tay']}

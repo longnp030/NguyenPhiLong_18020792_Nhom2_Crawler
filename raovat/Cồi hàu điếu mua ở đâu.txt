@@ -1,0 +1,23 @@
+{'description': 'Hàu điếu là loại hải sản đặc biệt tại Phú Quý (Bình Thuận), '
+                'thịt ngọt, giòn, ăn x> Món ngon từ cồi điếu như hấp, luộc, '
+                'nướng, xào, nấu cháo…Tuy nhiên, ăn sống với mù tạt và nhúng '
+                'nước lèo được xem là hai món ngon nhất từ cồi điếu. Mua hàng '
+                'ngay tại Hải Sản Đại Dương Xanh: Liên hệ ngay: Hotline: '
+                '0906845636 – 0966836636(Có zalo) Email: '
+                'haisandaiduongxanh@gmail.com Facebook: '
+                'https://www.facebook.com/HaiSanDaiDuongXanh CN1: 394/1 Nguyễn '
+                'Tri Phương, P4, Q10, Thành phố Hồ Chí Minh',
+ 'name': 'Cồi hàu điếu mua ở đâu',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/02/12415f4eb29496b2fc825782c9329fdd.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/482db10d33ceb69f4d93752bb0b86207.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '394/1 Nguyễn Tri Phương, P4, Q10, Thành phố Hồ Chí '
+                       'Minh',
+            'date': '13-04-2020',
+            'name': 'Hải Sản Đại Dương Xanh',
+            'phone': '0906845636'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'cồi hàu điếu',
+          ' hàu điếu',
+          ' sò điếu']}

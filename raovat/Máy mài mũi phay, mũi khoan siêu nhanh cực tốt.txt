@@ -1,0 +1,17 @@
+{'description': 'Máy mài dao phay siêu nhanh cực tốt Mài siêu nhanh, dao sau '
+                'mài sáng bóng, me cắt cực sắc, trông như mới. Nhỏ gọn, tiện '
+                'lợi, cực dễ sử dụng, chỉ cần đưa mũi dao vào máy, máy mài mũi '
+                'dao chỉ trong 30s. Giá bán: 6.599.000đ NHƯNG 📌 Liên hệ ngay, '
+                'giảm giá cực mạnh còn 5.999.000đ',
+ 'name': 'Máy mài mũi phay, mũi khoan siêu nhanh cực tốt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/75eba3cdf064df518034b5eb16a7ac56.jpeg'],
+ 'price': '5.999.000',
+ 'seller': {'address': 'bắc từ liêm, hà nội',
+            'date': '05-03-2020',
+            'name': 'Cơ khí việt CKV',
+            'phone': '0946158186'},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          'máy mài mũi khoan',
+          ' máy mài mũi phay',
+          ' mũi phay']}

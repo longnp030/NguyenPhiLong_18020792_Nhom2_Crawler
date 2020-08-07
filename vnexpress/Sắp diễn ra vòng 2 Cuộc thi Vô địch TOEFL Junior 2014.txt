@@ -1,0 +1,56 @@
+{'author': 'Hải Khanh',
+ 'categories': ['Giáo dục'],
+ 'content': 'Với nhiều gia đình, cuộc thi là “môi trường” nuôi dưỡng đam mê '
+            'học tiếng Anh của con. Hoàng Minh Tuệ, học sinh trường Hà Nội – '
+            'Amsterdam tham gia ngay từ năm đầu tiên (2012), khi đang học lớp '
+            '9. Tuệ đã ghi dấu ấn với điểm số tuyệt đối TOEFL Junior 900/900. '
+            'Điểm TOEFL Junior được Viện Khảo thí Giáo dục Mỹ chứng thực giúp '
+            'Tuệ giành học bổng trị giá 50.000 USD cho một năm học phổ thông '
+            'tại Mỹ theo chương trình ASSIST, một trong những học bổng toàn '
+            'phần uy tín của Mỹ dành cho học sinh THPT. Theo chân anh, em gái '
+            'của Tuệ là Hoàng Nguyễn Minh Phương (học sinh lớp 7 trường Hà Nội '
+            '– Amsterdam) tham gia từ năm 2013. Năm nay em tiếp tục dự thi với '
+            'thành tích 100/100 điểm tại vòng 1, trở thành một trong những ứng '
+            'cử viên nặng ký vào vòng chung kết. Với kinh nghiệm thi sẵn có và '
+            'vốn tiếng Anh của mình, Tuệ luôn đồng hành với Phương trong suốt '
+            'cuộc thi, chia sẻ kinh nghiệm làm bài, giúp em gái chuẩn bị cả về '
+            'kiến thức và tâm lý trước mỗi vòng thi. Phương rất thích học '
+            'tiếng Anh. Em chia sẻ: “Vô địch cuộc thi chuẩn quốc tế giúp em và '
+            'bố mẹ có thể kiểm tra trình độ tiếng Anh của mình một cách chính '
+            'xác”. Năm trước, Phương đạt 865 điểm TOEFL Junior, trong đó phần '
+            'đọc hiểu đạt 290 điểm. Phương đã có thể hiểu ý chính và xác định '
+            'các chi tiết quan trọng trong một đoạn văn bản có độ phức tạp cao '
+            'về ngôn ngữ, có thể suy luận, so sánh khi đọc hiểu hoặc đưa ra ý '
+            'kiến tranh luận về vấn đề nào đó... Điểm TOEFL Junior cũng thể '
+            'hiện thông tin mô tả tương tự về năng lực hiện tại của Phương đối '
+            'với kỹ năng nghe hiểu, từ vựng và ngữ pháp, cấp trình độ tương '
+            'ứng theo khung CEFR và điểm Lexile tương ứng. Với điểm Lexile '
+            '1090L, Phương đã tìm được trong thư viện trực tuyến Lexile các '
+            'quyển sách yêu thích và phù hợp để phát triển vốn từ vựng, kiến '
+            "thức cũng như nâng cao kỹ năng đọc hiểu, ví dụ: Samirah's Ride - "
+            'The Story of an Arabian Filly (Tác giả: Annie Wedekind), Forces '
+            'and Motion (David Dreirer), The Little Black Dress and Zoot Suits '
+            '(Alison Marie Behnke)… 865/900 là điểm số vượt trội đối với một '
+            'học sinh lớp 6. Với điểm số này, theo quy định của Bộ Giáo dục và '
+            'Đào tạo, Phương đạt trình độ bậc 4 khung năng lực ngoại ngữ quốc '
+            'gia, tương đương B2 của CEFR, cao hơn mức tiêu chuẩn dành cho cử '
+            'nhân bậc Đại học. Nếu Phương sống tại TP HCM, em có thể dùng kết '
+            'quả này để ứng tuyển vào chương trình tiếng Anh tăng cường '
+            '(TATC), vì tiêu chuẩn xét tuyển TATC lớp 7 tại đây là 655 - 670 '
+            'điểm TOEFL Junior (tương đương A2++). Phương tâm sự: “Bản thân em '
+            'thấy TOEFL Junior là kỳ thi bổ ích, chuẩn bị cho em cả về trình '
+            'độ và kỹ năng cho các kỳ thi quan trọng khác sau này như TOEFL '
+            'iBT, thi SAT, các kỳ xét học bổng và gần nhất là thi tốt nghiệp. '
+            'Năm ngoái kết quả thi của em chưa được như mong muốn, vì vậy năm '
+            'nay là cơ hội để em đánh giá được quá trình học tập một năm qua, '
+            'với hy vọng sẽ đạt được kết quả cao nhất trong vòng thi tới”. '
+            'Vòng 2 Cuộc thi Vô địch TOEFL Junior 2014 bắt đầu vào ngày '
+            '30/11/2014 tại các tỉnh thành trên toàn quốc. Xem thêm thông tin '
+            'về cuộc thi và hướng dẫn thi TOEFL Junior tại www.iigvietnam.com '
+            '– www.toefl.com.vn',
+ 'datetime': 'Thứ hai, 24/11/2014, 13:00 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2014/11/24/1-JPG-9566-1416800573.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=Mev5FHdGAOBRYc8PrUUhSw',
+                  'https://i1-vnexpress.vnecdn.net/2014/11/24/hfgh-JPG-8541-1416800573.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=1Zxv-ZdsKjEMcH6hn4cXIg',
+                  'https://i1-vnexpress.vnecdn.net/2014/11/24/gfh-JPG-4029-1416800573.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=i0BH6CYSQYukZNq7rs42_g'],
+ 'tags': ['tiếng anh', 'toefl', 'học bổng mỹ', 'du học'],
+ 'title': 'Sắp diễn ra vòng 2 Cuộc thi Vô địch TOEFL Junior 2014'}

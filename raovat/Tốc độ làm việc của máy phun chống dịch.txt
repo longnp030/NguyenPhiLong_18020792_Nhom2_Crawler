@@ -1,0 +1,23 @@
+{'description': 'Dịch tả lợn châu phi, sâu bệnh hại cây trồng ảnh hưởng trực '
+                'tiếp đến người nông dân, mang lại những hậu quả hết sức khốc '
+                'liệt và nguy hại. Công việc phun rải vôi phòng dịch bệnh luôn '
+                'được ưu tiên hàng đầu, tuy nhiên làm việc thủ công ảnh hưởng '
+                'nhiều đến sức khỏe, thời gian làm việc lâu dài và hiệu quả '
+                'đạt được không cao. Ngày nay, sự ra đời của Máy phun vôi '
+                'dienmaylongnhat.vn/danh-muc/binh-phun-voi/ '
+                'dienmaylongnhat.vn/tu-van/tu-van-mua-may-phun-voi-bot-da-nang/ '
+                'dienmaylongnhat.vn/tin-tuc/huong-dan-van-hanh-may-phun-voi-sa-phan-sa-thoc-da-nang/ '
+                'dienmaylongnhat.vn/tin-tuc/duoi-3-trieu-nen-dau-tu-may-phun-voi-nao/ '
+                'dienmaylongnhat.vn/cua-hang/binh-phun-voi/binh-phun-voi-kct/ '
+                'dienmaylongnhat.vn/cua-hang/binh-phun-voi/binh-phun-voi-mitsubishi/ '
+                'dienmaylongnhat.vn/tu-van/mua-may-sa-phan-sa-thoc-da-nang-gia-re/ '
+                'dienmaylongnhat.vn/tu-van/nen-mua-may-phun-voi-sa-phan-sa-thoc-khong/',
+ 'name': 'Tốc độ làm việc của máy phun chống dịch',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/03/06/95ead4c202425ee62fa7f95453d346e5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/06/a552a9898067de48c8a52c144c47b8b0.jpeg'],
+ 'price': '2.700.000',
+ 'seller': {'address': 'số 65 đông mỹ - thanh trì - hà nội',
+            'date': '04-07-2019',
+            'name': 'thamteo1202',
+            'phone': '0971028588'},
+ 'tags': ['Khác', 'Thú nuôi', 'phun chống dịch']}

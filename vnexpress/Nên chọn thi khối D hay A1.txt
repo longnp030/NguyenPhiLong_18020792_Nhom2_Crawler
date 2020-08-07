@@ -1,0 +1,13 @@
+{'author': 'Lê Hải Yến',
+ 'categories': ['Giáo dục', 'Tư vấn'],
+ 'content': 'Trước đây em tính thi khối D nhưng cho đến hiện tại nhận thấy môn '
+            'Văn khá kém và điểm số cũng không khả quan lắm. Vì thế em đang '
+            'tính đến chuyện thi khối A1. Nhưng lớp 10 và 11 em đều không tập '
+            'trung vào học Lý nên rất sợ chỉ còn một năm không biết liệu có '
+            'thể học nổi Lý không? Liệu em nên chọn Lý hay Văn để thi đại học '
+            'và môn nào dễ kiếm tầm 7 điểm trở lên hơn khi chỉ còn hơn một '
+            'năm? Rất mong mọi người có thể tư vấn cho em. Em cảm ơn!',
+ 'datetime': 'Thứ tư, 9/3/2016, 09:29 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': ['chọn thi khối nào', 'khối d'],
+ 'title': 'Nên chọn thi khối D hay A1'}

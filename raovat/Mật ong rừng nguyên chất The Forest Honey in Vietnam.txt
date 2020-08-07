@@ -1,0 +1,22 @@
+{'description': 'MẬT ==>>>>mật ong rừng tùy loại: Mật ong ruồi 600k/lít/1.5kg '
+                'Mật ong khoái 600k/lít/1.5kg Mật ong đá 500k/lít/1.4kg Mật '
+                'ong rừng sâu( 3-7 ngày) duy nhất mùa nắng: 800k/lít Mật hoa '
+                'bạc hà 350k/lít Sỉ inbox chỉ từ 5 lít Đóng gói theo 500ml. '
+                '1000ml. Quý khách mua ít nhất từ 500ml Ship hàng toàn quốc - '
+                'Đóng gói theo yêu cầu - GÓI QUÀ CỰC ĐẸP - HÀNG BIẾU CỰC SANG',
+ 'name': 'Mật ong rừng nguyên chất The Forest Honey in Vietnam',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/28/d76f063832c2b424b23e3c1c7f1878c4.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/28/3455bb6fdb87577e363e0651705354a7.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/28/b911e97731f1903763259f1ca1319fb3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/28/8914d6677064026d95db211411c5488e.jpeg'],
+ 'price': '250.000',
+ 'seller': {'address': '48 Thôn Tân Thành xã Eatoh huyện Krông năng tỉnh Đăk '
+                       'Lăk',
+            'date': '07-10-2017',
+            'name': 'dacsandaklak47kimngan',
+            'phone': '0931677994'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Mật ong nguyên chất',
+          ' mâtong',
+          ' mật ong rừng']}

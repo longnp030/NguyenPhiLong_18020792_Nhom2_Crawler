@@ -1,0 +1,32 @@
+{'description': '✏️ Thịt gà xé sợi vừa ăn, được ướp tẩm gia vị mặn ngọt, vị '
+                'cay cay của ớt, béo béo của bơ và mùi thơm nhè nhẹ của lá '
+                'chanh hoặc miếng tỏi cắt lát không gây ngán khi ăn như những '
+                'loại khô gà thường khác ✏️ Nói không với chât bảo quản, không '
+                'chất tạo màu ✏️ An toàn vệ sinh thực phẩm ĐẶC BIỆT ➡ Mua 1kg '
+                'giảm 40k ➡ Mua 2kg giảm 50k ➡ Mua 3kg giảm 60k '
+                '_____________________________________ Liên hệ 0934116821 để '
+                'đặt hàng Địa chỉ 525/54 huỳnh văn bánh phường 14 quận phú '
+                'nhuận Giao hàng nhanh từ 20-60p trong nội thành TP HCM #GHN '
+                '#GiaoHangNhanh #Grab #khôgà #khogangon #khogalachanh '
+                '#khogacay #khogaheomi #heomishop #khôGàLáChanh '
+                '#khô_gà_lá_chanh #comchaychabong #khoheo #khogabotoi '
+                '#khogachaytoi',
+ 'name': 'Khô gà bơ tỏi sợi gà to giòn thơm ngon',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/12/afceda2b5d0bc7b9fc2af6a2009d42e4.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/12/18a719c4e4800bda776d9e983f7e42b9.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/12/223bb3d4f143d4a1ea87efe38b4b2216.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/12/0baff4fcf79eaf1c79ff74c844fdca03.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/12/f0bbd758b50cdf5d7cc9c38b46ebc236.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/12/2511ad3cc67bf33f5b3f8f6929308d21.jpeg'],
+ 'price': '80.000',
+ 'seller': {'address': '525/44 HUỲNH VĂN BÁNH- P14- PHÚ NHUẬN',
+            'date': '18-09-2019',
+            'name': 'KHÔ GÀ HEOMI',
+            'phone': '093 411 68 21'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Phú Nhuận',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'khô gà',
+          ' khô gà bơ tỏi',
+          ' khô gà cháy tỏi']}

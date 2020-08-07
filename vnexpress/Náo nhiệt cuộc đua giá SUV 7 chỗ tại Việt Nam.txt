@@ -1,0 +1,59 @@
+{'author': 'Ngọc Tuấn',
+ 'categories': ['Xe', 'Thị trường'],
+ 'content': 'Cuộc chạy đua doanh số giữa các hãng kéo theo những chương trình '
+            'ưu đãi dành cho người dùng. Ở phân khúc SUV 7 chỗ cỡ D, gần như '
+            'toàn bộ hãng xe cùng có sản phẩm để đánh chiếm thị phần. '
+            'Chevrolet Trailblazer, Ford Everest, Isuzu mu-X, Hyundai Santa '
+            'Fe, Mitsubishi Pajero Sport, Peugeot 5008 và Toyota Fortuner là '
+            'những lựa chọn đang sẵn trên thị trường. Đầu tháng 3, toàn bộ '
+            'phiên bản của Nissan Terra đều được tặng phụ kiện kèm theo tiền '
+            'mặt 20 triệu với phiên bản V và 30 triệu với phiên bản S, E. Động '
+            'thái nhằm kích cầu cho tân binh mới ra nhập phân khúc. Hôm 18/3, '
+            'SUV 7 chỗ Nhật Bản bất ngờ công bố giá niêm yết mới đối với phiên '
+            'bản S và E, giảm lần lượt 29 triệu và 28 triệu, giữ nguyên ưu đãi '
+            'từ đầu tháng. Nhân viên kinh doanh tại đại lý Nissan ở Hà Nội cho '
+            'biết Terra hiện sẵn xe, đủ màu và có khuyến mãi tốt hơn chương '
+            'trình công bố từ hãng. Toyota Fortuner sau thời gian sốt hiện '
+            'hưởng nhiều chính sách bán hàng tốt. Phiên bản số sàn giảm giá '
+            'khoảng 50 triệu, số tự động giảm 20 triệu đối với xe sản xuất năm '
+            '2019 và 40 triệu với xe sản xuất năm 2018 còn tồn. Sau hơn một '
+            'năm nhập khẩu, SUV của Toyota nhiều khả năng sẽ lắp ráp tại Việt '
+            'Nam từ quý III. SUV Mỹ Chevrolet Trailblaizer ngay từ lúc mở bán '
+            'cách đây khoảng một năm đã giảm giá, tặng quà. Năm 2019, hệ thống '
+            'Chevrolet được vận hành bởi VinFast, tiếp tục áp dụng các chính '
+            'sách khuyến mãi. Đầu tháng 3, xe giảm 50 triệu so với giá niêm '
+            'yết cho toàn bộ phiên bản. Bên cạnh đó, tuỳ đại lý, khách nhận '
+            'được những chính sách ưu đãi khác cho từng phiên bản. Giảm giá '
+            'cũng được Mitsubishi Việt Nam áp dụng đối với dòng xe nhập khẩu '
+            'Pajero Sport trong nhiều tháng. Hiện tại, xe giảm 30 triệu tại '
+            'đại lý, đối với toàn bộ 6 phiên bản.\xa0Peugeot 5008 do Trường '
+            'Hải phân phối hiện nhận được nhiều ưu đãi về phụ kiện, dịch vụ '
+            'sau bán hàng. Đi ngược với cuộc đua khuyến mãi từ xe nhập khẩu ở '
+            'trên, cả hai dòng xe Hyunda Santa Fe và Ford Everest đều không có '
+            'chương trình gì. Thậm chí, người mua xe có thể phải chi thêm tiền '
+            'mua phụ kiện. Santa Fe được một số đại lý Hyundai chào giá như '
+            'niêm yết. Không có hiện tượng chênh nhiều như cách đây vài tháng, '
+            'tuy nhiên khách vẫn phải chi tiền mua phụ kiện nếu muốn nhận xe '
+            'sớm. "Xe không nhiều tại đại lý, hãng cũng không có chương trình. '
+            'Mức chênh lệch thấp hơn trước Tết nhưng khách vẫn phải mua phụ '
+            'kiện", nhân viên kinh doanh xe Hyundai chia sẻ. Trong khi đó, một '
+            'số đại lý Ford cho biết Everest hiện khan hàng với một số màu như '
+            'đen và đỏ phiên bản 2 cầu, phải chờ đến tháng 4 hoặc tháng 5, '
+            'trong khi màu vàng có xe giao ngay. Người mua có thể phải chi '
+            'thêm khoảng 50-60 triệu cho phụ kiện, bảo hành. Mức chênh lệch '
+            'tại TP HCM thấp hơn, khoảng 15-20 triệu đồng cho gói bảo hành, '
+            'tuỳ từng đại lý. Kể từ đầu năm, Toyota Fortuner vẫn giữ vững ngôi '
+            'đầu về doanh số trong phân khúc. Santa Fe và Everest có doanh số '
+            'khá gần nhau, trong khi các dòng xe còn lại lẹt đẹt hơn ở nhóm '
+            'dưới. Không chỉ cạnh tranh trực tiếp với nhau, các mẫu SUV 7 chỗ '
+            'còn vướng phải sự cạnh tranh của những mẫu crossover 5+2 khác như '
+            'Mitsubishi Outlander, Honda CR-V hay Nissan X-Trail.',
+ 'datetime': 'Thứ năm, 21/3/2019, 07:04 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2019/03/20/gia-nissan-terra-9663-1553073211.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=GNk3W4JT8QbEgTmb2dD8Xw',
+                  'https://i1-vnexpress.vnecdn.net/2019/03/20/gia-hyundai-santa-fe-4121-1553073211.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=1MvFmJWe9DtJukAd0No_cQ'],
+ 'tags': ['giá ô tô tháng 3',
+          'giá santa fe tháng 3',
+          'giá fortuner tháng 3',
+          'giá everest tháng 3',
+          'ô tô giảm giá tháng 3'],
+ 'title': 'Náo nhiệt cuộc đua giá SUV 7 chỗ tại Việt Nam'}

@@ -1,0 +1,25 @@
+{'description': 'Đèn pha Cốc chiếu sáng sân bóng Sân bóng là một nơi mà mọi '
+                'người thường xuyên phải vận động liên tục và di chuyển một '
+                'các rất nhanh, do đó cần phải có nguồn ánh sáng rõ ràng đảm '
+                'bảo mọi thứ đều có thể nhìn rõ được. Đèn pha tròn chính là '
+                'nguồn ánh sáng chân thực rõ ràng để mọi hoạt động an toàn '
+                'hơn. Hệ thống đèn LED tăng độ đồng đều chiếu sáng trên mặt '
+                'sân cỏ nhân tạo, giảm độ chói lóa, giúp cho cầu thủ quan sát '
+                'dễ hơn khi đá bóng Đèn LED không chỉ giảm chi phí chiếu sáng '
+                'tới 90%, nó cũng sẽ làm giảm chi phí bảo dưỡng và thay thế '
+                'bóng đèn mới. Những sản phẩm đèn LED tuổi thọ kéo dài trên '
+                '50.000 giờ, có nghĩa là nó sẽ không cần phải được thay thế '
+                'trong gần 3 năm.',
+ 'name': 'Đèn pha cốc chiếu sáng sân bóng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/5de4ef8a5aa25c34e97690563786025f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/4e2645e41cd050e85edd8b4b86a26482.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/9f20f30f24ba3e53cf058802fd6e8869.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/f5e8f9685932edccfe1d79302d10dcca.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/28992606167790940ac79e23588353dc.png'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 673+679 Đường Tam Trinh, P.Yên Sở, Q.Hoàng '
+                       'Mai,TP.Hà Nội',
+            'date': '08-06-2020',
+            'name': 'Công Ty TNHH Cơ Điện Ngọc Khôi',
+            'phone': '091 864 3322'},
+ 'tags': ['Dịch vụ', 'Tìm đối tác', 'Đèn pha Cốc chiếu sáng sân bóng']}

@@ -1,0 +1,33 @@
+{'description': 'Có thể nói rằng, việc đầu tư kinh doanh KHU VUI CHƠI TRẺ EM '
+                'là xu hướng đầu tư khôn ngoan và không bao giờ là hết thời! '
+                'Bởi lẽ những gì chúng mang lại cho các bé thậm chí còn nằm '
+                'ngoài sức tưởng tượng của các bậc phụ huynh cũng như nhà '
+                'trường. Trong khi xã hội đang tạo ra hàng loạt áp lực lớn nhỏ '
+                'cho bé từ việc phải đạt thành tích cao trong học tập. Không '
+                'chỉ có vậy, khi bé tiếp xúc quá sớm với công nghệ, và '
+                '"nghiện" công nghệ, khiến nhiều trẻ có hiện tượng trầm cảm, '
+                'tự kỷ, thậm chí sinh ra tâm lý đối kháng. Vậy nên, việc tiếp '
+                'xúc với những khu vui chơi là phương pháp giải tỏa tâm lý vô '
+                'cùng lành mạnh, bổ ích và mang lại hiệu quả cao. Vì thế, tiềm '
+                'năng thị trường còng rất lớn. Nhưng để đạt được hiểu quả cao '
+                'nhất, thì buộc khu vui chơi của bạn phải có ý tưởng thiết kế '
+                'không gian chơi độc đáo, khác biệt, phù hợp với nhu cầu và xu '
+                'hướng hiện nay. Mang lại cho bé sự hứng khởi, kích thích trí '
+                'tò mò và thu hút sự quan tâm của khách hàng hơn.',
+ 'name': 'Thiết kế khu vui chơi trẻ em đa dạng và thu hút 2020',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/23/d013b4cde8c5b69fdf5acd5d34e4cbed.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/91e0aa4370da617113e5ecbe32f1f941.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/d256d2b87f6be184fe4133d8c9a1f6c3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/d23b259d101083b576971005d3b603be.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/f3324f0f59f27f2619ca0a1f66ddc386.jpeg'],
+ 'price': '160.000',
+ 'seller': {'address': '158/56/17 Phạm Văn Chiêu, Phường 9 ,Quận Gò Vấp ,TP. '
+                       'Hồ Chí Minh',
+            'date': '03-07-2020',
+            'name': 'Goadesignmtv',
+            'phone': '0386548399'},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          'GOADESIGN',
+          ' Mũi Tên Vàng',
+          ' Thiết Kế Thi Công Khu Vui Chơi']}

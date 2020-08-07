@@ -1,0 +1,27 @@
+{'description': 'Ưu điểm của phân bón hữu cơ vi sinh Trong thành phần có chứa '
+                'nhiều loại vi sinh vật có lợi cho cây trồng như: vi sinh vật '
+                'phân giải hữu cơ, vi sinh vật cố định đạm, vi sinh vật ký '
+                'sinh, vi sinh vật đối kháng, vi sinh vật phân hủy xenlulo,….. '
+                'Nhờ vào việc chứa nhiều vi sinh vật có lợi, phân bón hữu cơ '
+                'vi sinh giúp bổ sung thúc đẩy sự phát triển của hệ vi sinh '
+                'vật đất, phân giải các chất cây trồng khó hấp thu thành dạng '
+                'dễ hấp thu cho cây trồng, tổng hợp một số chất dinh dưỡng đối '
+                'với cây trồng chủ yếu là đạm (N), khống chế các mầm bệnh tồn '
+                'tại trong đất, nâng cao hiệu quả sử dung hấp thu phân bón. '
+                'https://vinatap.vn/phan-bon-huu-co-vi-sinh-cho-cay-trong.html '
+                'C.TY VINATAP VIỆT NAM Địa chỉ: NHÀ MÁY : YÊN MỸ - THANH TRÌ - '
+                'HÀ HỘI : 0983 39 68 11 Phone: Miền Bắc : 0983396811. Miền '
+                'Trung : 0912100112. Miền Nam : 0903228893. Dự Án : 0835881888 '
+                '; Inbox : vinatap@gmail.com Email: Vinatap@gmail.com Website: '
+                'https://vinatap.vn',
+ 'name': 'Phân bón hữu cơ vi sinh cho cây trồng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/06/20/b1d767ef78a091f70dd07b9a53a271b3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/20/e5be01e298d38e9f4df969588069e572.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/20/69c8c0148bcfa963baad8e7ad4b4fd28.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/20/979d1fe438c46aca949a42145b6e0542.jpeg'],
+ 'price': '500.000',
+ 'seller': {'address': 'YÊN MỸ - THANH TRÌ - HÀ HỘI',
+            'date': '22-03-2019',
+            'name': 'Vinatap',
+            'phone': '0903228893'},
+ 'tags': ['Hà Nội', 'Khác', 'Cây cảnh']}

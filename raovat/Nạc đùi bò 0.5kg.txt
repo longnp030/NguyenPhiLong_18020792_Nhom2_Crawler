@@ -1,0 +1,13 @@
+{'description': 'Thịt màu đỏ đến đỏ sậm Màu thịt đồng nhất từ ngoài đến trong '
+                'Mùi bò đặc trưng Thịt tươi, bề mặt thịt khô, cơ thịt chắc, độ '
+                'đàn hồi cao, không mỡ Giao hàng tận nơi các khu vực: Hóc Môn, '
+                'Quận 12, Tân Bình, Gò Vấp Có ship COD Link mua sắm các sản '
+                'phẩm khác: batvang.vn/',
+ 'name': 'Nạc đùi bò 0.5kg',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/14/32b83633f07aef488e1ab279ba3fa5ed.jpeg'],
+ 'price': '111.000',
+ 'seller': {'address': '79A Nguyễn Thị Đành, Hóc Môn',
+            'date': '13-05-2020',
+            'name': 'yenlinh1121987',
+            'phone': '0909 581 762'},
+ 'tags': ['TP Hồ Chí Minh', 'Ẩm thực, du lịch', 'Ẩm thực']}

@@ -1,0 +1,32 @@
+{'description': 'Công ty Bình Minh với dây truyền sản xuất hiện đại từ Châu '
+                'Âu, chúng tôi tự hào là nhà sản xuất lưới chắn côn trùng lâu '
+                'đời và uy tín nhất tại miền Bắc. Với đội ngũ kỹ thuật và công '
+                'nhân lành nghề nhà máy sản xuất của Bình Minh hàng năm cung '
+                'câp ra thị trường khối lượng rất lớn lưới chắn côn trùng đa '
+                'dạng về chủng loại, kích cỡ,… và chất lượng không ngừng được '
+                'nâng cao. + Nguyên liệu sản xuất được nhập khẩu từ Châu Âu và '
+                'Thái Lan (những nơi có chất lượng hạt nhựa tốt nhất), chúng '
+                'tôi luôn đảm bảo sợi cước trong và có độ dẻo dai sau nhiều '
+                'năm sử dụng. + Lưới chắn côn trùng Bình Minh có chứa thành '
+                'phần chống lại sự phá hủy của tia UV và được chúng tôi bảo '
+                'hành về chất lượng đã được khẳng định với khách hàng suốt '
+                'thời gian qua. Chúng tôi cảm ơn các đại lý cũng như quý khách '
+                'hàng trên toàn quốc đã luôn đồng hành và tin dùng sản phẩm '
+                'lưới chắn côn trùng của Công ty Bình Minh. Chúng tôi với cam '
+                'kết chất lượng cao cùng giá thành tốt nhất. Nhà lưới trồng '
+                'rau - Lưới chắn côn trùng',
+ 'name': 'Lưới chắn côn trùng, lưới chắn côn trùng 32 mesh, lưới chắn côn '
+         'trùng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/10/0fdaada44b58079c34d56bab8d99165d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/10/0e6d740fb423403d551926042aca00c2.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/10/a85e32c1a0ca86d187f2646f696f00ea.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/10/14375b93ca43809e769f13db3ab561d6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/10/221f55c0f4b98a4b6836375920b461dc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/10/dde08cb0ce85b45e0dc40be0e8462414.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt - Quận Cầu Giấy - '
+                       'TP. Hà Nội',
+            'date': '10-10-2018',
+            'name': 'nhaluoibinhminh',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

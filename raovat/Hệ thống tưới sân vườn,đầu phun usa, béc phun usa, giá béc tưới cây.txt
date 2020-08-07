@@ -1,0 +1,29 @@
+{'description': 'Béc tưới xoay phun mưa quay 360 độ tưới rau, lan, cây kiểng '
+                'Béc tưới xoay phun mưa quay 360 độ là loại béc tưới cây khi '
+                'phun nước sẽ quay thân tròn giúp lượng nước phun sẽ được tưới '
+                'đều từ trong ra ngoài dao động bán kính tưới bao phùn từ 0,5 '
+                '– 4m sẽ liên tục để phạm vi tưới đáp ứng đủ lượng nước '
+                'tưới.công ty cổ phần công nghệ tưới Binh minh Thông số kỹ '
+                'thuật béc tưới xoay phun mưa quay 360 độ Loại béc phun: phun '
+                'ngang, béc xoay tròn phun mưa 360 độ Bán kính phun : từ 2-4m '
+                'Áp lực nước tưới : 0,8- 1.6 bar ứng dụng: tưới cỏ, rau, tưới '
+                'cây Bộ tưới cây tự động đơn giản giúp hoàn toàn tự động thông '
+                'minh theo thời gian người tiêu đùng thiết lập thì bộ tưới sẽ '
+                'tưới mỗi ngày cho cây giúp tiết kiệm thời gian, dùng khi bạn '
+                'đi công tác, đi du lích nhà hoặc không có thời gian chăm sóc '
+                'cây vẫn tưới tốt.. Công ty Cổ phần Công nghệ tưới Bình Minh '
+                'VP bán hàng Hà Nội: Số 2, Ngõ 238 Đường Hoàng Quốc Việt - '
+                'Quận Cầu Giấy - TP. Hà Nội',
+ 'name': 'Hệ thống tưới sân vườn,đầu phun usa, béc phun usa, giá béc tưới cây',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/04/20/1a6f6fbc637037b6cb377522fa878f81.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/20/903a231628345fba552e1b15afa96e68.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/20/594981e4e593234c9ad4544aa9a88ea7.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/20/a37a183f77c4dd298820a9f0ecfeb85b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/20/4fe099004450bd832fc84ce2c5ff27ca.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/20/010cf1c0a32c77d5fdb315dde0a870ea.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '15-03-2019',
+            'name': 'mangkinhpolitivvn',
+            'phone': None},
+ 'tags': ['Khác', 'Cây cảnh', 'tưới phun mưa']}

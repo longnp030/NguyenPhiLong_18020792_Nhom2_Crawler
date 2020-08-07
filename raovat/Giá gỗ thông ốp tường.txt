@@ -1,0 +1,33 @@
+{'description': 'Tigerwood vừa nhập kho 4 cont Gỗ thông ốp tường với chất '
+                'lượng tuyệt vời luôn sẵn sàng phục vụ quý khách. – Xuất xứ: '
+                'Mỹ – Độ đày: 25mm, 32mm,...( xẻ sấy theo yêu cầu) – Độ dài: '
+                'Từ 2m đến 6m – Mặt rộng: 100-150-200 (mm) ‼️‼️‼️ Gỗ thông ốp '
+                'tường được sử dụng rộng rãi trong ngành thi công nội thất. So '
+                'với nhiều dòng gỗ thì giá gỗ thông ốp tường khá thấp. Nên bạn '
+                'có thể sở hữu số lượng lớn với chi phí tiết kiệm mà sản phẩm '
+                'làm ra lại đạt được tính thẩm mỹ cao. Giá gỗ thông ốp tường  '
+                'bao nhiêu 1 khối ?Báo Gỗ thông ốp tường  bán ở đâu ? Báo giá '
+                'gỗ thông ốp tường hiện nay như thế nào ? Đều là những câu hỏi '
+                'khó trả lời cho các chủ doanh nghiệp khi nghĩ đến việc kinh '
+                'doanh sản xuất. Hiện nay bên ngoài thị trường có rất nhiều '
+                'nhà cung cấp với nhiều loại gỗ thông mỹ khác nhau. Vì vậy quý '
+                'khách khi mua phải biết Giá Gỗ thông ốp tường phụ thuộc vào '
+                'những yếu tố sau – Xuất xứ – Quy cách – Độ dày – Độ dài Và '
+                'đặc biệt là: Qúa trình nhập khẩu ( Trực tiếp hoặc Trung '
+                'gian).',
+ 'name': 'Giá gỗ thông ốp tường',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/21/f6ce684d20126138dc4dcf391180beb0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/1512b45ea6307382a67f8ffd67549a33.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/ad10f2a279c3afb364dbdbedf1187c33.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/d53f778e5b70fa8ec16265828e0c1721.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '661,The oasis II, KDC Vietsing, P.An Phú, Thuận '
+                       'An,Bình Dương',
+            'date': '21-07-2020',
+            'name': 'thpt.thaihoa.tranvanhung@gmail.com',
+            'phone': '0907665335'},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          'giá gỗ thông ốp tường',
+          ' gỗ thông mỹ ốp tường',
+          ' ốp tường gỗ thông']}

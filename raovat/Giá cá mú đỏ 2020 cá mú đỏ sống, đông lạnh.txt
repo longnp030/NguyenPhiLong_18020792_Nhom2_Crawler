@@ -1,0 +1,25 @@
+{'description': 'Cá mú đỏ là loại hải sản được đánh bắt hoàn toàn từ tự nhiên. '
+                'Đây là loại hải sản hiếm và giá trị cao. Chất lượng thịt cá '
+                'hơn hẳn cá loại cá mú khác như mú trân châu, mú nghệ… Cá mú '
+                'đỏ có thể chế biến được nhiều món ngon như: hấp xì dầu, '
+                'nướng, phi lê tái chanh hoặc nấu cháo cá mú cùng với đậu '
+                'xanh, hạt sen…rất thơm ngon bổ dưỡng. Giá cá mú đỏ - Cá mú đỏ '
+                'cấp đông 500g - 1kg: 340,000 đ/kg. - Cá mú đỏ cấp đông 700g '
+                'up: 460,000 đ/kg. - Cá mú đỏ sống 700 - 3kg: 1,400,000 đ/kg. '
+                '>> giá cá mú đỏ mới cập nhật: https://24hseamart.vn/ca-mu-do '
+                'Cá tươi ngon được chọn lọc kĩ trước khi giao khách. Hàng mới '
+                'về mỗi ngày. Đảm bảo cung sản phẩm chất lượng cho bữa ăn gia '
+                'đình hay tiệc tùng cuối tuần của quý khách. Ngoài ra, 24H '
+                'Seamart\xa0có đầu bếp giàu kinh nghiệm chế biến hải sản sẽ '
+                'lên món theo yêu cầu của quý khách. Đảm bảo tiện lợi cho '
+                'khách dùng món.',
+ 'name': 'Giá cá mú đỏ 2020 cá mú đỏ sống, đông lạnh',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/12/dbc33fec2cc2cd0aed3b5f2361804aac.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/12/8fe5ce5d2e7519b2a32ba624e7e83a28.jpeg'],
+ 'price': '340.000',
+ 'seller': {'address': 'G9, Lô D, CC Hà Đô, Đường Nguyễn Văn Công, Q. Gò Vấp, '
+                       'TP. HCM',
+            'date': '13-09-2019',
+            'name': 'Hải sản sạch 24hseamart',
+            'phone': '0909579755'},
+ 'tags': ['TP Hồ Chí Minh', 'Ẩm thực, du lịch', 'Ẩm thực']}

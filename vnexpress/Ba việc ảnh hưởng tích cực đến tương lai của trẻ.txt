@@ -1,0 +1,58 @@
+{'author': 'Thạc sĩ sư phạm giáo dục Thái Hà Vũ',
+ 'categories': ['Giáo dục'],
+ 'content': 'Theo một nghiên cứu về giáo dục ở Anh, ba việc cha mẹ nên làm là: '
+            'Dành thời gian, quan tâm đến con; đọc sách cho con hàng ngày; cho '
+            'con đi ngủ vào một giờ nhất định và ngủ đủ giấc. Nghiên cứu này '
+            'được thực hiện từ năm 1946 khi số lượng trẻ chết sớm tăng đột '
+            'biến và là một trong những nghiên cứu lâu năm nhất về con người '
+            'trên thế giới. Khoảng 14.000 bà mẹ cùng con đã tham gia. Nhóm '
+            'nghiên cứu chỉ ra nghèo đói là nguyên nhân cốt lõi ảnh hưởng đến '
+            'cơ hội, tương lai của trẻ. Nhưng nếu thực hiện ba việc làm kể '
+            'trên sẽ tăng cơ hội tích cực cho tương lai của trẻ, khiến nhân tố '
+            'nghèo đói không còn đáng sợ nữa. Việc dành thời gian và quan tâm '
+            'đến trẻ sẽ khiến trẻ phát triển tốt về mặt cảm xúc. Chúng sẽ thấy '
+            'an toàn, tự tin, tự chủ, không bị đơn độc trong các vấn đề của '
+            'mình vì điểm tựa vững chắc cha mẹ mang lại. Hơn thế, kết nối giữa '
+            'cha mẹ và con cái sẽ được củng cố, là một trong những yếu tố quan '
+            'trọng giúp giáo dục trong gia đình có được thành công. Đọc sách '
+            'cho con thường xuyên, mỗi ngày củng cố đối thoại, giao tiếp, ảnh '
+            'hưởng tích cực đến mối quan hệ cha mẹ, con cái. Đọc sách cũng là '
+            'phương thức giúp con làm quen với thế giới, tiếp cận với tri '
+            'thức, làm phong phú tâm hồn, trí tưởng tượng, chắp cánh ước mơ '
+            'cho con, thúc đẩy sự phát triển tích cực về mặt ngôn ngữ của con. '
+            'Thời gian bên nhau khi đọc sách tạo nên ký ức tốt đẹp, một điểm '
+            'tựa tinh thần tích cực cho con sau này khi nhớ về tuổi thơ. Vì '
+            'trí não và cơ thể của trẻ phát triển khi ngủ nên việc đi ngủ vào '
+            'một giờ nhất định giúp con có giấc ngủ ngon, sâu. Ngủ đủ giấc '
+            'giúp thiết lập ổn định nhịp điệu sinh học trong cơ thể, giúp con '
+            'được nghỉ ngơi thật tốt, là điều kiện quan trọng để trí não phát '
+            'triển, cơ thể sản xuất ra hóc môn tăng trưởng chiều cao, giảm '
+            'thiểu những nguy cơ trong rối loạn hành vi, ứng xử ở trẻ. Theo '
+            'Hiệp hội giấc ngủ Mỹ, trẻ ở mỗi lứa tuổi cần thời lượng ngủ khác '
+            'nhau: - 0-3 tháng tuổi: 14-17 tiếng. - 4-11 tháng tuổi: 12-15 '
+            'tiếng. - 1-2 tuổi: 11-14 tiếng. - 3-5 tuổi: 10-13 tiếng. - 3-13 '
+            'tuổi: 9-11 tiếng. - Người lớn: 7-9 tiếng. Để trẻ ngủ ngon và sâu '
+            'thì trước khi đi ngủ 1-2 tiếng, cha mẹ không nên cho con xem tivi '
+            'hay những chương trình gây cảm xúc mạnh. Cách tốt nhất là đọc '
+            'truyện, kể, nói chuyện gì đó nhẹ nhàng mà trẻ thích, chơi những '
+            'trò gì đó yên tĩnh để bộ não của trẻ dần về trạng thái nghỉ ngơi. '
+            'Những thói quen như đánh răng, mặc bộ quần áo ngủ thơm tho, thoải '
+            'mái, có thú nhồi bông, gối ôm, đồ chơi yêu thích bên cạnh, phòng '
+            'ốc thông thoáng và để tối (không dùng hoặc hạn chế đèn ngủ)... '
+            'giúp trẻ có cảm giác an toàn và ngủ tốt. Việc trẻ mơ ác mộng hay '
+            'bóng đè nếu không xảy ra thường xuyên, lặp lại, gây sợ hãi bấn '
+            'loạn thì không cần lo lắng. Khi đau ốm, tinh thần ủ rũ bất an, có '
+            'chuyện buồn, trẻ có thể mơ ác mộng. Ngoài ra trong khoảng 3-5 '
+            'tuổi, giai đoạn trí não non nớt của trẻ đang ở giai đoạn phát '
+            'triển với cường độ cao, việc tiếp nhận và xử lý thông tin diễn ra '
+            'ở mức độ nhiều hơn bình thường thì ngủ mơ là một kiểu xử lý thông '
+            'tin của não bộ. Vì mỗi đứa trẻ có độ nhạy cảm, sức chịu đựng khác '
+            'nhau nên việc ngủ mơ cũng khác nhau về cấp độ. Từ Frankfurt am '
+            'Main, Đức',
+ 'datetime': 'Thứ hai, 20/7/2020, 04:00 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2020/07/19/ngu-8002-1595175500.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=QItyPPNx949Q067JwqIKgw'],
+ 'tags': ['ảnh hưởng',
+          'tương lai trẻ',
+          'nuôi dạy con',
+          'inh nghiệm nuôi dạy con'],
+ 'title': 'Ba việc ảnh hưởng tích cực đến tương lai của trẻ'}

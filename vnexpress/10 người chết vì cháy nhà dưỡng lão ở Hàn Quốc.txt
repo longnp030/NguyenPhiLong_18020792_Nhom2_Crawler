@@ -1,0 +1,14 @@
+{'author': 'Mai Trang',
+ 'categories': ['Thế giới'],
+ 'content': 'Hỏa hoạn xảy ra ở khu nhà hai tầng của nhà dưỡng lão thành phố '
+            'miền đông nam Pohang, AFP cho biết. Theo các nhân viên cứu hỏa, '
+            'các nạn nhân đều ở độ tuổi ngoài 80. Các cụ già thiệt mạng do bị '
+            'ngạt khói, bởi họ không thể di chuyển nhanh khi đám cháy bùng '
+            'lên, một phát ngôn viên trạm cứu hỏa quận Nambu, Pohang, nói. '
+            'Khoảng 20 xe và 200 lính cứu hỏa đã tới hiện trường, và dập đám '
+            'cháy trong vòng 30 phút. Cảnh sát đang điều tra nguyên nhân vụ '
+            'hỏa hoạn.',
+ 'datetime': 'Thứ sáu, 12/11/2010, 07:57 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': '10 người chết vì cháy nhà dưỡng lão ở Hàn Quốc'}

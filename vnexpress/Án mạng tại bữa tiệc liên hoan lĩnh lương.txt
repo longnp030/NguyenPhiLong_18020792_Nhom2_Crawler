@@ -1,0 +1,14 @@
+{'author': 'Nam Anh',
+ 'categories': ['Pháp luật'],
+ 'content': '10 công nhân nam nữ, tổ chức ăn uống tại nhà thuê trọ thuộc quận '
+            'Long Biên, Hà Nội. Thấy ồn ào và đã quá khuya, Đào Minh Châu, 39 '
+            'tuổi và cháu ruột Đào Xuân Thuỷ, trọ tại phòng bên, sang đề nghị '
+            'giải tán. Lời qua tiếng lại dẫn đến xô xát xảy ra. Châu về nhà '
+            'lấy dao nhọn đâm chết ngay tại chỗ một công nhân 39 tuổi. Một '
+            'công nhân khác cũng bị chém bị thương. Thủy dùng gậy vụt, hỗ trợ '
+            'chú. Chiều 24/10, Thủy và Châu đến Công an quận Long Biên đầu '
+            'thú.',
+ 'datetime': 'Thứ bảy, 25/10/2008, 15:24 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Án mạng tại bữa tiệc liên hoan lĩnh lương'}

@@ -1,0 +1,34 @@
+{'description': 'Khổ qua được dùng để chiết trích các dược chất làm thuốc trị '
+                'tiểu đường, giảm mỡ. Công dụng Giàu chất xơ: Giảm hấp thu mỡ '
+                'và cholesterol, bảo vệ thành ruột, nhuận trường, cải thiện '
+                'sức khỏe ruột già, giảm cân Giàu kháng oxi hóa tự nhiên: '
+                'polyphenols (catechin, gallic acid, epicatechin, and '
+                'chlorogenic acid): bảo vệ tế báo khỏi các tổn hại do oxi hóa, '
+                'giảm ung thư, mất trí nhớ, giảm lão hóa Giàu vitamin C: tăng '
+                'đề kháng Công dụng mật ong: tăng đề kháng, giảm sưng viêm, '
+                'giải cảm ho, kháng oxi hóa, vi chất dinh dưỡng. Khổ Qua Mật '
+                'Ong Sấy Dẻo là kết quả của quy trình chế biến được nghiên cứu '
+                'và phát triển bởi các Giáo Sư, Tiến Sĩ ở trường Đại học Nông '
+                'Lâm TPHCM. ‘Thuốc đắng dã tật’ Dạng sấy Sấy dẻo - sử dụng '
+                'nhiệt độ cao (50 - 70 độ C) để làm mất đi một phần hơi nước '
+                'của sản phẩm rồi đem đi làm mát Đặc tính Dẻo, mềm, hơi dai '
+                'Năng lượng 323kcal/100g Khối lượng 100g Thành phần Khổ qua '
+                '(90.5%), mật ong (7%), đường kính trắng, chất điều chỉnh độ '
+                'acid (E330), hương mật ong tổng hợp',
+ 'name': 'Khổ qua mật ong sấy dẻo Nong Lam Food hộp 100g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/13/3b0de18ab97af0b7d985fe3fc1956b08.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/9d6ea39c587ec5b2b33d51d5d542d532.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/1ee5820223c9922a360e1bb0be11139f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/aa94666060304660e0792d64b2211ba2.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/d1b45a311c29e5cffd14cf4895dae43d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/f6177294c3aaf728dc7e756fd1e4befa.jpeg'],
+ 'price': '55.000',
+ 'seller': {'address': 'nonglamstorecom@gmail.com',
+            'date': '13-05-2020',
+            'name': 'Nông Lâm Store',
+            'phone': '0902 883 335'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Khổ Qua Sấy Dẻo',
+          ' Khổ qua sấy giòn',
+          ' Khổ qua sấy khô có tác dụng gì']}

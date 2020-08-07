@@ -1,0 +1,35 @@
+{'description': 'Vé  tắm bùn hòn Tằm Premium Mudbath dành cho quý khách muốn '
+                'tham quan và trải nghiệm hòn Tằm xinh đẹp gói gọn trong một '
+                'ngày, thời gian bắt đầu từ 08h sáng đến 17 giờ. Quý khách '
+                'tham gia tour hòn Tằm trọn gói Premium Mudbath sẽ được sử '
+                'dụng dịch vụ sau: – Cano cao tốc sẽ đưa đón quý khách 2 chiều '
+                'từ cảng Cầu Đá đến bến cảng hòn Tằm và ngược lại với tần suất '
+                '01h/chuyến, bắt đầu từ 08h. – Vé hòn Tằm (vé vào cổng) – Set '
+                'menu trưa gồm nhiều món ẩm thực truyền thống và hải sản tại '
+                'nhà hàng Hồn Việt. Thời gian từ 11h đến 13h30 – Tắm bùn hòn '
+                'Tằm: tắm bùn trên đảo hòn Tằm, tắm khoáng nóng, hồ Jacuzzi – '
+                'Ghế nằm, dù mát: được trang bị và phục vụ hoàn toàn miễn phí '
+                'tại rất trên khắp diện tích của khu tắm bùn Đối với tour hòn '
+                'Tằm trọn gói trong ngày – Premium Mudbath, giá vé cơ bản được '
+                'tính như sau: - Người lớn: 550,000 đồng. - Giá vé trẻ em '
+                '(Chiều cao từ 1m đến 1,3m): 385,000 đồng - Giá vé em bé '
+                '(Chiều cao dưới 1m) : Miễn phí Website: '
+                'https://booking.hontam.com.vn',
+ 'name': '[Tour Hòn Tằm] vé tắm bùn hòn Tằm Prime Mudbath',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/01/6aabc32471d159796f1ad7145d92a703.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/1945fb91d56fde7a37640ae8acb8b227.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/be3bd7460ecfa2dbf615848b31cfc3ae.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/b7ab197d40112e20235d6359fc11c099.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/ec21cfc967f74a9860543344f73e1663.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/ca0e5942565d442f2ff9926770f3dac8.jpeg'],
+ 'price': '550.000',
+ 'seller': {'address': 'Đảo hòn Tằm, phường Vĩnh Nguyên, thành phố Nha Trang, '
+                       'tỉnh Khánh Hòa',
+            'date': '01-06-2020',
+            'name': 'Hòn Tằm. Travel',
+            'phone': '0374333444'},
+ 'tags': ['Khánh Hòa',
+          'Thành phố Nha Trang',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'tắm bùn hòn tằm']}

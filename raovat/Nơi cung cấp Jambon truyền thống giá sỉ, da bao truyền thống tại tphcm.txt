@@ -1,0 +1,32 @@
+{'description': 'TP An Sinh là nơi cung cấp jambon truyền thống giá sỉ, da bao '
+                'truyền thống giá sỉ hàng đầu VN. Ngoài là công ty cung cấp '
+                'jambon truyền thống giá sỉ, da bao truyền thống giá sỉ chúng '
+                'tôi còn là công ty cụng cấp thịt nguội bánh mì giá sỉ JAMBON '
+                'TRUYỀN THỐNG GIÁ SỈ: 110.000/kg Pate:70,000/kg Da bao loại 1: '
+                '87,000 Da bao loại 2: 75,000 Gio Lụa loại 1: 77,000 Giò Lụa '
+                'loại 2: 67,000 Giò Bò loại 1: 120,000 Giò bò loại 2: 80,000 '
+                'Gio Thủ: 80,000 Xúc Xích: 67,000 TP AN SINH Bình Hòa 23, TX. '
+                'Thuận An, Bình Dương 331/70/125 Phan Huy Ích, P.14, Q. Gò vấp '
+                'ĐT/Zalo: 0949.065.844 Phía trên là bảng giá jambon truyền '
+                'thống giá sỉ, da bao truyền thống giá sỉ QK có thể tham khảo '
+                'để nắm được mặt bằng giá 2020 tránh bị hớ khi mua sản phẩm '
+                'giá quá cao mà chất lượng thấp Với thương hiệu là công ty '
+                'cung cấp jambon truyền thống giá sỉ, da bao truyền thống giá '
+                'sỉ hàng đầu chúng tôi chuyên cung cấp jambon truyền thống giá '
+                'sỉ, da bao truyền thống giá sỉ nuôi trồng tự nhiên, hàm lượng '
+                'thịt cao, đảm bảo VS- ATTP',
+ 'name': 'Nơi cung cấp Jambon truyền thống giá sỉ, da bao truyền thống tại '
+         'tphcm',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/26/fe1519e6849213aaa37f122f994f3cc5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/26/c8d99abc6fe506605169763503eb307e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/26/aac2082c1941f016db3cf0aa8356b61b.jpeg'],
+ 'price': '100.000',
+ 'seller': {'address': 'thienansinh168@gmail.com',
+            'date': '17-10-2019',
+            'name': 'ANSINH FOOD',
+            'phone': '0949065844'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'công ty cung cấp jambon truyền thống giá sỉ',
+          ' nơi cung cấp jambon truyền thống giá sỉ',
+          ' nơi cung cấp da bao truyền thống giá sỉ tại cà mau']}

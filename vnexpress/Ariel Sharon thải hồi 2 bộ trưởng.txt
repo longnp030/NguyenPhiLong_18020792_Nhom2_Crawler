@@ -1,0 +1,14 @@
+{'author': 'Nguyễn Hạnh',
+ 'categories': ['Thế giới'],
+ 'content': 'Động thái này được tiến hành để kế hoạch rút quân khỏi Gaza được '
+            'thông qua với đa số chênh lệch sít sao. Hiện giờ, 12 bộ trưởng '
+            'trong nội các phản đối kế hoạch, 11 ủng hộ. Với quyết định cách '
+            'chức Lieberman và Elon, ông Sharon sẽ tạo ra chênh lệch 1 phiếu. '
+            'Thủ tướng Israel quyết định như vậy sau khi không đạt thoả hiệp '
+            'với một số thành viên trong đảng Likud về việc ủng hộ kế hoạch '
+            'Gaza, dự kiến sẽ được bỏ phiếu vào ngày 6/6 tới. (theo Reuters, '
+            'AP )',
+ 'datetime': 'Thứ sáu, 4/6/2004, 14:07 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Ariel Sharon thải hồi 2 bộ trưởng'}

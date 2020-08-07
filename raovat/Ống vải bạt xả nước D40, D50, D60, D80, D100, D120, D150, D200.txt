@@ -1,0 +1,26 @@
+{'description': 'Quý khách hàng đang cần mua ống bạt để dẫn nước chất bẩn, '
+                'nước mương, nước cống rãnh hãy liên hệ tới công ty chúng tôi. '
+                'Hotline:0968 638 052 – 0945 916 880 Ống  được làm từ nhựa PVC '
+                'kết hợp với sợi cốt dù xen kẽ giúp cho ống có độ bền và độ '
+                'dẻo dai tốt. Màu sắc: Màu Xanh Đường kính thông dụng: 40mm – '
+                '200mm Độ dày: 0.6mm – 2.8mm Chiều dài tiêu chuẩn: 50m/ 1 '
+                'cuộn, 20m/ 1 cuộn Liên hệ với chúng tôi để mua ống bạt cốt dù '
+                'chính hãng giá rẻ. Chúng tôi luôn sẵn sàng hỗ trợ và tư vấn '
+                'để quý khách lựa chọn những sản phẩm ưng ý nhất. Công Ty TNHH '
+                'sản Xuất Và Thương Mại Uy Vũ Địa chỉ Hà Nội: Số 109 Tựu Liệt, '
+                'Thanh Trì, Hà Nội Địa chỉ HCM: Số 45 Đỗ Xuân Hợp, Phước Long '
+                'B, Q9, TP. HCM ĐT:  0945 916 880 – 0968 638 052 Zalo:0945 916 '
+                '880 Website:http://vattuuyvu.vn Email: ngocanh.uyvu@gmail.com',
+ 'name': 'Ống vải bạt xả nước D40, D50, D60, D80, D100, D120, D150, D200',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/3d1a2a56846643ff4b2aa5958e81a448.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/ab051e3b7de664f6bcc38e591953ed5e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/636c8fedc5d30dc8fb75299dd5ed51f1.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/22ad16b852c483168c9df14981aabf85.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/fa48fe2f6a3cbd9821a6ed50bf175133.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/93e2d21a61c15912c05113d799cdfa66.jpeg'],
+ 'price': '20.000',
+ 'seller': {'address': 'Hà Nội',
+            'date': '26-10-2017',
+            'name': 'ngocanh.uyvu',
+            'phone': '0945916880'},
+ 'tags': ['Dịch vụ', 'Tìm đối tác']}

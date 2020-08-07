@@ -1,0 +1,32 @@
+{'description': 'Phân phối ống bạt bơm nước giá rẻ, liên hệ:0968 638 052 – '
+                '0945 916 880 Ống bạt được sản xuất tại Việt Nam trên dây '
+                'chuyền công nghệ Hàn Quốc Ống mang nhiều ưu điểm đặc biệt nên '
+                'được ứng dụng nhiều trong công trình xây dựng với ưu điểm '
+                'tiết kiệm mang lại hiệu quả cao. Ống  được làm từ nhựa PVC '
+                'kết hợp với sợi cốt dù xen kẽ giúp cho ống có độ bền và độ '
+                'dẻo dai tốt. Ống dày từ 0.6mm – 2.8mm Chiều dài: '
+                '20m/40m/50m/100m Kích thước: 40mm – 200mm Xuất xứ: Việt Nam '
+                'Ưu điềm:  ống có độ mềm mại dẻo dai, kích thước đa dạng, chịu '
+                'được ánh nắng trực tiếp. Đóng gọi dạng cuộn nên tiết kiệm '
+                'được diện tích di chuyển dễ dàng. Ứng dụng: dùng làm ống bơm '
+                'nước công nghiệp, xả nước thải Để hiểu rõ hơn về sản phẩm quý '
+                'khách hàng vui lòng liên hệ ngay với chúng tôi: Điện thoại: '
+                '0945 916 880 – 0968 638 052 Zalo: 0945 916 880 Email: '
+                'ngocanh.uyvu@gmail.com',
+ 'name': 'Ống bơm nước vải bạt D40, D50, D60, D80, D100, D120, D150, D200',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/23/6fb9aba69bcfd5edb7d01f7aed5bf34d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/23d0aaca390ea2e7029e6d47825fc938.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/e6fea3e91693bb3f63d6df7b9d5ab04a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/226ef6abd6d8c946313e3a9c3c171a95.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/ceb778175cb78e5a3c6c5f81d1755868.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/dae6131bd22b7d2694c8a93ade91cd08.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Hà Nội',
+            'date': '26-10-2017',
+            'name': 'ngocanh.uyvu',
+            'phone': '0945916880'},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          'ống bạt bơm nước',
+          ' ống bạt dẫn nước',
+          ' ống bạt tải nước']}

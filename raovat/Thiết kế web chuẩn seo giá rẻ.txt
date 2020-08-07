@@ -1,0 +1,16 @@
+{'description': 'Bạn đang cần xây dựng website ? Bạn đang cần một website bán '
+                'hàng? Bạn đang cần một website giới thiệu về dịch vụ? Hay bạn '
+                'đang cần một website cho bất kỳ lĩnh vực nào? Để hỗ trợ công '
+                'việc kinh doanh tốt hơn: tìm kiếm khách hàng tiềm năng, khẳng '
+                'định thương hiệu,.... Hãy liên hệ 0919417117( Ms.Quà) để tạo '
+                'cho mình một website chuyên nghiệp, chuẩn SEO, giao diện hiện '
+                'đại,đa phương tiện,giá cả hợp lý, tư vấn có tâm và trách '
+                'nhiệm',
+ 'name': 'Thiết kế web chuẩn seo giá rẻ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/16/1c8cad59b5aaaa3c33f9f9bdc6af6d8e.jpeg'],
+ 'price': '2.500.000',
+ 'seller': {'address': '',
+            'date': '16-07-2020',
+            'name': 'myqua.mw99@gmail.com',
+            'phone': None},
+ 'tags': ['Dịch vụ', 'Tìm đối tác', 'thiết kế web', ' website', ' web']}

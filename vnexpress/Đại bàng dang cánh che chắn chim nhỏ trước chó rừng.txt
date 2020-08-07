@@ -1,0 +1,10 @@
+{'author': 'Phương Hoa',
+ 'categories': ['Khoa học'],
+ 'content': '(Ảnh: Caters News )',
+ 'datetime': 'Chủ nhật, 13/11/2016, 07:31 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2016/11/12/VNE-Eagle-1-9656-1478923147.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=gqhS16-QJhI2QmzZYUy5Tw',
+                  'https://i1-vnexpress.vnecdn.net/2016/11/12/VNE-Eagle-2-6595-1478923147.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=YGepg67Sq59Tk_ZSwU2QfQ',
+                  'https://i1-vnexpress.vnecdn.net/2016/11/12/VNE-Eagle-3-3283-1478923147.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=rBfNIZf4w9rjPD74geNcEQ',
+                  'https://i1-vnexpress.vnecdn.net/2016/11/12/VNE-Eagle-4-3911-1478923147.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=H2d1iWlw3zjR0dFBKTPRKg'],
+ 'tags': ['đại bàng', 'chó rừng', 'săn mồi', 'nhiếp ảnh gia nghiệp dư'],
+ 'title': 'Đại bàng dang cánh che chắn chim nhỏ trước chó rừng'}

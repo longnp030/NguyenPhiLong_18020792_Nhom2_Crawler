@@ -1,0 +1,29 @@
+{'description': 'Hệ thống tưới tự động nhỏ giọt và phun mưa cho sân vườn < 200 '
+                'm2 Có thể gọi khu vườn cỡ này là một khu vườn lắm điều, vì '
+                'tuy không quá rộng nhưng nó cũng yêu cầu khá nhiều thứ, phần '
+                'lớn trong số đó liên quan đến việc tưới tắm Thảm cỏ cần được '
+                'tưới thường xuyên, nhưng phải tránh những ngày mưa. Các thảm '
+                'hoa và hàng rào cần được tưới đúng thời điểm trong ngày để '
+                'tránh nước bốc hơi vô ích, nhất là vào mùa nóng. Hơn nữa, nếu '
+                'bạn trồng nhiều loại rau củ trong vườn, phải chú ý rằng mỗi '
+                'loại rau có nhu cầu tưới khác nhau và không được để ứ đọng '
+                'nước, vì sẽ gây ra bệnh tật và khiến cây trồng bị mục '
+                'nát.hethongtuoi.vn giúp bạn giải quyết tất cả những nhu cầu '
+                'này một cách nhanh chóng và hiệu quả: từ các hệ thống tưới '
+                'nổi rất dễ sử dụng, đến các hệ thống tưới ngầm có thể tự lắp '
+                'đặt, dưới sự điều khiển của các bộ hẹn giờ tưới nước điện tử, '
+                'đảm bảo vườn cây của bạn được tưới đúng cách.Hiệu quả nhưng '
+                'thanh lịch.',
+ 'name': 'Hệ thống tưới nước tự động, thiết kế hệ thống tưới nước tự động',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/21/9019e7356dad59d0f0033ba161216072.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/21/0c48318193264940cb6bfeb9eb793ec4.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/21/6d55ca48e8d33f6a30a551ebf9c52848.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/21/2ba0f2f5e8aa358bbebb88b911809cdc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/21/08ed622f4bd8f33f4baee318d7830131.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/21/9eb4c8664ab793436daf3112a80aa340.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt, TP. Hà Nội',
+            'date': '25-11-2018',
+            'name': 'thietbituoitudongbinhminh',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

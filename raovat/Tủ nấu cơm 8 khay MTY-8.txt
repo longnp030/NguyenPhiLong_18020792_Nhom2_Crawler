@@ -1,0 +1,29 @@
+{'description': 'THÔNG TIN SẢN PHẨM Model: MTY-8 Áp suất: 0.015 Mpa Lượng gas '
+                'tiêu thụ: 0,95 kg Nhiệt tải: 43,8x2Kg/h Thời gian chín: 45 – '
+                '50 phút Kích thước: 670x565x1270 mm Sản lượng gạo: 24 kg Tủ '
+                'nấu cơm 8 khay MTY-8 SẢN PHẨM CÙNG LOẠIXEM DẠNG LIST Tủ Nấu '
+                'Cơm Điện OKASU OKA -4KNCVI Tủ Nấu Cơm Điện OKASU OKA -4KNCVI '
+                '7,500,000 VNĐ Bảo hành : 12 tháng Tủ Nấu Cơm Điện OKASU OKA '
+                '6K-D Tủ Nấu Cơm Điện OKASU OKA 6K-D 8,500,000 VNĐ Bảo hành : '
+                '12 tháng Tủ nấu cơm KS-6D Tủ nấu cơm KS-6D 8,950,000 VNĐ Bảo '
+                'hành : 12 tháng Tủ Nấu Cơm Điện 8 Khay Tủ Nấu Cơm Điện 8 Khay '
+                '9,500,000 VNĐ Bảo hành : 12 tháng Tủ Nấu Cơm Điện OKASU OKA '
+                'D6KHU Tủ Nấu Cơm Điện OKASU OKA D6KHU 9,500,000 VNĐ Bảo hành '
+                ': 12 tháng Tủ Nấu Cơm Gas 6 Khay Việt nam Tủ Nấu Cơm Gas 6 '
+                'Khay Việt nam 9,750,000 VNĐ Bảo hành : 12 tháng Tủ Nấu Cơm Ga '
+                'OKASU OKA 6K-G Tủ Nấu Cơm Ga OKASU OKA 6K-G 9,800,000 VNĐ Bảo '
+                'hành : 12 tháng Tủ Nấu Cơm Điện OKASU OKA 10K-D Tủ Nấu Cơm '
+                'Điện OKASU OKA 10K-D 10,200,000 VNĐ Bảo hành : 12 tháng Tủ '
+                'Nấu Cơm Đ',
+ 'name': 'Tủ nấu cơm 8 khay MTY-8',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/04/aa958a61a5d1d14e2fc3d00ca5c1cbe4.jpeg'],
+ 'price': '15.000.000',
+ 'seller': {'address': 'hoanganhokasu@gmail.com',
+            'date': '04-05-2020',
+            'name': 'hoanganhokasu',
+            'phone': '0939.219.368'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 7',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Tủ nấu cơm']}

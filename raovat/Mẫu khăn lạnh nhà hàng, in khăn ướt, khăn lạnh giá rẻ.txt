@@ -1,0 +1,32 @@
+{'description': 'Những mẫu khăn lạnh vỏ kẽm, lõi chấm bi, chất liệu khăn dày '
+                'dặn. Khách có thể đặt loại có mùi hoặc không mùi giá vẫn '
+                'không thay đổi ạ. In Bảo An đảm bảo hàng chuẩn cho khách, từ '
+                'lúc lên maket đến lúc in và khách nhận hàng vẫn là 1 mẫu '
+                'khách đã chọn - Thời gian giao hàng: trong ngày (nội thành), '
+                'tùy thuộc vào đơn vị vận chuyển (ngoại thành). - Khăn lạnh sẽ '
+                'được đóng trong 1 túi nilon to và đóng vào 1 thùng carton cẩn '
+                'thận - đảm bảo hàng đi & hàng nhận đều đầy đủ nguyên đai, '
+                'nguyên kiện. * Đội ngũ tư vấn hỗ trợ nhiệt tình, hệ thống '
+                'ship hàng có tâm và giao hàng đảm bảo nhanh chóng nhất. Liên '
+                'hệ đặt hàng: CÔNG TY IN BẢO AN: - Địa chỉ: Số 23 ngõ 34 '
+                'Nguyên Hồng- Đống Đa- Hà Nội. - Điện thoại: 024 32444 288 - '
+                'Hotline: 0966 967 467 - 0912 363 960 (Zalo/ Imess) - Skype: '
+                'thuypt18 * Truy cập để xem các mẫu: Fanpage: '
+                'https://www.facebook.com/inquyenmenunhahang/ Instagram: '
+                'https://www.instagram.com/In.an.gia.re/ * Hoặc truy cập vào '
+                'Website: inbaoan.vn',
+ 'name': 'Mẫu khăn lạnh nhà hàng, in khăn ướt, khăn lạnh giá rẻ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/20/1ef4f7629a13a9911ac3675e9878d690.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/20/b67173d7e95a2a37e71ef022f690fabd.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '12-06-2016',
+            'name': 'thuypt18z6',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Quận Long Biên',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'In khăn ướt',
+          ' in khăn lạnh',
+          ' in khăn giá rẻ']}

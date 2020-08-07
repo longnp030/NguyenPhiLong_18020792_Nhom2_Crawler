@@ -1,0 +1,60 @@
+{'author': 'Thành Lê',
+ 'categories': ['Ý kiến', 'Thời sự'],
+ 'content': 'Đồng cảm với tác giả câu chuyện\xa0" Tôi thà chịu giá cao còn hơn '
+            'chen lấn mua đồ tích trữ ", độc giả Ngoc Nguyen bày tỏ sự bức xúc '
+            'trước cảnh người dân đổ xô đi mua đồ tích trữ: "Nghe tin ở Hà Nội '
+            'có ca nhiễm Covid-19 đầu tiên (bệnh nhân thứ 17) mà ở tận Phan '
+            'Thiết quê tôi, người dân cũng đã nháo nhào đi mua hàng hóa tích '
+            'trữ rồi. Thậm chí hôm nay (10/3) giá bao gạo 25 kg đã tăng khoảng '
+            '50 nghìn đồng/ bao tùy loại rồi". Cùng chung tâm trạng khi chứng '
+            'kiến người người gom hàng tích trữ, bạn đọc Phạm Tôn Nam chia sẻ: '
+            '"Tôi thấy thật lạ lùng. Như quê tôi làm nông, gạo ăn cả năm không '
+            'hết mà người dân cũng chạy đi tích trữ mỳ tôm, nước mắm. Gần như '
+            'nhà nào cũng có vườn rau nhỏ, cung ứng được trong phạm vi một vài '
+            'nhà, vậy mà vừa có tin đồn bệnh nhân 17 xong là ai cũng đi tích '
+            'trữ gom hàng. Thịt heo họ bán đến 300 nghìn đồng/ kg mà cũng '
+            'tranh nhau mua. Thật không hiểu nổi". Trong khi đó, với thái độ '
+            'bình tĩnh, không chạy theo đám đông, độc giả Boss Lý kể lại: '
+            '"Trong đêm thao thức vì "bệnh nhân 17", vợ tôi cũng bảo sáng dậy '
+            'sớm đi ôm hàng nhưng tôi phản đối, khuyên cứ bình tĩnh. Sáng hôm '
+            'sau, vợ ra chợ mua như mọi ngày thì mua được đúng một miếng thịt '
+            'nho nhỏ, một chút rau, chứ không thêm được gì. Vợ tôi cũng hơi '
+            'hoang mang. Tôi trấn an rằng người bán lẻ chỉ dự trù một lượng '
+            'hàng nhất định nên mọi người ào ra mua sẽ khiến khan hiếm, còn '
+            'bên kho buôn thì chưa thể hết ngay được. Mà người bán lẻ thấy hôm '
+            'nay khan hàng nên mai sẽ dự trù nhiều hơn, trong khi mọi người đã '
+            'ùa đi mua hết hôm nay thì mai sẽ không mua nữa nên kiểu gì cũng '
+            'thừa. Quả không sai, gần trưa hôm sau vợ ra chợ mà thịt rau vẫn '
+            'còn đầy". Tái khẳng định tầm quan trọng của việc bình tĩnh chống '
+            'dịch, bạn đọc Haivy Nguyen nhấn mạnh còn nhiều cách để đảm bảo '
+            'cuộc sống sinh hoạt thay vì hoảng loạn, tích trữ hàng hóa : "Nếu '
+            'ai cũng nghĩ được vậy thì đâu có cảnh chen lấn tranh mua mỳ tôm '
+            'và giấy vệ sinh, rồi khẩu trang khan hiếm tới mức nhà thuốc không '
+            'có để bán dù một chiếc. Tôi cũng vậy, khoảng 9h sáng chạy ngang '
+            'một siêu thị lớn, định vào đó mua hoa, sẵn rút tiền hoặc chuyển '
+            'khoản luôn. Nhưng nhìn vào thấy xe đỗ hàng loạt, tôi bỏ đi luôn. '
+            'Đã nói là Covid-19 tránh tụ tập đông người nhưng có những chị, '
+            'những anh mua đồ đầy cả xe đẩy, tôi không hiểu nỗi họ có đủ kiến '
+            'thức không? Họ có đủ lý trí không mà hành động như vậy? Chắc là '
+            'không vì nếu họ có hiểu biết thì không dại gì đi bon chen mua như '
+            'thế. Nếu muốn mua cũng tự biết chọn thực phẩm gì, vật dụng gì để '
+            'đối phó với dịch, bảo vệ sức khỏe chứ không mua bừa lấy được. Tôi '
+            'thấy mặt hàng ở nước ngoài tranh nhau mua là giấy vệ sinh. Nếu '
+            'thành phố cách ly họ ở trong nhà thì cần gì nhiều giấy; nếu thành '
+            'phố không cách ly, họ đi làm, thì thay vì dùng giấy vệ sinh, có '
+            'thể dùng khăn giấy ướt, cần giấy khô có thể sử dụng loại giấy mềm '
+            'có bất cứ ở đâu như văn phòng. Họ chỉ cần cắt nhỏ vừa đủ để chạm '
+            'cửa, đẩy ra vào. Họ có thể dùng giấy A4 cắt nhỏ bấm thang máy. Họ '
+            'có thể dùng túi nilon loại phân hủy cắt nhỏ bọc ngón tay sử dụng '
+            'xong bỏ vào thùng rác. Tóm lại, rất rất nhiều cách để ta thích '
+            'nghi tận dụng giấy và bọc nilon, chỉ là họ chưa có nhiều kiến '
+            'thức thôi". >> Chia sẻ bài viết của bạn cho trang Ý kiến tại đây '
+            '.',
+ 'datetime': 'Thứ tư, 11/3/2020, 04:00 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': ['siêu thị',
+          'đổ xô mua hàng',
+          'dịch covid-19',
+          'tích trưc thực phẩm',
+          'tích trữ thực phẩm tránh dịch convid 19'],
+ 'title': 'Khi nông dân tranh nhau tích trữ mỳ tôm, rau, thịt'}

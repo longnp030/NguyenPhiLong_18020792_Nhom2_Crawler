@@ -1,0 +1,19 @@
+{'description': 'Tủ bầy salad bar furnotel Bán buôn đồ dùng khách sạn, nhà '
+                'hàng, văn phòng, đồ dùng gia đình, thiết bị bếp công nghiệp, '
+                'thiết bị nhà bếp, vệ sinh công nghiệp, chăn, ga gối đệm, đồ '
+                'gia dụng nhập khẩu. FURNOTEL VIETNAM INTERNATIONAL HOTEL '
+                'EQUIPMENT SUPPLY Địa chỉ: 161 Trần Hưng Đạo, Điện Ngọc, Điện '
+                'Bàn, Tỉnh Quảng Nam hotline: Mr Thạch: 0989 444 988 '
+                'http://thietbikhachsan.biz email : funotelvietnam@gmail.com',
+ 'name': 'Tủ bầy salad bar furnotel',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/03/960646469ba6b0d6c74fa3e1cca0028a.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'funotelvietnam@gmail.com',
+            'date': '30-06-2016',
+            'name': 'funotelvietnam',
+            'phone': '0989444988'},
+ 'tags': ['Đà Nẵng',
+          'Quận Thanh Khê',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Tủ bầy salad bar furnotel']}

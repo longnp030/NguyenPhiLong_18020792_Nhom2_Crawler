@@ -1,0 +1,34 @@
+{'description': 'THỰC PHẨM  AN SINH ĐC: 331/70/125 Phan Huy Ích, P14, Gò Vấp '
+                'ĐiỆN THOẠI: 028 3589 7262  Mobile: 0906 963 009 - 0915 469 '
+                '009 zalo: 0909 056 488 - 0906 841 009 '
+                'Website:http://thucphamansinh.com/   Facebook: '
+                'https://www.facebook.com/thucphamansinh BÁO GIÁ  SỈ BAKERY '
+                'Kính gửi: Quý khách hàng                          Áp dụng từ '
+                '05/02/2017 "Nhằm hỗ trợ quý khách hàng tăng trưởng doanh số '
+                'và đạt hiệu quả cao trong kinh  doanh.Chúng tôi xin gửi đến '
+                'Quý Khách hàng báo giá Bakery như sau " TT\tMã Hàng\tTên Sản '
+                'Phẩm\tQuy Cách\tĐVT\tĐG/KG 1\tSÔNG TRĂNG\tDA BAO ĐỎ\tNguyên\t'
+                'Kg\t 85,000 2\t\t\tXắc lát\tKg\t 90,000 3\t\tDA BAO TRẮNG\t'
+                'Nguyên\tKg\t 85,000 4\t\t\tXắc lát\tKg\t 90,000 5\t\tGIÒ THỦ\t'
+                'Nguyên\tKg\t 85,000 6\t\t\tXắc lát\tKg\t 90,000 7\t\tGIÒ LỤA\t'
+                'Nguyên\tKg\t 85,000 Xắc lát\tKg\t 90,000 9\t\tPATE GAN\t'
+                'Nguyên\tKg\t 70,000 10\t\tXÚC XÍCH TỎI\tNguyên\tKg\t 85,000 '
+                '11\t\t\tXắc lát\tKg\t 90,000 DA BAO VUÔNG\tnguyên\tkg\t '
+                '95,000 xắt lát\tkg\t 100,000',
+ 'name': 'Dăm bông, pate, xúc xích tỏi, chả ham, giò lụa',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/10/29/2f50573504aeb06ba38cc6f862cef4b0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/10/29/c35be7a0e14614cf6267e7f4046b78c8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/10/29/631ef4030f101267b81430bd2ed60dc3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/10/29/0da43650a7e34905a53fd3d98f64acb8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/10/29/e7bcbe865f619f3dbdba845271c44ca4.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/10/29/599d871c8f525550a37ba592a6e6ee69.jpeg'],
+ 'price': '70.000',
+ 'seller': {'address': 'kimdung3425@gmail.com',
+            'date': '01-10-2016',
+            'name': 'kimdung3425',
+            'phone': '0915469009'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 7',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Dăm bông kẹp bánh mỳ']}

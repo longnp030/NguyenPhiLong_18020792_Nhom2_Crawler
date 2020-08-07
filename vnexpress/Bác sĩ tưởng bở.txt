@@ -1,0 +1,12 @@
+{'author': 'Thị Nở',
+ 'categories': ['Hài', 'Tiểu phẩm'],
+ 'content': '- Thưa bác sĩ, tôi phải nói với ông là tôi đã thực hiện đúng yêu '
+            'cầu của bác sĩ, đi bộ trong 2 tháng. Ông bác sĩ ân cần: - Tôi '
+            'sung sướng khi nghe anh nói thế! - Đương nhiên, thưa bác sĩ. Vì '
+            'khi nhận được biên lai của ông, tôi đã phải bán chiếc xe duy nhất '
+            'của mình. Vị bác sĩ đang ngủ cùng vợ thì có một bác sĩ khác gọi '
+            'điện đến:',
+ 'datetime': 'Chủ nhật, 1/3/2015, 00:08 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2015/02/26/26-2-5-8731-1424945705.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=jSp4Cxl_1O6Lz9jKuC0sGQ'],
+ 'tags': ['truyện cười', 'hài hước', 'cưới', 'thư giãn', 'giải trí', 'thị nở'],
+ 'title': 'Bác sĩ tưởng bở'}

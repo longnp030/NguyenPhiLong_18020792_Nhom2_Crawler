@@ -1,0 +1,33 @@
+{'description': 'Nhận in menu da theo yêu cầu, menu da nhà hàng có sẵn. - Kích '
+                'thước có sẵn tại VP: 15x25 (cm), 17x31 (cm), A4. - Chất liệu: '
+                'da đen, nâu cafe, đường chỉ khâu đẹp. - Gáy lò xo, trong 10 '
+                'lá nilon mờ dày dặn. - Giá thành đảm bảo rẻ và hàng chất '
+                'lượng. - Ngoài ra, khách hàng có nhu cầu in menu da theo quy '
+                'cách màu da ưa thích và kích thước phù hợp với Nhà hàng. In '
+                'Bảo An sẵn sàng tư vấn những mẫu menu da cho khách. - Đảm bảo '
+                'chuẩn thời gian giao hàng. - Nhận vận chuyển hàng cẩn thận '
+                'toàn quốc. * Đội ngũ tư vấn hỗ trợ nhiệt tình, hệ thống ship '
+                'hàng có tâm và giao hàng đảm bảo nhanh chóng nhất. Liên hệ '
+                'đặt hàng: CÔNG TY IN BẢO AN: - Địa chỉ: Số 32 ngõ Thái Hà- '
+                'Đống Đa- Hà Nội. - Điện thoại: 024 32444 288 - Hotline: 0966 '
+                '967 467 - 0912 363 960 (Zalo/ Imess) - Skype: thuypt18 * Truy '
+                'cập để xem các mẫu: Fanpage: '
+                'https://www.facebook.com/inquyenmenunhahang/ Instagram: '
+                'https://www.instagram.com/In.an.gia.re/ * Hoặc truy cập vào '
+                'Website: inbaoan.vn',
+ 'name': 'Đặt in menu da theo yêu cầu, giá rẻ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/11/802a59dc6f3563995fce5219dbaf7b48.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/11/392e8f3d1cae0c509d296d8a046293da.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/11/a4563f3f359ea033a50dd8975d1f87af.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '12-06-2016',
+            'name': 'thuypt18z6',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Huyện Đông Anh',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'In quyển menu bìa da',
+          ' in menu da',
+          ' menu da có sẵn']}

@@ -1,0 +1,20 @@
+{'description': 'TIỆC MẠNH HÙNG - Chuyên dịch vụ nấu cỗ tại nhà Hà Nội !!! "-" '
+                'Hotline: 0988 653 111 Đặc biệt chúng tôi nhận phục vụ từ 01 '
+                'mâm.',
+ 'name': 'Đặt cỗ tại nhà ở Hoàng Mai Hà Nội',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/05/e5853d142cb4f6308be6c97bd4ed921f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/05/debc2585df530ab40db6e2a357ce471d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/05/900bb918fefd7f5edb34c4c013327bb8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/05/cfac82e79e447ae603ce2c087b0486d5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/05/69fd4d222222fc35b8106248eb0a29c6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/05/e03133b75882ed871cfa73cf73013ebd.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Mễ Trì - Hà Nội',
+            'date': '02-01-2018',
+            'name': 'MẠNH HÙNG - Dịch vụ nấu cỗ tại nhà Hà Nội',
+            'phone': '0988653111'},
+ 'tags': ['Hà Nội',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'đặt cỗ tại nhà hoàng mai',
+          ' dịch vụ nấu cỗ tại nhà hoàng mai']}

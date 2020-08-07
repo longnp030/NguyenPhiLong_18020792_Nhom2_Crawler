@@ -1,0 +1,14 @@
+{'author': 'Nam Anh',
+ 'categories': ['Pháp luật'],
+ 'content': 'Ngọc, 17 tuổi, học sinh lớp 10 ở Hà Nội cùng bạn gái thuê phòng '
+            'nhà trọ bình dân ở đường Nguyễn Tuân, quận Thanh Xuân. Khi đó, có '
+            'hai thanh niên mở cửa phòng trọ và bị Ngọc chửi. 20 phút sau, vẫn '
+            'hai người này gõ cửa. Ngọc vừa ra mở thì bị một thanh niên xông '
+            'vào dùng dao tông chém vào mặt và tay gây thương tích. Sau khi '
+            'gây án, chúng lục soát người nạn nhân lấy hai điện thoại di động, '
+            '100.000 đồng rồi tẩu thoát. Công an quận Thanh Xuân đang truy bắt '
+            'hung thủ.',
+ 'datetime': 'Thứ sáu, 20/3/2009, 15:26 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Bị hành hung khi thuê phòng nghỉ cùng bạn gái'}

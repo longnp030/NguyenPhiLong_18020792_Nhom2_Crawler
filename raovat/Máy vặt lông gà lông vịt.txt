@@ -1,0 +1,32 @@
+{'description': 'Công dụng của máy vặt lông gà, vịt cao cấp Okasu OS50 Trước '
+                'đây, để vặt lông gà, vịt theo phương pháp thủ công bằng tay '
+                'khiến bạn rất mất thời gian, công sức, hơn nữa tốn kém khá '
+                'nhiều tiền thuê mướn nhân công. Hiểu được điều đó, Công ty '
+                'Savimax cho ra đời máy vặt lông gà, vịt cao cấp Okasu OS50. '
+                'Máy vặt lông gà, vịt cao cấp Okasu OS50. Máy vặt lông gà Oksu '
+                'OS50 là những thiết bị vô cùng thông minh và tiên tiến, chứng '
+                'tỏ khả năng sáng tạo của con người quả thực là vô hạn. Như '
+                'mọi người có thể thấy, bình thường quá trình vặt lông '
+                'gà/vịt/gia cầm là thao tác vô cùng mất thời gian mà chưa chắc '
+                'đã mang lại hiệu quả tối ưu nhất. Vậy mà với những thiết bị '
+                'máy vặt lông gà tiên tiến toàn bộ lông gà sẽ được vặt sạch sẽ '
+                'gần như là hoàn toàn (khoảng 96%) trong vòng chưa đầy 1 phút. '
+                'CÔNG TY CỔ PHẦN CÔNG NGHỆ SAVIMAX-CHI NHÁNH HÀ NỘI Địa chỉ: '
+                'VP Hà Nội số 258 Phạm Văn Đồng, Hà Nội-024 3838 3456',
+ 'name': 'Máy vặt lông gà lông vịt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/08/20/84b60f7794613238199fda6acc5dd969.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/20/4c3c376d1974a934a2551900bdb7966b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/20/bf79066e4cb8dd78d61a83a998ba46e0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/20/1c651329e4f6dfcb32d0ad229332ae05.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/20/53e06b5f1362c09c84beb33437fcfd22.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/20/4b2220c256c7a701a3ea342ce443da8b.jpeg'],
+ 'price': '6.200.000',
+ 'seller': {'address': 'kdsavimax10@gmail.com',
+            'date': '25-07-2019',
+            'name': 'đinh văn sỹ',
+            'phone': '0966727261'},
+ 'tags': ['Khác',
+          'Thú nuôi',
+          'máy vặt lông gà',
+          ' máy vặt lông công nghiệp',
+          ' máy vặt lông']}

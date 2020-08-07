@@ -1,0 +1,30 @@
+{'description': 'Đèn chùm nội thất nhôm đúc - Đèn chùm nội thất nhôm đúc đẳng '
+                'cấp phù hợp với mọi không gian hiện đại. - Sản phẩm có vai '
+                'trò quan trọng trong việc chiếu sáng, trang trí nội thất căn '
+                'nhà của gia chủ. - Giúp tôn lên vẻ đẹp sang trọng, ấm cúng '
+                'cho không gian căn phòng đồng thời tăng thêm vẻ độc đáo cuốn '
+                'hút người nhìn. - Đèn chùm nhôm đúc được thiết kế tinh tế '
+                'trong phong cách chiếu sáng nội thất. - Đa dạng kích cỡ và '
+                'màu sắc cho sự lựa chọn thích hợp với mọi không gian. (Có thể '
+                'thay đổi thiết kế theo yêu cầu của quý khách hàng) Ngoài den '
+                'chum nhom duc thì các món đồ nội thất nhôm đúc dưới đây của '
+                'công ty chúng tôi cũng đang được khách hàng ưa chuộng: Cửa '
+                'cổng nhôm đúc Bàn ghế sân vườn nhôm đúc Xích đu nhôm đúc '
+                'Giường nhôm đúc…. Chúng tôi nhận đúc theo yêu cầu các mẫu nội '
+                'ngoại thất, dựa trên mẫu thiết kế hoặc đề nghị của quý khách '
+                'hàng từ vật liệu hợp kim nhôm hoặc đồng nguyên chất Quý khách '
+                'có nhu cầu mua hàng, hay muốn biết thêm chi tiết sản phẩm, '
+                'vui lòng liên hệ với chúng tôi:',
+ 'name': 'Đèn chùm nội thất nhôm đúc',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/07/24/1438ecb110a81bfb0d873b5a199a98d5.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/07/24/3dce2005c12abd3ff64830e27992c195.png'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Hà Nội',
+            'date': '23-08-2018',
+            'name': 'doihaihoan',
+            'phone': '0815332733'},
+ 'tags': ['Hà Nội',
+          'Quận Hoàng Mai',
+          'Khác',
+          'Cây cảnh',
+          'Đèn chùm nội thất nhôm đúc']}

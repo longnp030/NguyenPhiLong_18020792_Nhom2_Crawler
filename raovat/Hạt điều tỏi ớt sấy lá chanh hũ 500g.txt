@@ -1,0 +1,31 @@
+{'description': 'HẠT ĐIỀU CHÁY TỎI ỚT LÁ CHANH 95k / Hộp 500gr 55k/1 Hộp 500g '
+                'khi mua từ 5 hộp Vị cay cay của ớt mặn mặn của muối, vị ngọt '
+                'ngọt của ít đường và béo béo của hạt điều cộng thêm mùi thơm '
+                'thơm của lá chanh đủ hương đủ vị cho món hạt điều rang tỏi ớt '
+                'lá chanh này lun nha mấy chế ơi, làm mồi nhậu là đúng bài và '
+                'bao phê lun à nha các tình iu na '
+                '_____________________________ Nhanhh tay Inbox Khô Gà Ngon '
+                'Heo Mi ☎️ Hotline: 0934.116.821 để được giao hàng siêu tốc '
+                '#GHN #GiaoHangNhanh #Grab #khôgà #khogangon #khogalachanh '
+                '#khogacay #khogaheomi #heomishop #khôGàLáChanh '
+                '#khô_gà_lá_chanh #comchaychabong #khoheo #khomuc #muccan '
+                '#kgogabotoi #khomuc #mucxesoihapnuocdua #khôbovien',
+ 'name': 'Hạt điều tỏi ớt sấy lá chanh hũ 500g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/27/b5e3cdb763dfb6a2d8de74732a78b161.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/6400c8392e0e491d9e7f37f281e91f7d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/29c7efbe233800e28d78be968d7fb940.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/ac2084e363a828cc4e8e230d93a6cbbf.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/7690288e2a2a7c4f7d8b42d8ec26d35c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/27/c004c8a6a587629881ea9e6b1307cc80.jpeg'],
+ 'price': '95.000',
+ 'seller': {'address': '525/44 HUỲNH VĂN BÁNH- P14- PHÚ NHUẬN',
+            'date': '18-09-2019',
+            'name': 'KHÔ GÀ HEOMI',
+            'phone': '093 411 68 21'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Phú Nhuận',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'hạt điều',
+          ' hạt điều tỏi ớt',
+          ' hạt điều tỏi ớt lá chanh']}

@@ -1,0 +1,29 @@
+{'description': 'THÔNG TIN SẢN PHẨM Hãng sản xuất\tKingSun Nguyên liệu\tĐiện '
+                'Tình Trạng Sản Phẩm\tLiên hệ Xuất xứ lò nướng bánh\tChina '
+                'Loại lò nướng bánh\t1 tầng 2 khay Kích thước khay\t400 x 600 '
+                'cm Điện áp\t220 V Mã sản phẩm\tĐiện áp\tCông suất\tTrọng '
+                'lượng\tNguyên liệu\tTầng/khay\tKích thước WA-E12D\t220V/380V '
+                '50Hz\t6.8kw\t100 kg\tĐiện\t1 tầng 2 khay\t1355x895x680 '
+                'WA-G12D\t220V/380V 50Hz\t6.8kw\t100 kg\tGas\t1 tầng 2 khay\t'
+                '1355x895x680 Lò nướng công nghiệp WA-E1-2D SẢN PHẨM CÙNG '
+                'LOẠIXEM DẠNG LIST Lò nướng bánh OKASU OKA-03E Lò nướng bánh '
+                'OKASU OKA-03E 6,500,000 VNĐ Bảo hành : 12 tháng Lò nướng bánh '
+                'có bánh xe WR-16 Lò nướng bánh có bánh xe WR-16 7,000,000 VNĐ '
+                'Bảo hành : 12 tháng Lò nướng bánh YXD-20C Lò nướng bánh '
+                'YXD-20C 8,500,000 VNĐ Bảo hành : 12 tháng Lò nướng công '
+                'nghiệp WA-E1-2D Lò nướng công nghiệp WA-E1-2D 8,500,000 VNĐ '
+                'Bảo hành : 12 tháng Lò nướng bánh OKASU OKA-300G Lò nướng '
+                'bánh OKASU OKA-300G 10,600,000 VNĐ Bảo hành : 12 tháng Lò '
+                'nướng pizza 1 tầng 2 khay KS-FDG-12BQ',
+ 'name': 'Lò nướng công nghiệp WA-E1-2D',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/09/e57eed2eb3f0a067df35a8b9a701827b.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'hoanganhokasu@gmail.com',
+            'date': '04-05-2020',
+            'name': 'hoanganhokasu',
+            'phone': '0939.219.368'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 7',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'lò nướng công nghiệp']}

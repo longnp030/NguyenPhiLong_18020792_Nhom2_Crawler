@@ -1,0 +1,13 @@
+{'author': 'Phúc Hưng',
+ 'categories': ['Pháp luật'],
+ 'content': 'Tối 26/3, ông Hà Trọng Sơn (47 tuổi, ở huyện Năm Căn, tỉnh Cà '
+            'Mau) uống bia cùng vài người bạn tại nhà. Lúc sau ông Hà Chương '
+            '(51 tuổi, anh trai ông Sơn), ở sát vách nhà, đi dự tiệc cưới về '
+            'thấy em uống bia, mắng: "Mày giàu lắm sao mà ngày nào cũng uống '
+            'bia". Mất mặt với bạn nhậu, ông Sơn lớn tiếng cự cãi rồi đập vỡ '
+            'hai vỏ chai bia đâm vào ngực anh trai khiến nạn nhân tử vong tại '
+            'chỗ. Ông Sơn bị bắt ngay sau đó.',
+ 'datetime': 'Chủ nhật, 26/3/2017, 23:04 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': ['em ruột đâm chết anh trai', 'ở cà mau', 'bằng vỏ chai bia'],
+ 'title': 'Cãi nhau chuyện uống bia, em đâm chết anh'}

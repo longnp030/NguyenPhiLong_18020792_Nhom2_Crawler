@@ -1,0 +1,20 @@
+{'description': 'Là nhà phân phối sản phẩm thuộc làng nghề truyền thống mỳ chũ '
+                'lục ngạn bắc giang. Chuyên cung cấp và phân phối các sản '
+                'phẩm: mỳ gạo chũ, mỳ phở, mỳ bún, mỳ rau củ, mỳ ngũ sắc,... '
+                'Các sản phẩm chuaant hương hiệu làng nghề. đảm bảo chất '
+                'lượng. giá tận gốc. chuyên cung cấp các đại lý cũng như các '
+                'siêu thị trên toàn quốc../ Mọi chi tiết xin liên hệ: '
+                '0988561639./.',
+ 'name': 'Phân phối các sản phẩm mỳ gạo chũ lục ngạn, mỳ rau củ cho bé',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/29/9e606836fddfd3dbb58ca5832558435d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/0bf0bf4b0ad45a0791c54744c49baf66.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/f463e0910053cdf084f4b21cf0199ff5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/f3fe70712af2dd8b49ab03a7cf6daf32.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/0bb835b35e2b17f371c56965f227a390.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/c056fd9d7a7f6f9e7742e8792b3b085d.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'duongbien08@gmail.com',
+            'date': '29-05-2020',
+            'name': 'Duong Bien',
+            'phone': '0988561639'},
+ 'tags': ['Ẩm thực, du lịch', 'Ẩm thực', 'mỳ chũ', ' mỳ rau củ', ' mỳ gạo']}

@@ -1,0 +1,12 @@
+{'author': 'Thần Kỳ',
+ 'categories': ['Hài', 'Tiểu phẩm'],
+ 'content': 'Cô ta nằm trên giường lướt xem danh bạ trên điện thoại. Bác sĩ đi '
+            'ngang qua thấy bèn hỏi: - Cô làm gì vậy? Tại sao cô không nằm '
+            'nghỉ? - Dạ thưa tôi muốn tìm tên cho con tôi. - Chẳng phải trước '
+            'đó cô đã tìm được tên ưng ý cho bé rồi sao. Bây giờ còn tìm gì '
+            'nữa? - Thưa bác sĩ... tôi đã tìm được tên cho cháu rồi. Bây giờ '
+            'tôi đang tìm họ cho nó. - !?! (st)',
+ 'datetime': 'Thứ sáu, 23/3/2018, 07:34 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2018/03/22/toon-1786-8854-1521704958.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=qXbbh3xML6EUBwM4MZyq8g'],
+ 'tags': ['truyện cười', 'tiểu phẩm cười', 'tìm họ cho con'],
+ 'title': 'Tìm họ cho con'}

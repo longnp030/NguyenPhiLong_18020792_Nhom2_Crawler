@@ -1,0 +1,29 @@
+{'description': 'Hiệu quả từ công nghệ tưới nhỏ giọt tiết kiệm Tưới nhỏ giọt '
+                'là một trong những tiến bộ mới về công nghệ tưới trong sản '
+                'xuất nông nghiệp, với những ưu thế vượt trội như tiết kiệm '
+                'nước, giảm công lao động, chi phí, đồng thời cải thiện chất '
+                'lượng nông sản. Tưới nhỏ giọt là một trong những tiến bộ mới '
+                'về công nghệ tưới trong sản xuất nông nghiệp, với những ưu '
+                'thế vượt trội như tiết kiệm nước, giảm công lao động, chi '
+                'phí, đồng thời cải thiện chất lượng nông sản. Đây được coi là '
+                'giải pháp nâng cao năng suất cây trồng, hiệu quả sản xuất. '
+                'Công nghệ tưới mới này đang được nông dân nhiều địa phương '
+                'trên địa bàn tỉnh Bà Rịa -Vũng Tàu ứng dụng rộng rãi. Vụ thu '
+                'hoạch năm nay, vườn bưởi da xanh lứa đầu tiên với diện tích '
+                '1,3ha (320 gốc) của gia đình của ông Võ Văn Hùng, ấp Cầu Ri, '
+                'xã Sông Xoài, huyện Tân Thành cho năng suất bội thu. So với '
+                'năng suất trung bình của người dân trồng bưởi trên địa bàn, '
+                'vườn bưởi của gia đình ông Hùng cao hơn 30%.',
+ 'name': 'Tưới nhỏ giọt Hà Nội, đầu tưới nhỏ giọt, thiết bị tưới nhỏ giọt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/25/21ced179cb732285953856064bbebbc6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/25/f403ca804a34171103d6f183d9cf3263.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/25/f08a28ce633d4d88cd14e7d38cd6c27d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/25/656301c279b604d399e90e9b4c757662.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/25/e7a0e433be591dcc309dcf4b6f7d431c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/25/0bfd791f5edecc21f5cfc8ed8dc94535.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt, TP. Hà Nội',
+            'date': '10-11-2017',
+            'name': 'thietbituoitudongbinhminh',
+            'phone': '971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

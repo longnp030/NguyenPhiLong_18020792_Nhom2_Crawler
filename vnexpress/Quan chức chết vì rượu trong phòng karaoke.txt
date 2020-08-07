@@ -1,0 +1,14 @@
+{'author': 'Mai Trang',
+ 'categories': ['Thế giới'],
+ 'content': 'Báo chí Trung Quốc hôm qua cho hay chính phủ đã tước bỏ một danh '
+            'hiệu từng được trao cho Giám đốc ủy ban kế hoạch hóa gia đình ở '
+            'tỉnh Hà Nam. Quyết định này được đưa ra sau khi chuyện vỡ lở ra '
+            'rằng ông này chết khi đang uống rượu và "vui vẻ" trong một bar '
+            'karaoke. Trước đó, ông Guo Shizhong đã được truy tặng huân chương '
+            'hạng ba sau khi chết do xuất huyết não hồi tháng 2 - loại phần '
+            'thưởng thường được trao cho những người "hy sinh khi làm nhiệm '
+            'vụ". (theo AP )',
+ 'datetime': 'Thứ bảy, 15/3/2008, 04:11 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Quan chức chết vì rượu trong phòng karaoke'}

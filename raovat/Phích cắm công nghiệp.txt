@@ -1,0 +1,24 @@
+{'description': 'Phích cắm công nghiệp Phích cắm công nghiệp Thông tin về sản '
+                'phẩm Điện trở cao (220 ~ 600V) Khả năng chịu nhiệt độ cao Có '
+                'thể chống axit, kiềm và đập vỡ. Có thể chống cháy, chống ăn '
+                'mòn, chịu áp lực cao Tuổi thọ cao. Ứng dụng của phích cắm '
+                'công nghiệp Phích cắm chịu nhiệt được sử dụng rộng rãi trong '
+                'nhiều công trình lớn, tại nhiều điều kiện môi trường khác '
+                'nhau và vị trí lắp đặt khác nhau như: máy móc nhựa, máy móc '
+                'thực phẩm, hóa chất và công nghiệp …. Quý khách có nhu cầu '
+                'mua hàng, hay muốn biết thêm chi tiết sản phẩm, vui lòng liên '
+                'hệ với chúng tôi: Công ty TNHH TM Hoàng Kim Địa chỉ: Số 42 '
+                'ngõ 924 Nguyễn Khoái, P. Thanh Trì, Hoàng Mai, Hà Nội Mobile: '
+                '0919575909 / 0967902850 ; 0979599533 / 0912086984 Email: '
+                'giaho.ceo@gmail.com http://maynganhnhua.vn '
+                'https://maynganhnhua.com.vn',
+ 'name': 'Phích cắm công nghiệp',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/23/fcc0f0b1c6aa536f0b940b94d2a9fda6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/20251c3949fed640c3bcc4599c0bc648.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 42 ngõ 924 Nguyễn Khoái, P. Thanh Trì, Hoàng Mai, '
+                       'Hà Nội',
+            'date': '27-04-2020',
+            'name': 'hoangkimhn01@gmail.com',
+            'phone': '0912086984'},
+ 'tags': ['Hà Nội', 'Dịch vụ', 'Tìm đối tác']}

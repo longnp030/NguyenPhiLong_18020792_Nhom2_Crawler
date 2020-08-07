@@ -1,0 +1,61 @@
+{'author': 'Phạm Trung\xa0',
+ 'categories': ['Xe', 'Tư vấn'],
+ 'content': '"Vào số D. Bây giờ hãy nhấn mạnh chân ga và buông ngay sau đó", '
+            'tiếng huấn luyện viên thúc giục tài xế khi phía trước chiếc xe là '
+            'một bức tường chắn ngang. Đình Huy, phóng viên của một tạp chí '
+            'ôtô ở Việt Nam chần chừ. "Thử nào!", Huy thốc ga sát ván nhưng '
+            'chiếc xe vẫn đứng yên. Những tiếng bíp vang lên cảnh báo người '
+            'lái như thể hỏi đi hỏi lại, bạn có chắc muốn tiến lên. Đó là một '
+            'trong những bài thử về công nghệ an toàn trên xe hơi đáng nhớ Huy '
+            'kể lại trong chuyến công tác Singapore giữa tháng 1/2018. Chiếc '
+            'Subaru Impreza có hai camera kép gắn sau kính lái thu thập thông '
+            'tin, hình ảnh phía trước. Sau khi dữ liệu xử lý qua hệ thống ECU, '
+            'những thao tác bất thường có thể gây va chạm được cảnh báo ngay '
+            'từ đầu. Thực tế, khi xe nhận biết chướng ngại vật phía trước có '
+            'thể ngắt tạm thời phản ứng từ hệ dẫn động ngay từ đầu. Nhưng sau '
+            'bốn giây tài xế vẫn mớm ga, phản ứng xe hồi phục và tăng dần đều. '
+            'Điều này hạn chế những tình huống đạp nhầm ga thay vì phanh, hoặc '
+            'vào số lùi thay vì tiến dù phía trước là người hoặc vật. "Tất '
+            'nhiên nếu bạn vẫn muốn tiến lên, không còn cách nào khác là xe '
+            'phải tuân mệnh", Huy nói. Một tài xế nào đó không may nhấn ga bất '
+            'ngờ trong một vài giây, xe sẽ không chồm lên. Đổi lại, nếu bạn cứ '
+            'cố giữ chân ga hơn bốn giây thì không có công nghệ nào ngăn cản. '
+            'Đây cũng là khoảng cách lớn giữa thực tế đạp nhầm chân ga với lý '
+            'thuyết tránh tăng tốc bất ngờ vì khi đã dí nhầm ga, ít người còn '
+            'tỉnh táo để nhấc chân. Chức năng hỗ trợ người lái như tránh đạp '
+            'nhầm chân ga, hỗ trợ phanh khi phát hiện chướng ngại vật đang dần '
+            'trở nên phổ biến trong ngành công nghiệp xe hơi. Nếu Subaru gọi '
+            'đó là gói công nghệ an toàn EyeSight thì Honda có Sensing, Volvo '
+            'sở hữu Steer Assist hay TSS của Toyota. Mục đích giống nhau là hỗ '
+            'trợ và hạn chế tối đa các tình huống va chạm. Khi xe có dấu hiệu '
+            'chệch làn mà không bật xi-nhan, những tiếng bíp hoặc đèn nháy sẽ '
+            'báo hiệu gửi tín hiệu cảnh báo đến tài xế. Camera kép sau kính '
+            'lái của xe đóng vai trò như đôi mắt thứ hai bên cạnh người lái. '
+            'Xe đảo làn khi di chuyển ở tốc độ từ 60 km/h trở lên, hoặc khi '
+            'đang dừng và xe phía trước đã di chuyển nhưng tài xế không có '
+            'phản ứng, hệ thống đều có âm thanh nhắc nhở. Công nghệ phát triển '
+            'giúp việc lái xe an toàn hơn nhưng cũng đặt ra vấn đề về sự ỷ lại '
+            'và lạm dụng các công cụ hỗ trợ của nhà sản xuất. Kỹ năng lái xe '
+            'của tài xế vì thế giảm dần theo thời gian. "Kh ông phải nghi ngờ, '
+            'công nghệ đang khiến tài xế trở nên lười biếng và thiếu tập '
+            'trung", Mike Harley, tổng biên tập trang thông tin và tư vấn tiêu '
+            'dùng về ôtô Kelly Blue Book (Mỹ), nói. "Những công nghệ hỗ trợ '
+            'người lái thời đại kỹ thuật số khỏa lấp những kỹ năng lái xe cơ '
+            'bản, làm giảm trách nhiệm của chính họ khi điều khiển ôtô", theo '
+            'Bloomberg . Tiếng nói của nhiều chuyên gia và các tổ chức phi lợi '
+            'nhuận khiến các hãng xe nhìn nhận lại vấn đề. Họ trang bị những '
+            'công nghệ hỗ trợ an toàn nhưng luôn khuyến cáo người lái quan sát '
+            'phía trước. Và không bỏ tay khỏi vô-lăng quá lâu phòng trường hợp '
+            'xao nhãng khi điều khiển ôtô ở tốc độ cao. Yếu tố an toàn suy cho '
+            'cùng, quan trọng nhất là yếu tố con người.',
+ 'datetime': 'Thứ ba, 23/1/2018, 07:21 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2018/01/22/EyeSight-vnexpress-net-6173-1516595683.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=fcVXDJTc0uxVzMa5j2RIQA'],
+ 'tags': ['ôtô',
+          'công nghệ xe hơi',
+          'subaru impreza',
+          'subaru outback',
+          'xe tự hành',
+          'honda',
+          'chevrolet',
+          'cao tốc'],
+ 'title': 'Công nghệ giúp tài xế thoát khỏi ám ảnh đạp nhầm chân ga'}

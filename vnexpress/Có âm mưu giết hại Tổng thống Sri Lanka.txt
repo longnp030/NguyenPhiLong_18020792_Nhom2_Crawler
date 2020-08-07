@@ -1,0 +1,14 @@
+{'author': 'Bá Thùy',
+ 'categories': ['Thế giới'],
+ 'content': 'Những con hổ đen là biệt danh đội quân cảm tử LTTE. Các chiến '
+            'binh này từng gây ra cái chết của cố tổng thống Sri Lanka '
+            'Ranasinghe Premedasa và cố thủ tướng Ấn Độ Rajiv Gandhi. Hiện có '
+            'khoảng 1.000 binh sĩ chuyên trách bảo đảm an ninh cho bà '
+            'Kumaratunga. Trên cương vị tổng thống, bà có quyền điều hành cũng '
+            'như quyền kiểm soát tuyệt đối quân đội Sri Lanka. Bà Kumaratunga '
+            '(57 tuổi) bị mất một mắt trong vụ ám sát hụt của phiến quân năm '
+            '1999, làm 19 người chết. (theo AP )',
+ 'datetime': 'Thứ năm, 21/8/2003, 14:06 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Có âm mưu giết hại Tổng thống Sri Lanka'}

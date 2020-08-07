@@ -1,0 +1,32 @@
+{'description': 'Loại sản phẩm Mít sấy dẻo Dạng sấy Sấy dẻo - sử dụng nhiệt độ '
+                'cao (50 - 70 độ C) để làm mất đi một phần hơi nước của sản '
+                'phẩm rồi đem đi làm mát Đặc tính Dẻo, mềm, hơi dai Năng lượng '
+                '331kcal/100g Khối lượng 100g Thành phần Múi mít (trên 94%), '
+                'đường kính trắng, glucose, chất điều chỉnh độ acid (E330), '
+                'muối ăn Bảo quản Dùng ăn liền. Sau khi mở bao bì nên sử dụng '
+                'hết trong vòng 10 ngày Thương hiệu Nong Lam Food (Việt Nam) '
+                'Nơi sản xuất Việt Nam Ngon hấp dẫn chẳng cần giải thích nhiều '
+                '- Ăn rồi ghiền! Chất kháng oxi hóa polyphenols (flavanones): '
+                'Giảm nguy cơ các bệnh do ôxi hóa gây tổn hại tế bào: ung thư, '
+                'tiểu đường, giảm trí nhớ, … Nhiều loại vitamin: C (đề kháng), '
+                'A (bổ mắt). Nhiều chất xơ: Giảm hấp thu mỡ và cholesterol, '
+                'bảo vệ thành ruột, nhuận trường, cải thiện sức khỏe ruột già. '
+                'Giàu khoáng mangan, ma-giê, kali, đồng: bổ máu, hỗ trợ chuyển '
+                'hóa dinh dưỡng.',
+ 'name': 'Mít sấy dẻo Nong Lam Food hộp 100g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/13/bfb6783f487fef6f543192554bda45b3.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/407019d1b3cc9e84288db76af1e80c2d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/64009f6eb4c2a1b3318840633670fc57.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/746860bb53ee0d1f8d70fa8a554398a3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/bf9ef8fdff0de87d4e071e28ffb7a90d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/43172966c2457a113b9ac14902589db2.jpeg'],
+ 'price': '60.000',
+ 'seller': {'address': 'nonglamstorecom@gmail.com',
+            'date': '13-05-2020',
+            'name': 'Nông Lâm Store',
+            'phone': '0902 883 335'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Mít Sấy Dẻo',
+          ' Cách làm mít sấy dẻo',
+          ' Gia mít sấy dẻo']}

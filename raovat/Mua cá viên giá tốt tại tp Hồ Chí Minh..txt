@@ -1,0 +1,29 @@
+{'description': 'Cá viên đặc biệt tại Hải Sản Đại Dương Xanh được làm từ nguồn '
+                'nguyên liệu cá tươi ngon, không sử dụng tạp chất độc hại. Vừa '
+                'giữ được hương vị thơm ngon, dẻo dai đặc trưng của cá viên '
+                'vừa đảm bảo an toàn vệ sinh thực phẩm. Chê biến: Chiên, xào, '
+                'nấu canh, nấu lẩu Bảo quản Nhiệt độ -18 độ C hoặc trong ngăn '
+                'đá tủ lạnh Cá viên ở Hải Sản Đại Dương Xanh đảm bảo vệ sinh '
+                'ATTP và giá cả phải chăng là lựa chọn tuyệt vời nếu cá bạn '
+                'muốn một món ăn vặt tuyệt vời. Liên hệ ngay: Hotline: '
+                '0906845636 – 0966836636(Có zalo) Email: '
+                'haisandaiduongxanh@gmail.com Facebook: '
+                'https://www.facebook.com/HaiSanDaiDuongXanh CN1: 394/1 Nguyễn '
+                'Tri Phương, P4, Q10, Thành phố Hồ Chí Minh CN2:224/1/15 Ung '
+                'Văn Khiên, Bình Thạnh CN3:41/30 Tam Bình, P. Tam Phú, Thủ Đức',
+ 'name': 'Mua cá viên giá tốt tại tp Hồ Chí Minh.',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/30/33c4999175484f80af97383264c44c5c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/30/a0e5ca7c26e7ae7d11243aa155b92895.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/30/7040983cf75f87e647007dffc946cb41.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '394/1 Nguyễn Tri Phương, P4, Q10, Thành phố Hồ Chí '
+                       'Minh',
+            'date': '13-04-2020',
+            'name': 'raovatddx@gmail.com',
+            'phone': '0906845636'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'cá viên',
+          ' cá viên giá tốt',
+          ' cá viên tại tp hcm']}

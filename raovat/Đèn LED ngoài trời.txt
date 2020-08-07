@@ -1,0 +1,27 @@
+{'description': 'Đèn LED ngoài trời sử dụng lớp vỏ nhôm đúc dày, cứng cáp, '
+                'chống ăn mòn. Bóng đèn chất lượng cao cung cấp độ sáng cao và '
+                'tuổi thọ dài. Các chao đèn được làm bằng kính cường lực chống '
+                'cháy nổ, với khả năng truyền ánh sáng tuyệt vời. Dễ dàng cài '
+                'đặt, có thể sử dụng ở nhiều nơi như một đèn chiếu sáng ngoài '
+                'trời cho đường phố, vườn hoa, công viên, khu dân cư ... Vỏ '
+                'nhôm đúc dày, tản nhiệt tốt. Tính năng chiếu sáng cao, tiêu '
+                'thụ năng lượng thấp và tuổi thọ dài Chụp đèn sử dụng kính '
+                'cường lực chống cháy nổ, không dễ vỡ và có thể đảm bảo độ '
+                'truyền ánh sáng tuyệt vời. Lớp vỏ bảo vệ IP 65, chống bụi và '
+                'nước để đảm bảo độ bền lâu dài. Thích hợp để sử dụng chiếu '
+                'sáng sân vườn, tòa án, đường nông thôn, đường phố, quảng '
+                'trường, khu dân cư, công viên ...',
+ 'name': 'Đèn LED ngoài trời',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/f35af4205fabc47c9450462c7b6f201c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/5a11ea75e4121e849550e01df07fdf14.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/fd98a80e81160fe01333b400f0546d6d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/585b76c6d338dde297704fd73b616849.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/fda9dd58d44d91fdf3ed04580d7550ee.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/edea09d9c08fb334398d069add07cf18.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 673+679 Đường Tam Trinh, P.Yên Sở, Q.Hoàng '
+                       'Mai,TP.Hà Nội',
+            'date': '08-06-2020',
+            'name': 'Công Ty TNHH Cơ Điện Ngọc Khôi',
+            'phone': '091 864 3322'},
+ 'tags': ['Dịch vụ', 'Tìm đối tác', 'Đèn LED ngoài trời']}

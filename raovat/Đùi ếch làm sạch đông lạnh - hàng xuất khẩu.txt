@@ -1,0 +1,27 @@
+{'description': '📣Mồi ngon cho chồng, món ngon cho vợ, dinh dưỡng cho bé. Đùi '
+                'ếch đây ạ. 👉Dễ sử dụng, tiết kiệm thời gian làm ếch. 👉bảo '
+                'quản được lâu 👉không hóa chất 👉tươi ngon giá tốt cho anh chị '
+                'em mua sỉ. Khi mua về Quý Khách cho vào ngăn đông tủ lạnh để '
+                'bảo quản. Trước khi sử dụng, Quý Khách để ở nhiệt độ bình '
+                'thường hoặc ngâm nước lạnh khoàng 15 phút để sả đông. Ngoài '
+                'ra, bên cửa hàng e còn rất nhiều sản phẩm phục vụ nhu cầu ăn '
+                'uống của Anh Chị Em. Zalo: 0937.813.138 – Quốc Hân hạnh phục '
+                'vụ.',
+ 'name': 'Đùi ếch làm sạch đông lạnh - hàng xuất khẩu',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/01/72737a38441c1b2ef7e7134047cd33ba.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/68ef690bbf3fa1f439aa37525d879b75.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/f91702916eab87f00f73f6c3efb03626.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/acd1820da573eb1da8e658c551f23ad2.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/78d12152c9ff285ec8ad86300c47a7ca.jpeg'],
+ 'price': '120.000',
+ 'seller': {'address': '270 Tạ Quang Bửu, P.4, Q.8',
+            'date': '05-03-2020',
+            'name': 'Nghêu Sạch Bến Tre',
+            'phone': '0937813138'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 8',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'đùi ếch',
+          ' thịt ếch',
+          ' ếch ngon']}

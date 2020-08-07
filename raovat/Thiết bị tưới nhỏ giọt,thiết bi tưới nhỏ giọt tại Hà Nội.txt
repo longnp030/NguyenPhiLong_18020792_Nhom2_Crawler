@@ -1,0 +1,30 @@
+{'description': 'Hệ thống tưới nhỏ giọt giá mềm Tưới nhỏ giọt là hệ thống tự '
+                'động thân thiện, tối ưu cho chi phí lắp đặt, tiết kiệm nước, '
+                'chăm sóc rất tốt cho cây trồng nếu biết điều chỉnh chính xác '
+                'lưu lượng nước cho cây Hệ thống này đã lạc hậuNguyên lý tưới '
+                'nhỏ giọt cực kỳ đơn giản, điều chỉnh khe mở của nước để cung '
+                'cấp từng giọt vừa đủ giữ ẩm đất và chăm sóc cây trồng (Tương '
+                'tự chuyền nước trong bệnh viện) Thiết bị: - Đầu điều tiết '
+                'nước nhỏ giọt - Kim giữ đầu nhỏ giọt(Vừa có tác dụng cố định '
+                'đầu cấp nước, vừa có công dụng dẫn nước đi sâu xuống phần rễ '
+                'câyPhụ kiện: - Dây dẫn chính 8mm - Dây dẫn đến đầu nhỏ giọt '
+                '6mm - Các đầu chia nước - Đuôi chuột chuyển nước từ ống 27, '
+                '34 đến ống 8mmLắp đặt hệ thống tưới nhỏ giọt Hệ thống tưới '
+                'nhỏ giọt có nguyên lý lắp đặt cực kỳ đơn giản, có thể triển '
+                'khai từ mô hình bé đến quy mô rộng lớn, tuy nhiên mỗi gốc '
+                '(hoặc chậu) cây sẽ cần riêng 1 đường nước nhỏ, đầu nhỏ giọt '
+                'riêng. Bước 1: Lắp đặt và đi 1 đường ống chính 8mm từ ống '
+                'nước sinh hoạt dẫn đến hàng cây',
+ 'name': 'Thiết bị tưới nhỏ giọt,thiết bi tưới nhỏ giọt tại Hà Nội',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/18/4c60302a34b26ea1d4e91f4942c2fd61.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/18/889fc0840e64356adda389652f2e7a6f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/18/2c448dce2c7b42732df4844f12f0f5c5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/18/9670b5e86968828aeda70b76ee41ad3b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/18/b39888a4e81512bbf9124f36a0980da8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/18/b66f08d61c84c3f2f3ea679381ccf0d0.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt, TP. Hà Nội',
+            'date': '10-10-2018',
+            'name': 'Vương Công Phong',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

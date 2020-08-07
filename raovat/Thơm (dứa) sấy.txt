@@ -1,0 +1,26 @@
+{'description': 'Cơ sở Thanh Thanh chuyên sản xuất Mứt rong sụn biển và trái '
+                'cây sấy - Đặc sản Ninh Thuận Với trang thiết bị máy móc hiện '
+                'đại toàn bộ bằng vật liệu inox 304, giúp sản phẩm có được '
+                'chất lượng cao nhất ,đảm bảo giữ nguyên hương vị, màu sắc và '
+                'các vitamin khoáng chất có trong hoa quả một cách tôi ưu Hãy '
+                'liên hệ ngay để được giá bán sỉ hoặc làm đại lý: 0946.719.613 '
+                'Ms. Thanh website: www.dacsanninhthuan.vn '
+                'https://youtu.be/VH5Tp6iMQrw Đ/c: 09 Nguyễn Thượng Hiền - TP. '
+                'Phan Rang - Tháp Chàm',
+ 'name': 'Thơm (dứa) sấy',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/04/29/05bf062bd85ed191f1d9a7c3bdafde95.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/c2f867e32edb651f5e019bb1e2814b1d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/4fd0abfd94aa6428709e4c6ca5ed7d10.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/a2e8e9e2720394ab66d3abee98caf21c.jpeg'],
+ 'price': '270.000',
+ 'seller': {'address': 'thh42th@gmail.com',
+            'date': '29-04-2020',
+            'name': 'Thanh Thanh',
+            'phone': '0946719613'},
+ 'tags': ['Ninh Thuận',
+          'Thành phố Phan Rang - Tháp Chàm',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'thơm sấy dẻo',
+          ' dứa sấy dẻo',
+          ' trái cây sấy']}

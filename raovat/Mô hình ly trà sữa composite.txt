@@ -1,0 +1,36 @@
+{'description': 'Ngày nay, để có thể thu hút được khách hàng, doanh nghiệp '
+                'không chỉ sở hữu sản phẩm chất lượng mà còn phụ thuộc rất '
+                'nhiều vào việc quảng bá thương hiệu. Một trong số những '
+                'phương thức hữu hiện đang được áp dụng hiện nay đó chính là '
+                'sử dụng các mô hình bằng composite đẹp với kích thước khổng '
+                'lồ nhằm tạo ấn tượng với người dùng. Để đáp ứng đầy đủ nhu '
+                'cầu sử dụng, các địa điểm sản xuất mô hình composite cao cấp '
+                'cũng từ đó xuất hiện nhiều hơn. Trong bài viết dưới đây, '
+                'IMART sẽ giới thiệu một gợi ý tuyệt vời cho các cửa hàng thức '
+                'uống, đó chính là mô hình ly trà sữa composite khổng lồ. Cùng '
+                'tìm hiểu chi tiết hơn trong bài viết bên dưới nhé! Lý do để '
+                'người dùng luôn ưu tiên sử dụng vật liệu composite hàng đầu '
+                'bởi lẽ nó sở hữu nhiều ưu điểm nổi bật. Nhựa composite thường '
+                'có trọng lượng nhẹ, dễ dàng tạo hình đa dạng, có độ bền cao '
+                'về chất lượng màu sắc, cứng cáp, chống chịu va đập rất tốt, '
+                'đặc biệt là các điều kiện thời tiết ngoài trời.',
+ 'name': 'Mô hình ly trà sữa composite',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/24/579fc507d5bd4955d93c955db679ce29.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/24/8b8dc8dd2a99dea00c68ce34724042f9.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/24/e836dd36c6124dae34f98eca141d81ff.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/24/928e2d2a1f68fa6ee99ddef692f246b8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/24/5cce13d2506411a99e8174347fa167e8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/24/d0ed9a3107499c1caa84ee3e18a5535c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/24/aa07197575e82332b059c80d5576cc14.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/24/46a5dfd803cf4854d4ce8d69aa8d82f6.jpeg'],
+ 'price': '7.000.000',
+ 'seller': {'address': 'Số 16, ngõ 43, đường Phương Trạch, Vĩnh Ngọc, Đông Anh '
+                       'Hà Nội',
+            'date': '24-07-2020',
+            'name': 'thuyentn1986',
+            'phone': '0903886556'},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          '#Nhận làm mô hình tượng composite Frp',
+          ' #gia công mô hình ly trà sữa composite',
+          ' #nhận gia công sản xuất mô hình composite']}

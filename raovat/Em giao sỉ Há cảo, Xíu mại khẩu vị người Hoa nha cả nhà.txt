@@ -1,0 +1,20 @@
+{'description': 'Chào cả nhà, em nhận giao sỉ há cảo tôm, há cảo thịt, xíu mại '
+                'khẩu vị người Hoa ạ. Viên nào cũng to tròn, béo ú ăn 1l là mê '
+                'luôn. Nhận đặt từ 50v trở lên (2k7/viên siêu to), trên 500v '
+                'em chỉ lấy 2k5 nhé. Ship nội thành  Q5, Q6, Q10, Q11, Bình '
+                'tân, Bình Chánh Khách iu ai muốn đặt liên hệ giúp em nhé: '
+                '0866.16.04.85 Hùng mủm mỉm, dễ thương, vui vẻ. Chỉ cần sáng '
+                'alo là chiều có món lót dạ vừa ngon vừa rẻ',
+ 'name': 'Em giao sỉ Há cảo, Xíu mại khẩu vị người Hoa nha cả nhà',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/09/3471a39f839e5d7ce244054693e5aa3e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/09/506fb3cdec8772e03916fae8119b7392.jpeg'],
+ 'price': '2.700',
+ 'seller': {'address': '200 Gia Phú Q6',
+            'date': '06-06-2020',
+            'name': 'Kim Ngân',
+            'phone': '02866802362'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 10',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'giá sỉ há cảo xíu mại']}

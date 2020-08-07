@@ -1,0 +1,20 @@
+{'description': 'Chè tấm (cám) hương nhài khi pha lên có hương hoa Nhài thơm '
+                'nhẹ nhàng, cộng thêm với vị chát của chè tấm (cám) được sàng '
+                'từ những dòng chè búp ngon ra. Tạo nên một cốc Trà thơm, ngon '
+                'và dễ uống.',
+ 'name': 'Trà ướp hương nhài cho các quán trà chanh',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/02/ccb527c6d9edfea665f0324540ad69ac.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/02/b5ba14fc2917b25719c723f4a96ed66c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/02/632e3c7851c2f134f47ce0929f5cc82d.jpeg'],
+ 'price': '80.000',
+ 'seller': {'address': 'checocuc@gmail.com',
+            'date': '04-07-2017',
+            'name': 'Đặng Tuấn Hà',
+            'phone': '0906264029'},
+ 'tags': ['Hà Nội',
+          'Quận Thanh Xuân',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'trà hoa nhài',
+          ' trà lài',
+          'trà nhài']}

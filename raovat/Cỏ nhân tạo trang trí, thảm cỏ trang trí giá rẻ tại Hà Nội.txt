@@ -1,0 +1,26 @@
+{'description': 'Chúng tôi chuyên cung cấp các mẫu cỏ nhân tạo, thảm cỏ nhân '
+                'tạo, các mẫu cỏ treo tường, cỏ trang trí tường trên địa bàn '
+                'hà nội nói riêng và trên toàn quốc nói chung. Với màu xanh '
+                'của cỏ nhân tạo, cỏ trang trí tường sẽ làm nổi bật lên không '
+                'gian của bạn. Sử dụng cỏ trang trí không những không mất công '
+                'chăm sóc mà còn luôn xanh tươi bền đẹp với tự nhiên Kích '
+                'thước của cỏ nhân tạo cỏ trang trí nhỏ gọn dễ dàng cho việc '
+                'thi công và vận chuyển',
+ 'name': 'Cỏ nhân tạo trang trí, thảm cỏ trang trí giá rẻ tại Hà Nội',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/29/2cc9555e70d944a5cc6de5583d8a9cf4.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/29/eb573fb11bd71484a94dce1daf3ad5f8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/29/794cc3f0d3183dd3a1e54bfff6191a59.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/29/e0ae1f852ce93151c51f94de58bb63ba.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/29/794b927504d6e51331ccb95a7f575cae.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/29/9ef83c623c61f87283a654d45dc04fa5.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'số 58 ngõ 111, cầu cốc, tây mỗ, nam từ liêm, hà nội',
+            'date': '21-06-2017',
+            'name': 'nguyễn văn thắng',
+            'phone': '0978893974'},
+ 'tags': ['Hà Nội',
+          'Khác',
+          'Cây cảnh',
+          'conhantao',
+          ' conhantaogiare',
+          ' thamconhantaogiare']}

@@ -1,0 +1,36 @@
+{'description': 'In hình lên ly thủy tinh Đà Nẵng , in logo lên thủy tinh Đà '
+                'Nẵng là lựa chọn mà các doanh nghiệp thường dùng làm quà tặng '
+                'trong các dịp lễ, sự kiện, quà tặng khuyến mãi. Không chỉ '
+                'tiện dụng mà còn rất hiệu quả trong truyền thông – marketing. '
+                'In Ly thủy tinh tại Đà Nẵng là sản phẩm được sử dụng hằng '
+                'ngày. Khách hàng của bạn sử dụng sản phẩm ly thủy tinh kèm '
+                'logo của bạn thì mức độ ghi nhớ thương hiệu càng được nâng '
+                'cao. Với nhiều năm kinh nghiệm trong lĩnh vực in ấn. Kinh '
+                'nghiệm in hình, in logo lên ly thủy tinh Đà Nẵng, in logo lên '
+                'ly thủy tinh giá rẻ tại Đà Nẵng các loại với chất lượng cao '
+                'nhất. Xuongindanang.com mang đến cho bạn dịch vụ tốt nhất: '
+                'Xuongindanang.com tư vấn chọn mẫu ly, cách in hợp với yêu cầu '
+                'và ngân sách của khách hàng. Xuongindanang.com sử dụng công '
+                'nghệ in tốt nhất hiện nay. Hỗ trợ thiết kế miễn phí theo yêu '
+                'cầu. Liên hệ trực tiếp: Mobile: 0935 444 738  ( Call/zalo) '
+                'Add: 73 Lương Khánh Thiện, P. Hòa Minh, Q. Liên Chiểu, TP. Đà '
+                'Nẵng Website : http://xuongindanang.com',
+ 'name': 'Xưởng in logo lên ly thủy tinh giá rẻ tại Đà Nẵng, cung cấp giá gốc',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/23/b6ad5eee052408feeaf952123cf06c08.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/04ef11c0a6df387701488c3809bdeef3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/f358cb00afb1a28841d65f1a7dcfa5a3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/d20009ad25ab4d114c22e13890c57bee.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/a8a8856c55a97e08071d6de00fbc00ab.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/afc280e8f1702fd13374bde03e0c3dca.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'xuongindanang07@gmail.com',
+            'date': '10-06-2019',
+            'name': 'xuongindanang07',
+            'phone': '0935444738'},
+ 'tags': ['Đà Nẵng',
+          'Quận Thanh Khê',
+          'Dịch vụ',
+          'Tìm đối tác',
+          'Sản xuất ly thủy tinh tại Đà Nẵng',
+          ' in ly thủy tinh tại Đà Nẵng',
+          ' cơ sở sản xuất ly thủy tinh tại đà nẵng']}

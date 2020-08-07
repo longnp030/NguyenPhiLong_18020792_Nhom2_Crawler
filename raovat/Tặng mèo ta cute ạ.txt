@@ -1,0 +1,13 @@
+{'description': 'Nhà mình có bé mèo ta 2 tháng tuổi, lông dài và rất đáng yêu, '
+                'giới tính là cái, đã ăn được cơm và biết đi vệ sinh trong nhà '
+                'tắm rồi ạ. Bạn nào cần mèo thì qua bắt nhé, mình xin tiền vía '
+                'tùy tâm thôi. Nhà mình ở phố Khâm Thiên, Hà Nội. SDT: '
+                '0394879105',
+ 'name': 'Tặng mèo ta cute ạ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/03/06/e7f88438520fed2eeb386e715dff853d.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Khâm Thiên- Hà Nội',
+            'date': '10-01-2016',
+            'name': 'Bích Ngọc',
+            'phone': '01694879105'},
+ 'tags': ['Hà Nội', 'Quận Đống Đa', 'Khác', 'Thú nuôi']}

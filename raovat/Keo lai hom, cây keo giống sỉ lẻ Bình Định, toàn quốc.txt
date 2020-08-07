@@ -1,0 +1,28 @@
+{'description': 'Sỉ và lẻ Keo lai hom, cây keo giống từ vườn cây mẹ là các '
+                'dòng keo lai mô BV10, BV16, BV32, AH1,...trồng được cả trên '
+                'các loại đất xấu, cho năng suất cao kỹ thuật hơn 35 năm làm '
+                'trong nghề, nên keo giống rất chuẩn và cây xuất vườn đẹp Giá '
+                'cây keo lai giâm hom: Giá thay đổi lên xuống tuỳ thời điểm '
+                'trong năm và số lượng lấy. Vì vậy quý bà con trồng rừng, '
+                'người buôn cây có thể gọi cho vườn để được báo giá trực tiếp. '
+                'Vườn ươm tại thị trấn Phù Mỹ, tỉnh Bình Định. Quy mô sản xuất '
+                '6 triệu cây/ năm. Xuất hoá đơn đỏ và chứng chỉ nguồn giống '
+                'đầy đủ cho khách hàng dự án hoặc khách hàng trồng rừng cá '
+                'nhân có yêu cầu.',
+ 'name': 'Keo lai hom, cây keo giống sỉ lẻ Bình Định, toàn quốc',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/08/f2ab4d86b40153b0bff0088296ec3af8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/08/6023f289861517f025b704ec2efff6ed.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/08/528ff312f9f1630cd04ce7a712d418bb.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/08/ad4069548a130302e7e783016bb4071b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/08/74732ebf76500512179d6495f5637e48.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/08/2352d71b3edf66d66eb9a8316f8e8e81.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'thị trấn Phù Mỹ, Tỉnh Bình Định',
+            'date': '08-05-2019',
+            'name': 'kỹ sư phú',
+            'phone': '0979777648'},
+ 'tags': ['Khác',
+          'Cây cảnh',
+          'bán cây keo giống',
+          ' ban cay keo giong',
+          ' keo giam hom']}

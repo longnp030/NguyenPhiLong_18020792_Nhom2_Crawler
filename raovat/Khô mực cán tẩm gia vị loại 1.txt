@@ -1,0 +1,31 @@
+{'description': 'Mực khô tẩm gia vị vừa đậm đà hợp vệ sinh để cả nhà cùng '
+                'thưởng thức. Ngoài ra, đây là món thực phẩm khô rất dễ bảo '
+                'quản, nên bạn có thể mua về dự trữ trong nhà để mỗi khi rảnh '
+                'rỗi có thể nhâm nhi và nhóp nhép nhai cả ngày. Mực tẩm gia vị '
+                'được sản xuất theo qui trình khép kín. Là loại mực ống được '
+                'cán ép mổng ra và tẩm gia vị. Thành phần : mực, đường, muối, '
+                'ớt. Mực tẩm đảm bảo an toàn vệ sinh thực phẩm không chỉ ngon '
+                'miệng mà còn bảo vệ sức khỏe cho cả gia đình. ❌❌ GIÁ: 95K - '
+                'Hũ 200gram _________________________ Địa chỉ: 525/54 Huỳnh '
+                'Văn Bánh, P.14, Q. Phú Nhuận Liên hệ 0934.116.821 để đặt '
+                'hàng, giao nhanh trong 20-60 phút (nội thành) nhé. Sỉ sll giá '
+                'tốt nhất toàn quốc! #khomuc #muchcantamvi #khomuccan #muckho',
+ 'name': 'Khô mực cán tẩm gia vị loại 1',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/07/28043547149b49db5ff9e82396e3a976.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/07/1cf27bb8ed13bd3f642ff072152674cc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/07/8c0447a1e8fc7590233306bc383b653b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/07/baa6129ce39d0caff41a08091ef7dc0d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/07/5a47f19592aebf7d3d0ceaa54afae4a5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/07/f1c969cbf7d1da1fa502722afdfb6183.jpeg'],
+ 'price': '95.000',
+ 'seller': {'address': '525/44 HUỲNH VĂN BÁNH- P14- PHÚ NHUẬN',
+            'date': '18-09-2019',
+            'name': 'KHÔ GÀ HEOMI',
+            'phone': '093 411 68 21'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Phú Nhuận',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'khô mực cán',
+          ' mực cán tẩm',
+          ' khô mực']}

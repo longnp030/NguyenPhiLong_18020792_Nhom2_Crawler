@@ -1,0 +1,56 @@
+{'author': 'Việt Quốc',
+ 'categories': ['Pháp luật', 'Hồ sơ phá án'],
+ 'content': 'Hành vi của Nguyễn Thanh Tâm, 31 tuổi, vừa được Công an tỉnh Bình '
+            'Thuận hoàn tất điều tra sau 3 tháng xảy ra vụ án rúng động dư '
+            'luận. Anh ta bị đề nghị truy tố về tội "Giết người" và "Cướp tài '
+            'sản" theo Điều 123 và Điều 168 BLHS 2015. Ngoài Thượng tọa Thích '
+            'Nguyên Lộc (54 tuổi, tên thật là Tạ Văn Sửu) - viện chủ tổ đình '
+            'Quang Ấn, Tâm còn sát hại Nguyễn Bảo Yến (19 tuổi, làm công quả '
+            'trong chùa) và làm mẹ của thiếu nữ bị thương nặng. Theo điều tra, '
+            'chiều 21/3, Tâm đi xe máy từ phòng trọ quận 9, TP HCM, về nhà ở '
+            'thị trấn Tân Nghĩa (huyện Hàm Tân) thu tiền bán điện cho những '
+            'chủ vườn trồng thanh long để trả cho công ty điện lực. Biết anh '
+            'ta về, nhiều chủ nợ gọi điện đòi tiền ráo riết. Là phật tử thường '
+            'xuyên đến chùa Quang Ân, Tâm nảy sinh ý định đến đây cướp tài sản '
+            'để trả nợ. Trưa hôm sau Tâm chạy xe đến chùa, ghé vào phòng của '
+            'Thượng tọa Thích Nguyên Lộc chơi để dòm ngó nơi cất tài sản, cũng '
+            'như tính toán cách đột nhập. Hắn chọn cửa trước là nơi có thể '
+            'vào. Đến chiều, Tâm quay lại chùa gặp sư Thích Nguyên Tịnh (ở '
+            'cùng sư Lộc) để thu tiền điện làm thanh long. Hắn tình cờ biết '
+            'khuya hôm đó sư Tịnh vào Sài Gòn nuôi người thân bệnh, nên quyết '
+            'định ra tay. 0h ngày 23/3, Tâm chạy xe máy không biển số đến vườn '
+            'điều phía sau tổ đình. Hắn đi chân không để không gây ra tiếng '
+            'động, leo rào vào trong nhặt khúc gỗ bạch đàn dài 76 cm, đường '
+            'kính 4,5 cm làm hung khí. Đến cửa phòng sư trụ trì, Tâm giật mạnh '
+            'làm cánh cửa gỗ bên phải bung ra. Chị Nguyễn Bảo Yến đang nằm ngủ '
+            'dưới sàn bật dậy la lớn liền bị hắn đánh khúc gỗ vào đầu liên '
+            'tiếp, gục tại chỗ. Sư trụ trì chạy ra bị Tâm sát hại tương tự. Bà '
+            'Nguyễn Thị Phượng (43 tuổi, mẹ của Yến) từ phòng phía sau chạy '
+            'lên cũng bị đánh bất tỉnh. Tâm vào nơi bà Phượng ngủ lục tài sản, '
+            'lấy 2 điện thoại. Hắn lên phòng sư trụ trì lấy chiếc điện thoại '
+            'khác, lục chìa khoá trong tay nải của nhà sư mở tủ lấy 825 triệu '
+            'đồng, 614 USD, 200 AUD rồi trốn khỏi hiện trường. Tâm chạy đến '
+            'nghĩa địa gần đó đốt chiếc túi vải cùng chiếc ví có giấy chứng '
+            'minh nhân dân của nhà sư. Trên đường về, hắn quăng cây gỗ, vào\xa0'
+            'nhà tắm rửa, ngâm quần áo dính máu vào thau nước, sau đó vào '
+            'phòng riêng đếm và cất giấu số tiền vừa cướp được. Sáng 23/3, Tâm '
+            'lấy hơn 430 triệu đồng trả nợ cho 13 người dân ở huyện Hàm Tân và '
+            'thị xã La Gi. Trưa cùng ngày, hắn mang theo 140 triệu cùng 3 '
+            'chiếc điện thoại, 3 chùm chìa khóa và chuỗi hạt của sư trụ trì '
+            'vào lại nhà trọ ở TP HCM. Trên đường đi, Tâm sợ điện thoại có cài '
+            'định vị nên đã vứt cùng chìa khóa và chuỗi hạt của sư trụ trì '
+            'xuống mương nước ở phường Phước Tân, TP Biên Hòa, Đồng Nai. Về '
+            'đến phòng trọ, hắn ra ngân hàng nộp 140 triệu đồng vào tài khoản '
+            'của vợ. Tại chùa\xa0Quảng Ân, gần 17h hôm đó bà Phượng tỉnh lại, '
+            'kêu cứu. Còn sư trụ trì và con gái bà Phượng đã tử vong. Vụ án '
+            'đặc biệt nghiêm trọng buộc Cục Cảnh sát Hình sự (C02, Bộ Công an '
+            'vào cuộc). Tâm được xác định là nghi can số một. Đêm 24/3, cảnh '
+            'sát tìm đến phòng trọ của hắn ở quận 9, giả là cán bộ y tế vào '
+            'kiểm tra phòng chống Covid-19, bắt giữ.',
+ 'datetime': 'Thứ bảy, 27/6/2020, 21:52 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2020/06/27/Dieu-tra-1862-1593251999.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=8pLQX1vQWqAFmPQMpttGAQ',
+                  'https://i1-vnexpress.vnecdn.net/2020/06/27/nghi-pham-tam-2993-1593251999.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=Np2mkwCVX4j-pdg1IaSNKA'],
+ 'tags': ['chùa quảng ân',
+          'kẻ sát hại sư trụ trì',
+          'vụ giết người cướp tài sản ở chủa quảng ân'],
+ 'title': 'Âm mưu sát hại sư trụ trì'}

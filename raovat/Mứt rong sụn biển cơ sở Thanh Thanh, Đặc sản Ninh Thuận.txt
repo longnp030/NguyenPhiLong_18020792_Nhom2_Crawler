@@ -1,0 +1,25 @@
+{'description': 'Cơ sở Thanh Thanh chuyên sản xuất Mứt rong sụn biển và trái '
+                'cây sấy - Đặc sản Ninh Thuận ☎️ Hãy liên hệ ngay để được giá '
+                'bán sỉ hoặc làm đại lý ĐT: 0946.719.613 Ms. Thanh Đ/c: 09 '
+                'Nguyễn Thượng Hiền - TP. Phan Rang - Tháp Chàm website: '
+                'www.dacsanninhthuan.vn https://youtu.be/VH5Tp6iMQrw '
+                'https://www.facebook.com/rongsunthanhthanh',
+ 'name': 'Mứt rong sụn biển cơ sở Thanh Thanh, Đặc sản Ninh Thuận',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/04/29/3e4211edc846280cbf8fefa716b63e96.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/92f3c54b8d4fca4ddaa7a32c0030054f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/97c1fe427feb07d6076c4862788e4716.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/f20230a49d0b3f86456faeaa722b2a58.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/7ee3b702aabb4b67a2d8953b6877b906.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/225456c68843149517612aaec72c6ff6.jpeg'],
+ 'price': '180.000',
+ 'seller': {'address': 'thh42th@gmail.com',
+            'date': '29-04-2020',
+            'name': 'Thanh Thanh',
+            'phone': '0946719613'},
+ 'tags': ['Ninh Thuận',
+          'Thành phố Phan Rang - Tháp Chàm',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'mứt rong sụn biển',
+          ' mứt rong sụn',
+          ' mứt rong biển']}

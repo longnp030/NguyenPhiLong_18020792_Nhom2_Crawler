@@ -1,0 +1,31 @@
+{'description': 'Hệ thống tưới cảnh quan tưới cảnh quan sân vườn biệt thự. '
+                'Tưới cảnh quan sân vườn, biết thự ngày nay với tiến bộ khoa '
+                'học kỹ thuật cũng như phát triển kinh tế. Nhiều cơ quan gia '
+                'đình có nhu cầu lắp đặt hệ thống tưới tự động cho  khuôn viên '
+                'cơ quan hay  ngoài sân vườn nhà biệt thự. Hệ thống tưới cảnh '
+                'quan tự động cho nhà vườn biệt thự vừa đáp ứng nhu cầu cho '
+                'cây xanh, hoa, cây cảnh, vùa là cách trang trí cho khuôn viên '
+                'cho ngôi nhà của bạn thật đẹp và sang trọng. Để đáp ứng cho '
+                'nhu cầu cùa khách hàng công ty chúng tôi chuyên cung cấp, tư '
+                'vấn thiết kế, lắp đặt hệ thống tưới cảnh quan nhà vườn, biệt '
+                'thự. Đáp ứng  mọi yêu cầu khắt khe nhất của khách hàng với '
+                'kinh nghiệm nhiều năm trong lĩnh vực Công ty Cổ phần Công '
+                'nghệ tưới Bình Minh VP bán hàng Hà Nội: Số 2, Ngõ 238 Đường '
+                'Hoàng Quốc Việt - Quận Cầu Giấy - TP. Hà Nội ( Bên cạnh '
+                'trường CĐ Du lịch Hà Nội, Đối diện Triển lãm Nông nghiệp Việt '
+                'Nam) Điện thoại: (+84) 0243. 212 3662  I  Fax: (+84) 0243. '
+                '212 3661 I Hotline: 0971 682 666',
+ 'name': 'Tưới tự động khu đô thị, tưới dự án, tưới khu nghỉ dưỡng, tưới '
+         'resort',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/06/22/56ac3b364e1310310766947978c331d0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/22/887a32c29cc0915802b5b46913c90f49.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/22/fc8f3aa66fb3dbf9dfff6f6749cfb2ac.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/22/fe5fb04b98011ec0742472d0346b080d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/22/1fc9eca140ebc68d311bd9b070ba523c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/22/e322d9802a09d3677ae3b9359fde9eb8.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'số 2 ngõ 238 hoàng quốc việt, hà nội',
+            'date': '15-09-2018',
+            'name': 'Thanh Huyền',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

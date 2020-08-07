@@ -1,0 +1,34 @@
+{'description': 'PVP IODINE THÀNH PHẦN: Povidone Iodine 12%. ĐẶC TÍNH: Dạng '
+                'bột, màu nâu đỏ, tan trong nước CÔNG DỤNG: -\tTiêu diệt nhanh '
+                'vi khuẩn, virus, nấm, nguyên sinh động vật trong nước ao. -\t'
+                'Sát trùng dụng cụ. LIỀU DÙNG: -\tXử lý định kỳ nguồn nước '
+                'nuôi tôm: 0,3-0,5kg/1000m3. Pha loãng rồi phun (hoặc tạt) '
+                'xuống ao 2 tuần/lần -\tXử lý nguồn nước nuôi cá: '
+                '0,5-1kg/1000m3. Pha loãng rồi phun hoặc tạt xuống ao -\tXử lý '
+                'nước khi tôm bị bệnh: 0,5-1kg /1000m3. . Pha loãng rồi phun '
+                'hoặc tạt xuống ao -\tVệ sinh dụng cụ nuôi tôm, cá: 500mg/lít '
+                'ngâm dụng cụ trong dung dịch 15 phút -\tSát trùng bể ương, '
+                'tôm giống: 500mg/lít. Tưới ướt bề mặt, để yên trong 30’ sau '
+                'đó rửa sạch bằng nước thường. XUẤT XỨ: Ấn Độ QUY CÁCH: '
+                '25kg/thùng Công ty TNHH NAVICO chuyên nhập khẩu và phân phối '
+                'các nguyên liệu …bao gồm các chủng vi sinh, chế phẩm sinh học '
+                'và hóa chất cơ bản, hóa chất nguyên liệu phục vụ cho các '
+                'ngành thủy sản, chăn nuôi, chế biến thức ăn và thuốc thú y, '
+                'thủy sản. Nhóm chế phẩm sinh học: Men vi sinh: xử lý',
+ 'name': 'Lodine diệt khuẩn',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/08/17/63fdd751611209517103bde5dc5830ca.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/17/e0696020d866e6118aae257875cf2a72.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/17/c85db52c7af893ec5022413436b4c028.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/17/456c31c97778dc9c616cbcbbac71b4cf.jpeg'],
+ 'price': '200.000',
+ 'seller': {'address': 'ngan.navico@gmail.com',
+            'date': '17-08-2019',
+            'name': 'Nguyễn Thị Thúy Ngân',
+            'phone': '0946055533'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 2',
+          'Khác',
+          'Thú nuôi',
+          'IODINE',
+          ' DIỆT KHUẨN',
+          ' XỬ LÝ NƯỚC']}

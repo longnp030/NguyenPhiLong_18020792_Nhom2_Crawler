@@ -1,0 +1,16 @@
+{'description': 'Đèn nhà xưởng, đèn nhà thi đấu ufo full philip Công suất: '
+                '100w; 150w; 200w Màu ánh sáng: trắng; trung tính Bảo hành 3 '
+                'năm cả cháy nổ Liên hệ Ms. Linh: 091 864 3322 để được tư vấn '
+                'và nhận ưu đãi tốt nhất',
+ 'name': 'Đèn nhà xưởng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/093fbf681f1c4539c8ecc27fdd11279b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/4e85c82088ced853f12ec012b2e00a4d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/ccbf126015bef81100682b62f831953d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/259df5e4fa5cd0b8e41193778d1ae7cf.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 673+679 Đường Tam Trinh, P.Yên Sở, Q.Hoàng '
+                       'Mai,TP.Hà Nội',
+            'date': '08-06-2020',
+            'name': 'Công Ty TNHH Cơ Điện Ngọc Khôi',
+            'phone': '091 864 3322'},
+ 'tags': ['Dịch vụ', 'Tìm đối tác', 'Đèn nhà xưởng']}

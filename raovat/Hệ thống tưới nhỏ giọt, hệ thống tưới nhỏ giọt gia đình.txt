@@ -1,0 +1,26 @@
+{'description': '.LIÊN HỆ TRỰC TIẾP HOTLINE: 0971 682 666 Để được tư vấn và hỗ '
+                'trợ Công ty Cổ phần Công nghệ tưới Bình Minh VP bán hàng Hà '
+                'Nội: Số 2, Ngõ 238 Đường Hoàng Quốc Việt - Quận Cầu Giấy - '
+                'TP. Hà Nội ( Bên cạnh trường CĐ Du lịch Hà Nội, Đối diện '
+                'Triển lãm Nông nghiệp Việt Nam) Điện thoại: (+84) 0243. 212 '
+                '3662  I  Fax: (+84) 0243. 212 3661 I Hotline: 0971 682 666 '
+                'Email: congnghetuoibinhminh@gmail.com Tại TP. Hồ Chí Minh: Số '
+                '68/9 Tân Phú 2 - Phường Tân Bình - Thị xã Dĩ An - Bình Dương '
+                'Điện thoại: (+84) 0650. 373 8519  I  Hotline: 0938 261 888  '
+                'I  Email: congnghetuoibinhminh@gmail.com Địa chỉ Kho hàng:  '
+                'Số 2 đường Dương Đình Nghệ - Phường Yên Hòa - Quận Cầu Giấy - '
+                'TP. Hà Nội ( Bên cạnh Công viên Cầu Giấy, gần Tòa nhà '
+                'Keangnam Landmark Tower ) Xe Container 24/24',
+ 'name': 'Hệ thống tưới nhỏ giọt, hệ thống tưới nhỏ giọt gia đình',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/22/0105b6e08e8f0cc1d7dfa08812f81461.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/22/7dfe3ba9b46c77d5146760f42781a89b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/22/2e9c8e2bd244b01d22bf09fce75e378c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/22/0bc2eb77e81149611aa2a040af9bdc7f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/22/423c9eb4c9aa510bb363757c5592efcd.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/22/abdfd9e67b751b1d7f18301666376f60.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'số 2 ngõ 238 hoàng quốc việt, hà nội',
+            'date': '12-02-2019',
+            'name': 'tuoithongminh666',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

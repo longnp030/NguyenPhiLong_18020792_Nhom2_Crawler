@@ -1,0 +1,17 @@
+{'description': 'Cung cấp sỉ lẻ tương ớt, tương cà gói nhỏ 10gr cholimex quy '
+                'cách 800 gói/thùng tương ớt, tương cà gói nhỏ 10gr cholimex '
+                'Khách có nhu cầu lh: 0902 772 496',
+ 'name': 'Tương Cà Tương ớt Cholimex gói nhỏ 10g x thùng 800 gói',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/06/ad4dd4c5617003805010322a250413c0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/dd8babc871b3bc8950d0a9428b38bee2.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/9ab1078fd92d41b6f1a2bfe2893c46be.jpeg'],
+ 'price': '445.000',
+ 'seller': {'address': '',
+            'date': '16-03-2017',
+            'name': 'yenquyen2909',
+            'phone': '0902772496'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'tương ớt gói',
+          ' tương cà gói',
+          ' tương ớt gói nhỏ']}

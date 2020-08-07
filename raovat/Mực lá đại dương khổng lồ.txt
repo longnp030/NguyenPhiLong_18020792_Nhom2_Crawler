@@ -1,0 +1,32 @@
+{'description': 'Người tiêu dùng thường mua mực lá đại dương để làm tiệc nhiều '
+                'người. Không những mới lạ, chất thịt của loại mực này sẽ '
+                'khiến ai ăn cũng nhớ mãi. Thử tượng tượng nếu bạn mua con mực '
+                '8kg về chiêu đãi cả nhà. Thiệt là hoành tráng luôn nha. Mực '
+                'lá đại dương size 5 - 8kg/con. Mực được đánh bắt hoàn toàn từ '
+                'tự nhiên. Vì vậy thịt của chúng rất ngon ngọt. Giá mực lá '
+                'khổng lồ giá bao nhiêu? Mực lá khổng lồ nugyên con có giá '
+                '220k/kg. Mực đông lạnh. 1 con khoảng 5 - 8kg (1,100,000 vnd - '
+                '1,760,000 vnd) Liên hệ đặt mua mực lá đại dương Hải sản sạch '
+                '24h Seamart Địa chỉ: G9, Lô D, CC Hà Đô, Đường Nguyễn Văn '
+                'Công, Q. Gò Vấp, TP. HCM. Hotline: 1900 0290 - 0909 579 755 '
+                'Website hải sản 24h: https://24hseamart.vn Mực lá đại dương '
+                'làm món gì ngon? Với mực lá đại dương khổng lồ. Nướng sa tế '
+                'là cách chế biến ngon nhất. Ngoài ra, mực có thể dùng để hấp '
+                'gừng, bỏ lẩu cũng rất ngon.',
+ 'name': 'Mực lá đại dương khổng lồ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/16/55ffe094ab77d0dcffc5f5bb14f315a0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/16/cc7fcc1b96ccf0e8027761be3bfbced6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/16/34274d81712fffe3a85cae4cb9196493.jpeg'],
+ 'price': '220.000',
+ 'seller': {'address': 'G9, Lô D, CC Hà Đô, Đường Nguyễn Văn Công, Q. Gò Vấp, '
+                       'TP. HCM',
+            'date': '13-09-2019',
+            'name': 'Hải sản sạch 24hseamart',
+            'phone': '0909579755'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Gò Vấp',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'mực lá đại dương',
+          ' muc la dai duong',
+          ' mực khổng lồ']}

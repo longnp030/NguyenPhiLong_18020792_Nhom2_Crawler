@@ -1,0 +1,20 @@
+{'description': 'máy hút và đóng gói chân không công nghiệp Bán buôn đồ dùng '
+                'khách sạn, nhà hàng, văn phòng, đồ dùng gia đình, thiết bị '
+                'bếp công nghiệp, thiết bị nhà bếp, vệ sinh công nghiệp, chăn, '
+                'ga gối đệm, đồ gia dụng nhập khẩu. FURNOTEL VIETNAM '
+                'INTERNATIONAL HOTEL EQUIPMENT SUPPLY Địa chỉ: 161 Trần Hưng '
+                'Đạo, Điện Ngọc, Điện Bàn, Tỉnh Quảng Nam hotline: Mr Thạch: '
+                '0989 444 988 http://thietbikhachsan.biz email : '
+                'funotelvietnam@gmail.com',
+ 'name': 'Máy hút và đóng gói chân không công nghiệp',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/16/5febebc12ecde8b0b1b3ae30e70bc075.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'funotelvietnam@gmail.com',
+            'date': '30-06-2016',
+            'name': 'funotelvietnam',
+            'phone': '0989444988'},
+ 'tags': ['Đà Nẵng',
+          'Quận Thanh Khê',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'máy hút và đóng gói chân không công nghiệp']}

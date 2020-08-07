@@ -1,0 +1,34 @@
+{'description': 'ĐỒNG SULPHAT CÔNG DỤNG VÀ LIỀU DÙNG: -\tDiệt tảo: 0,2 '
+                'kg/1000m3 -\tDiệt nguyên sinh động vật: 0,3 kg/1000m3 -\tDiệt '
+                'rong đáy:0,3-0,5 kg/1000m3 -\tTrị ngoại kí sinh trùng trên '
+                'cá: 0,5 kg/1000m3 -\tTrị nấm mang trên cá: 0,5 kg/1000m3 -\t'
+                'Trị nấm trên da cá:  2mg/lít tắm trong 10-30 phút. XUẤT XỨ: '
+                'Đài Loan, Ấn Độ, Trung Quốc. QUY CÁCH: 25kg/bao. Công ty TNHH '
+                'NAVICO chuyên nhập khẩu và phân phối các nguyên liệu …bao gồm '
+                'các chủng vi sinh, chế phẩm sinh học và hóa chất cơ bản, hóa '
+                'chất nguyên liệu phục vụ cho các ngành thủy sản, chăn nuôi, '
+                'chế biến thức ăn và thuốc thú y, thủy sản. 1.\tNhóm chế phẩm '
+                'sinh học: a.\tMen vi sinh: xử lý nước, đáy ao, dầu mỡ, đường '
+                'ruột… b.\t Enzyme: xử lý nước, cắt tảo, tăng trọng…. c.\t'
+                'Microzyme (Ấn), Microbate (Ấn) 2.\tNhóm hấp thu khí độc, khử '
+                'mùi chuồng trại: a.\tYucca Mexico (Dạng bột/ dạng nước), '
+                'Yucca USA…, Than Hoạt Tính 3.\t Nhóm hoá chất xử lý nước: '
+                'a.\t BKC 80% (Anh, Trung Quốc, Mỹ, Hà Lan) b.\tGlutaraldehyde '
+                '50% c.\tCuSO4 d.\tNano Đồng, Nano Bạc e.\tPVP Iodine (',
+ 'name': 'Đồng sulphate',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/08/17/4fa61e89385a8ea979053e12d26e5464.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/17/eb70e1e5de5f6eb4d4df36d1f626b7e1.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/17/8dd02b50605b6f3d45165583e190cc2a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/17/182a8a556731f828c3a26409a3cc13d2.jpeg'],
+ 'price': '50.000',
+ 'seller': {'address': 'ngan.navico@gmail.com',
+            'date': '17-08-2019',
+            'name': 'Nguyễn Thị Thúy Ngân',
+            'phone': '0946055533'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 2',
+          'Khác',
+          'Thú nuôi',
+          'đồng sulphate',
+          ' diệt khuẩn',
+          ' diệt tảo']}

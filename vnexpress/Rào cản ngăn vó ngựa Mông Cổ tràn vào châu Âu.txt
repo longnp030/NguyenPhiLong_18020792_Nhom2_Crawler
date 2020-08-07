@@ -1,0 +1,61 @@
+{'author': 'Phương Hoa',
+ 'categories': ['Khoa học'],
+ 'content': 'Năm 1241, quân đội Mông Cổ tràn vào Hungary, đánh bại liên quân '
+            'Ba Lan và Hungary, buộc vua nước này phải tháo chạy. Năm 1242, dù '
+            'không gặp bất kỳ trở ngại lớn nào về mặt quân sự, quân đội Mông '
+            'Cổ đột ngột ngừng cuộc xâm lược và rút lui. Một nghiên cứu mới về '
+            'khí hậu Đông Âu ở thời điểm đó đưa ra lý giải cho sự rút lui bí '
+            'ẩn này, theo LiveScience . Theo tác giả nghiên cứu, quân Mông Cổ '
+            'đã bị sa lầy. Những dữ liệu thu thập được từ vòng cây cho thấy '
+            'năm 1242, Hungary trải qua m ùa đông lạnh và nhiều tuyết rơi kéo '
+            'theo mùa xuân ẩm ướt. Kết quả là những đồng cỏ rộng lớn ở Hungary '
+            'biến thành đầm lầy, sử gia Nicola Di Cosmo ở Đại học Princeton, '
+            'Mỹ, cho hay. Quân Mông Cổ vốn phụ thuộc vào ngựa nên không thể di '
+            'chuyển hiệu quả trên vùng đất mềm ướt và đoàn chiến mã không có '
+            'thức ăn do rất ít đồng cỏ còn sót lại. Cuộc xâm lược Hungary của '
+            'đế quốc Mông Cổ diễn ra sau cái chết của Thành Cát Tư Hãn năm '
+            '1227. Người con trai kế vị ông là Oa Khoát Đài dẫn quân Mông Cổ '
+            'tiến vào nước Nga năm 1235, tiếp đó là Đông Âu năm 1240. Nhiều '
+            'tướng lĩnh Mông Cổ mang theo ít nhất 130.000 quân và 500.000 con '
+            'ngựa xâm chiếm Hungary vào mùa xuân năm 1241, theo nghiên cứu '
+            'công bố hôm 26/5 trên tạp chí Scientific Reports. Quân Mông Cổ '
+            'liên tiếp giành phần thắng trong những trận chiến quan trọng vào '
+            'tháng 4 năm đó, đánh bại cả quân đội Ba Lan và Hungary, đồng thời '
+            'thiết lập hệ thống cai trị ở miền đông Hungary. Trong các tháng '
+            'đầu năm 1242, sông Danube và những con sông khác trong khu vực '
+            'đóng băng, cho phép quân Mông Cổ tiến xuống phía tây Hungary, nơi '
+            'đoàn quân chinh chiến suốt vài tháng trước khi bất ngờ tháo lui. '
+            'Ulf Büntgen, nhà nghiên cứu khí hậu ở Viện Nghiên cứu Liên bang '
+            'Thụy Sĩ WSL, đồng tác giả nghiên cứu, kiểm tra dữ liệu vòng cây ở '
+            'phía bắc Scandinavia, dãy núi Ural vùng cực, Carpat ở Romania, '
+            'Alp ở Áo và Altai ở Nga để khám phá những nhân tố khí hậu dẫn đến '
+            'hành động rút lui của quân Mông Cổ. Các giả thuyết trước đây cho '
+            'rằng có thể cái chết của Oa Khoát Đài vào tháng 12/1241 thôi thúc '
+            'đại tướng chỉ huy quân Mông Cổ hồi hương. Nhưng cách lý giải này '
+            'không hợp lý bởi vị đại tướng này không trở về Mông Cổ với ý đồ '
+            'tranh giành quyền lực mà dừng chân ở nước Nga, theo Di Cosmo. '
+            'Vòng cây ghi lại sự phát triển vào mùa hè và chững lại vào mùa '
+            'đông của cây cối. Các nhà nghiên cứu có thể sử dụng vòng cây để '
+            'suy đoán điều kiện thời tiết trong một năm cụ thể. Dữ liệu mà '
+            'Büntgen kiểm tra chỉ ra nhiệt độ trên mức trung bình ở Hungary '
+            'giữa năm 1238 và 1241, theo sau là mùa hè lạnh đột ngột từ năm '
+            '1242 đến 1244. Năm 1242, khu vực bao quanh phía nam Ba Lan, Cộng '
+            'hòa Séc, phía tây Clovakia, tây bắc Hungary và phía đông nước Áo '
+            'vô cùng ẩm ướt. Theo Di Cosmo, kết luận mùa đông ẩm ướt ngăn cản '
+            'vó ngựa quân Mông Cổ rất hợp lý bởi vùng đồng cỏ của Hungary nổi '
+            'tiếng lầy lội trước khi kế hoạch nạo vét diễn ra vào thế kỷ 18 và '
+            '19. Quân Mông Cổ cũng rút lui qua các lộ trình khác với tuyến '
+            'đường xâm lược ban đầu, men theo chân dãy Carpat và nhiều vùng '
+            'đất cao khác. "Tất cả những điều này là bằng chứng cho thấy quân '
+            'Mông Cổ không mấy vui vẻ với địa hình họ đi qua", Di Cosmo nói. '
+            'Xem thêm: Màn bí ẩn về nơi chôn cất Thành Cát Tư Hãn',
+ 'datetime': 'Chủ nhật, 29/5/2016, 07:00 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2016/05/28/VNE-Mongol-3500-1464413071.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=k3pLLHnDVsAJtcmPUv9xWw'],
+ 'tags': ['quân mông cổ',
+          'thành cát tư hãn',
+          'hungary',
+          'xâm lược',
+          'quân đội',
+          'chiến mã',
+          'đại tướng'],
+ 'title': 'Rào cản ngăn vó ngựa Mông Cổ tràn vào châu Âu'}

@@ -1,0 +1,33 @@
+{'description': 'Trong ăn uống, ngoài việc chọn món ăn ngon, dễ chế biến thì '
+                'bạn cũng nên chú ý đến những lợi ích sức khỏe mà món ăn sẽ '
+                'mang lại.Mực ống sau khi đang bắt lên tàu được cấp đông ngay '
+                'và mang vào bờ . Vì vậy từng con mực luôn tươi và vẫn giữ màu '
+                'đẹp . Từng sớ thịt săn chắc , dày cơm ăn ngọt và béo Mực ống '
+                'là loại hải sản có thân cuộn tròn (hình ống), hơi dài, mình '
+                'mỏng thường dùng làm nguyên liệu cho nhiều món ăn ngon. Món '
+                'mực ống nhỏ đang được nhiều người ưa thích. Các món ăn ngon '
+                'từ mực ống như: -\tMực nhồi thịt -\tMực hấp hành -\tMực nướng '
+                'sate -\tMực xào mì -\tMực chiên bột. Hải Sản Đai Dương Xanh '
+                'cung cấp mực ống từ ngư trường Bình Thuận, Bà Rịa Vũng Tàu '
+                'rất chất lượng. Ngoài ra Hải Sản Đại Dương Xanh còn cung cấp '
+                'nhiều thực phẩm giá tốt, chất lượng, để mua hàng các bạn có '
+                'thể liên hệ các thông tin bên dưới. Liên hệ ngay: Hotline: '
+                '0906845636 – 0966836636(Có zalo) Email: '
+                'haisandaiduongxanh@gmail.com Facebook: '
+                'https://www.facebook.com/HaiSanDaiDuongXanh CN1: 394/1 Nguyễn '
+                'Tri Phương, P4, Q10',
+ 'name': 'Mua ngay Mực ống giá tốt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/12/04c78d13f4a0f4724ae365f4cc1da1ef.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/12/52a39965629b3f729576a4b47266d784.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '394/1 Nguyễn Tri Phương, P4, Q10, Thành phố Hồ Chí '
+                       'Minh',
+            'date': '13-04-2020',
+            'name': 'Hải Sản Đại Dương Xanh',
+            'phone': '0906845636'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'sò điệp Nhật',
+          ' sò điệp',
+          ' mua sò điệp ở đâu']}

@@ -1,0 +1,32 @@
+{'description': 'Mua lưới thép hàn d3a50 đổ sàn bê tông giá tốt, liên hệ: 0945 '
+                '916 880 – 0968 7638 052 Với lưới thép hàn D3a50x50 Công Ty '
+                'chúng tôi hiện phân phối ở 2 dạng: 1.Dạng cuộn có 2 loại '
+                '-Hàng mạ kẽm: 1mx15m/cuộn, 1.2mx15m/cuộn, 1,5mx15m, 2mx15m, '
+                '1mx30m/cuộn -Hàng đen: 1mx15m, 1.5mx15m/cuộn 2.Dạng tấm: sản '
+                'xuất theo kích thước yêu cầu của quý khách :>>>> Ngoài ra '
+                'khách hàng có thể đặt hàng sản phẩm theo yêu cầu riêng nhằm '
+                'phục vụ nhu cầu thiết yếu sử dụng đúng mục đích hơn. Liên hệ '
+                'với chúng tôi  để được tư vấn và mua hàng đúng yêu cầu của '
+                'quý khách: Công ty TNHH Sản Xuất và Thương Uy Vũ VPHN: Số 109 '
+                'Tựu Liêt, Tam Hiệp, Thanh Trì, Hà Nội VPMN: Tân Xuân, Hooc '
+                'Môn, Tp. HCM Sdt: 0945 916 880 – 0968 638 052 Zalo: 0945 916 '
+                '880 Emai: ngocanh.uyvu@gmail.com Wep: http://vattuuyvu.com/',
+ 'name': 'Lưới thép hàn mạ kẽm D3a 50x50mm, khổ 1mx30m, 1.2mx30m sẵnhàng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/09/0cf696d0769dd6e524485d2d021c1b86.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/09/0335de08fdf8d526f3806e68053e5096.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/09/c2e906167af9ad3fea187b358fbd4a84.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/09/6929cdbf544d0d22ecafe7cf42a4042c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/09/55e693d136cedd82417df6f0cdd89444.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/09/12bbf838627b6d9c15af2bbe7435180d.jpeg'],
+ 'price': '35.000',
+ 'seller': {'address': 'Hà Nội',
+            'date': '26-10-2017',
+            'name': 'ngocanh.uyvu',
+            'phone': '0945916880'},
+ 'tags': ['Hà Nội',
+          'Quận Hoàng Mai',
+          'Dịch vụ',
+          'Tìm nhà phân phối, đại lý',
+          'lưới thép hàn d3a50',
+          ' lưới thép hàn mạ kẽm d3a50',
+          ' lưới thep hàn mạ kẽm phi3a50']}

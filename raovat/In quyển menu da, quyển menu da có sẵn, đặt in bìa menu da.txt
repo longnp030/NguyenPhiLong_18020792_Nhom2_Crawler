@@ -1,0 +1,32 @@
+{'description': 'Quyển menu bền với thời gian và thay đổi ruột dễ dàng luôn '
+                'được các Nhà hàng, quán cafe sử dụng. - Bìa da menu tại In '
+                'Bảo An đảm bảo da chất lượng, đường khâu chắc chắn- đẹp, có '
+                'sẵn mặc định 10 lá nilon bên trong, gáy lò xo. Khách có thể '
+                'chuyển sang gáy còng - không lá nilon theo yêu cầu. - Hàng có '
+                'sẵn đủ kích thước 15x25 (cm), 17x31 (cm), A4 với màu chủ đạo '
+                'đen, nâu cafe. - Hoặc khách có thể đăt in quyển menu da có '
+                'tên Nhà hàng, quán Cafe của mình với những màu chủ đạo trên '
+                'hoặc màu theo mệnh chủ Nhà hàng. - Gọi điện đặt in để được tư '
+                'vấn tận tình nhất. - Thời gian giao hàng: trong ngày (nội '
+                'thành), tùy thuộc vào đơn vị vận chuyển (ngoại thành). - Đóng '
+                'bọc thùng hàng quyển menu cẩn thận - đảm bảo hàng đi & hàng '
+                'nhận đều đầy đủ nguyên đai, nguyên kiện. * Đội ngũ tư vấn hỗ '
+                'trợ nhiệt tình, hệ thống ship hàng có tâm và giao hàng đảm '
+                'bảo nhanh chóng nhất. Liên hệ đặt hàng: CÔNG TY IN BẢO AN: - '
+                'Địa chỉ: Số 23 ngõ 34 Nguyên Hồng- Đống Đa- Hà Nội. - Điện '
+                'thoại: 024 32444 288 - Hotline: 0966',
+ 'name': 'In quyển menu da, quyển menu da có sẵn, đặt in bìa menu da',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/06/422254485e1d73213f9abc5bfc99f5fc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/975c44864b7439f913411ccb2130f7cf.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '12-06-2016',
+            'name': 'thuypt18z6',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Quận Hoàn Kiếm',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'In quyển menu bìa da',
+          ' in menu da',
+          ' menu da có sẵn']}

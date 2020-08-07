@@ -1,0 +1,23 @@
+{'description': 'Được sản xuất và chế biến theo quy trình khép kín từ đầu '
+                'nguyên liệu đầu vào đến quá trình sấy khô và đóng gói. Bún '
+                'gạo tươi Mikiri sau khi luộc và tráng qua nước lạnh, các sợi '
+                'bún rất tơi mà không bị nát. Có thể sử dụng như bún tươi, bạn '
+                'có thể yên tâm sử dụng không lo hóa chất hay chất tẩy độc '
+                'hại. Bún gạo tươi dạng khô sau khi chế biến có vị gạo thơm '
+                'rất đặc trưng, sợi bún tròn mượt và dẻo, vừa dai không bị '
+                'nát. 3 cách chế biến đơn giản với bún gạo tươi Mikiri - Bước '
+                '1: Cho bún vào nồi nước đang sôi khoảng từ 5-7 phút - Bước 2: '
+                'Sau đó vớt ra và tráng vào nước lạnh để cho sợi bún tơi và '
+                'không bị dính. - Bước 3: Dùng chế biến các món ăn như bún '
+                'tươi thông thường',
+ 'name': 'Hướng dẫn chế biến bún gạo tươi Mikiri',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/08/d6ce9d40c050c5d0dcd950f67209cb2d.jpeg'],
+ 'price': '25.000',
+ 'seller': {'address': '416/43/22 Dương Quảng Hàm, Phường 5, Gò Vấp',
+            'date': '07-09-2017',
+            'name': 'chetaomynhan95',
+            'phone': '0902716871'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'bún gạo tươi mikiri',
+          ' bún gạo tươi']}

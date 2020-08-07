@@ -1,0 +1,15 @@
+{'description': 'Trang trại Thụy Phương bán các loại gia cầm giống: gà giống, '
+                'ngan pháp giống, vịt giống, bồ câu pháp giống. Liên hệ: '
+                '0336990528 Chuyên làm các dự án khuyến nông lien he: '
+                '0336990528 www.trangtraithuyphuong.com Công ty Thụy Phương '
+                'dia chi: 109/20 Nguyễn Sơn, Long Bien, Ha Noi',
+ 'name': 'Trang trại Thụy Phương bán ngỗng sư tử',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/12/28/214696238d5c3b8eddea7fd34a2339c5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/12/28/d7d938acdea1e2760920a4cb57039fb3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/12/28/820bd33185c2f07e9e1a7829993cbf15.jpeg'],
+ 'price': '120.000',
+ 'seller': {'address': 'dia chi: 109/20 Nguyễn Sơn, Long Bien, Ha Noi',
+            'date': '28-06-2016',
+            'name': 'giày adidas hàng nhật xách tay',
+            'phone': '0336990528'},
+ 'tags': ['Khác', 'Thú nuôi', 'chim giống', ' gà giống', ' ngan giống']}

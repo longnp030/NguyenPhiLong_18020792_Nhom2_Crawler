@@ -1,0 +1,29 @@
+{'description': 'Nẹp chống trơn cầu thang bằng nhựa dẻo PVC cao cấp, thi công '
+                'nhanh chóng chống trơn trượt mũi bậc cầu thang đa dạng chủng '
+                'loại, đa dang kích thước màu sắc bắt mắc, giá thành rẻ giảm '
+                'giá thành vật tư chất liệu PVC cao cấp bền màu , chịu nhiệt. '
+                'Mã hàng : PVC chống trơn Nguyên liệu: chất liệu nhựa PVC cao '
+                'cấp. Quy cách: 5,5cm( rộng) x 2cm(cao) Màu sắc: Màu vàng ghi, '
+                'màu xanh dương ghi, màu xanh lục ghi, màu đen ghi, đỏ ghi. '
+                'Chi tiết sản phẩm : '
+                'http://nepgoc.vn/nep-chong-tron-cau-thang-bang-nhua-pvc-nep-mui-bac-cau-thang-nhua-pvc-cao-cap.htm '
+                'https://nepnhomtrangtriptm.blogspot.com/ Hoặc liên hệ '
+                'hotline: 0934.597.066',
+ 'name': 'Nẹp nhựa PVC chống trơn cầu thang, nẹp nhựa mũi bậc cầu thang PVC',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/06/70ef6b72d6ab3632f993d18a1f0b38b8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/06/0619aad76a66d24dc0a22beade77dd96.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/06/8df5a578862dc8cc7807375efbe3b99e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/06/7064c893ea957f2e3d2b25a60f786044.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/06/fe3e4ae043754a896eb043ea6bda68e1.jpeg'],
+ 'price': '65.000',
+ 'seller': {'address': '43a nguyễn văn tố p tân thành tân phú',
+            'date': '11-09-2018',
+            'name': 'dinhnguyenptm',
+            'phone': '0934597066'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Tân Phú',
+          'Dịch vụ',
+          'Tìm đối tác',
+          'nẹp cầu thang',
+          ' nẹp nhựa pvc',
+          ' nẹp mũi bậc cầu thang nhựa pvc']}

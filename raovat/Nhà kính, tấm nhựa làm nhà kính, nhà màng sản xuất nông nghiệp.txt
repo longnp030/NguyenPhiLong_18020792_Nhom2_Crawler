@@ -1,0 +1,29 @@
+{'description': 'Nhà màng: cho vụ mùa ổn định Nhà màng phù hợp với yêu cầu để '
+                'phát triển nông nghiệp bền vững, cho phép kiểm soát đầy đủ và '
+                'chặt chẽ hầu hết các thông số của quá trình sản xuất như '
+                'nhiệt độ, ánh sáng, độ ẩm, khí carbonic, khí ôxy…, kể cả việc '
+                'sử dụng tối ưu đất canh tác để đáp ứng cho sự sinh trưởng, '
+                'phát triển tốt nhất của cây trồng và kiểm soát được sâu bệnh '
+                'hại để đạt sản lượng cao nhất. Hiện nay nhiều nước phát triển '
+                'đã và đang ứng dụng rất rộng rãi các mô hình nhà kính trồng '
+                'rau, hoa,… Ở Việt Nam, bà con nông dân và các doanh nghiệp '
+                'nông nghiệp cũng đã áp dụng mô hình nhà màng để sản xuất rau '
+                'sạch và các loại hoa cao cấp bằng công nghệ cao, nhiều nhất ở '
+                'tỉnh Lâm Đồng, đặc biệt là Đà Lạt, nơi được coi là vùng sản '
+                'xuất rau và hoa trọng điểm của cả nước. Theo kết quả khảo sát '
+                'của dự án sản xuất rau trong nhà màng tại xã Đam B’ri, thành '
+                'phố Bảo Lộc, các hộ nông dân tham gia dự án cho biết “Trồng '
+                'rau trong nhà kính có thể trồng được quanh năm.',
+ 'name': 'Nhà kính, tấm nhựa làm nhà kính, nhà màng sản xuất nông nghiệp',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/20/c06dc9c729c52452b34f18a8bcd47d21.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/20/b895f2dbec78b794768ae75bd1854760.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/20/2960f1c1af8212cd2b94b293a7ad6aaa.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/20/3fb65ce0eaefe2fea08633e1e49e5dfa.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/20/81c68341e5604c4201aadb6a35fad0b3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/20/7e14fe179b96e1b5f4c6b33855c96195.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt, TP. Hà Nội',
+            'date': '10-11-2017',
+            'name': 'thietbituoitudongbinhminh',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

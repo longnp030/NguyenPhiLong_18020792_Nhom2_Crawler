@@ -1,0 +1,25 @@
+{'description': 'Tên Công ty: Công Ty Cổ Phần Dầu Cá Châu Á Địa chỉ: QL 80, ấp '
+                'An Thạnh, xã Bình Thành, huyện Lấp Vò, tỉnh Đồng Tháp Hiện '
+                'tại công ty đang kinh doanh các mặt hàng dầu Olein và dầu xá '
+                'xuất khẩu với quy cách đóng gói đa dạng như chai, cart44 đóng '
+                'carton Bơ Margarine và shortening dùng trong ngành bánh kẹo '
+                'và thực phẩm khác. Mọi thông tin về giá và sản phẩm vui lòng '
+                'liên hệ trực tiếp để biết thông tin cụ thể: zalo 01246583207',
+ 'name': 'Dầu Cá (Fish Oil) số lượng lớn bán trong nước và xuất khẩu',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/18/4fd538a1b623e5253f303b743e80b554.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/18/976352a8a01412d5089cb2623e8c7009.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/18/20d2f4cea780b2a3075e0e502cf7f908.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/18/31d30f77d0d053c11d0a44d3f807ad86.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/18/36726748295586e83089abdaf509754b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/18/ba1906b441afbd6f5073f48394b0a168.jpeg'],
+ 'price': '20.000',
+ 'seller': {'address': '80 Nation Road, An Thanh Hamlet, Binh Thanh Commune, '
+                       'Lap Vo district, Dong Thap province',
+            'date': '18-05-2020',
+            'name': 'Trần Thị Mỹ Hiền',
+            'phone': '0384739488'},
+ 'tags': ['Đồng Tháp',
+          'Huyện Lấp Vò',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'dầu ăn cao cấp xuất khẩu']}

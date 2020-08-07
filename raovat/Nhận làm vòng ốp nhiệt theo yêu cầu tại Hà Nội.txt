@@ -1,0 +1,21 @@
+{'description': 'Nhận làm vòng ốp nhiệt theo yêu cầu tại Hà Nội vòng ốp nhiệt '
+                'Đặc điểm của vòng ốp nhiệt do công ty chúng tôi cung cấp '
+                'Nguyên liệu là thép không gỉ Thiết kế đẹp Hiệu suất ổn định '
+                'Truyền nhiệt tốt Thông tin về sản phẩm vòng điện trở ốp nhiệt '
+                'Điện áp: 220V/ 380V Có thể cung cấp nhiều kiểu dáng. Quy '
+                'cách: từ phi 30 đến phi 200 Quý khách có nhu cầu mua hàng, '
+                'hay muốn biết thêm chi tiết sản phẩm, vui lòng liên hệ với '
+                'chúng tôi: Công ty TNHH TM Hoàng Kim Địa chỉ: Số 42 ngõ 924 '
+                'Nguyễn Khoái, P. Thanh Trì, Hoàng Mai, Hà Nội Mobile: '
+                '0919575909 / 0967902850 ; 0979599533 / 0912086984 Email: '
+                'giaho.ceo@gmail.com http://maynganhnhua.vn '
+                'https://maynganhnhua.com.vn',
+ 'name': 'Nhận làm vòng ốp nhiệt theo yêu cầu tại Hà Nội',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/05efb6152c23e62eefc4ad9796288daf.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 42 ngõ 924 Nguyễn Khoái, P. Thanh Trì, Hoàng Mai, '
+                       'Hà Nội',
+            'date': '27-04-2020',
+            'name': 'hoangkimhn01@gmail.com',
+            'phone': '0912086984'},
+ 'tags': ['Hà Nội', 'Dịch vụ', 'Tìm đối tác']}

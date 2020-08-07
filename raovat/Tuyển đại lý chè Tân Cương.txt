@@ -1,0 +1,22 @@
+{'description': 'Công ty TNHH Tân Cương Xanh chuyên sản xuất và phân phối ra '
+                'thị trường những sản phẩm trà Thái Nguyên, trà ô long, trà '
+                'túi lọc các hương vị, Sản phẩm của công ty chúng tôi được '
+                'trồng và chăm sóc theo tiêu chuẩn vietgap tại vùng trà đặc '
+                'sản Tân Cương Thái Nguyên, đạt tiêu chuẩn quốc tế UTZ đầu '
+                'tiên tại Việt Nam. Mẫu mã sản phẩm đa dạng, chất lượng ổn '
+                'định, đóng gói đa quy cách, công ty chúng tôi tự tin đưa ra '
+                'thị trường những sản phẩm tốt nhất, giá cả cạnh tranh. Hiện '
+                'nay, với nhu cầu mở rộng thị trường, chúng tôi liên tục tuyển '
+                'đại lý, nhà phân phối trên toàn quốc với những chính sách ưu '
+                'đãi. Mọi thông tin chi tiết xin liên hệ: VPGD: Số 2, Ngõ '
+                '31/26 Trần Quốc Hoàn, Cầu Giấy, Hà Nội Hotline: 0243. 757 '
+                '3025 - 0946 821 287.',
+ 'name': 'Tuyển đại lý chè Tân Cương',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/25/dae1de9fd598bfa376976cd8f7be8ab0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/25/f1f723ea960a8c39e5fe0c4367c005b7.jpeg'],
+ 'price': '2.000.000',
+ 'seller': {'address': 'Số 2, Ngõ 31/26 Trần Quốc Hoàn, Cầu Giấy, Hà Nội',
+            'date': '13-03-2020',
+            'name': 'Tcx001',
+            'phone': '0946821287'},
+ 'tags': ['Hà Nội', 'Quận Cầu Giấy', 'Ẩm thực, du lịch', 'Ẩm thực']}

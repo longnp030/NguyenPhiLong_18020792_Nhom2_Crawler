@@ -1,0 +1,30 @@
+{'description': 'Công ty Cổ phần Công nghệ tưới Bình Minh VP bán hàng Hà Nội: '
+                'Số 2, Ngõ 238 Đường Hoàng Quốc Việt - Quận Cầu Giấy - TP. Hà '
+                'Nội ( Bên cạnh trường CĐ Du lịch Hà Nội, Đối diện Triển lãm '
+                'Nông nghiệp Việt Nam) Điện thoại: (+84) 0243. 212 3662  I  '
+                'Fax: (+84) 0243. 212 3661 I Hotline: 0971 682 666 Email: '
+                'congnghetuoibinhminh@gmail.com Tại TP. Hồ Chí Minh: Số 68/9 '
+                'Tân Phú 2 - Phường Tân Bình - Thị xã Dĩ An - Bình Dương Điện '
+                'thoại: (+84) 0650. 373 8519  I  Hotline: 0938 261 888  I  '
+                'Email: congnghetuoibinhminh@gmail.com Địa chỉ Kho hàng:  Số 2 '
+                'đường Dương Đình Nghệ - Phường Yên Hòa - Quận Cầu Giấy - TP. '
+                'Hà Nội Website: www.thietbituoinhogiot.vn I '
+                'www.hethongtuoi.vn l www.hethongtuoinhogiot.net '
+                'www.thietbituoinhogiot.com  I  www.mangphunhakinh.vn  I  '
+                'www.thietbiphuntuoi.com Tưới nhỏ giọt,tưới nhỏ giọt,hệ thống '
+                'tưới nhỏ giọt,bec phun nuoc,voi tuoi nuoc tu dong,thiết bị, '
+                'tưới nhỏ giọt,tưới nhỏ giọt Israel,dây tưới nhỏ giọt,béc tưới '
+                'nhỏ giọt,đầu tưới nhỏ giọt,tưới nhỏ giọt hà nội,đầu tưới nhỏ',
+ 'name': 'Tưới nhỏ giọt, mô hình tưới nhỏ giọt, hệ thống tưới nhỏ giọt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/04/25/f11eced7adfa3faf1fc2bdde85759e02.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/25/722cb826f6076282415cde4a4f4052a6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/25/0fba51b892ec4fc3646ba851efdeb146.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/25/4b3bcb2776ccc5c545cb5b8a0d646174.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/25/b77ba8e41100894d7443b5a2c2ddeea3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/25/c9c8631d997c342c4a905f255ea37bb1.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt, TP. Hà Nội',
+            'date': '10-11-2017',
+            'name': 'thietbituoitudongbinhminh',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

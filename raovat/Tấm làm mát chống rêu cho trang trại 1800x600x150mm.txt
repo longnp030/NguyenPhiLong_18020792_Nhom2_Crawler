@@ -1,0 +1,27 @@
+{'description': 'Hotline: 0965 189 436/ 0941 665 680 - Ms.Men Website: '
+                'nakomi.vn --------------- Tấm làm mát đen Hafuji là sản phẩm '
+                'lý tưởng vì không có hóa chất, không mùi, không độc,phù hợp '
+                'để làm mát, giảm nhiệt độ và thanh lọc không khí. Tấm làm mát '
+                'đen Hafuji với thiết kế gợn sóng liên kết không gian bên '
+                'trong, khả năng hấp thụ tản nhiệt cao, tính chịu nước cao. '
+                'Sản phẩm an toàn, thân thiện môi trường, đem lại hiệu suất '
+                'cao về mặt kinh tế. Tấm cooling pad có màu sắc tùy chọn khác '
+                'nhau: Với Nâu,  xanh + nâu kết hợp, xanh lá cây',
+ 'name': 'Tấm làm mát chống rêu cho trang trại 1800x600x150mm',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/02/28/36352492baaec7346d74e40870acce3e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/28/53d44d34cc923d57412a4a1c243a4381.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/28/33f93a641b41747d9a919c1c481dce33.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/28/a5be88e15a81f73fd852d8f5752bf91e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/28/5d12e50a3e5d1c316c04be64c3b3ba8e.jpeg'],
+ 'price': '420.000',
+ 'seller': {'address': 'Việt Nam',
+            'date': '28-02-2020',
+            'name': 'Cơ Điện Lạnh NP - Việt Nam Công Ty CP',
+            'phone': '0965189436'},
+ 'tags': ['Hà Nội',
+          'Quận Hoàng Mai',
+          'Khác',
+          'Thú nuôi',
+          'tấm làm mát',
+          ' tấm làm mát chống rêu',
+          ' tấm làm mát cho trang trại']}

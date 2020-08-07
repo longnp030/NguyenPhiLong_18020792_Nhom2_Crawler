@@ -1,0 +1,12 @@
+{'description': '',
+ 'name': 'Xiên que giá sỉ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2017/08/05/59852b6dcb087-1347891575cha-gio-tom-cua.jpg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2017/08/05/59852b78edb60-1395054833.jpg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2017/08/05/59852b8635210-thuc-an-dong-lanh-ca-vien-chien.jpg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2017/08/05/59852b8671559-x-c-x-ch-c-vf.jpg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'kimdung3425@gmail.com',
+            'date': '01-10-2016',
+            'name': 'kimdung3425',
+            'phone': '0915469009'},
+ 'tags': ['TP Hồ Chí Minh', 'Quận Gò Vấp', 'Ẩm thực, du lịch', 'Ẩm thực']}

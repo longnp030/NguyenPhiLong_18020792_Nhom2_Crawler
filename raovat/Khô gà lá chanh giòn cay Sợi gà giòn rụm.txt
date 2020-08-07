@@ -1,0 +1,28 @@
+{'description': 'Khô gà ngon- bổ -rẻ chỉ có ở Heo Mi foods Giá cả hợp lí Chất '
+                'lượng thì khỏi phải bàn Đảm bảo vệ sinh ATTP GIÁ KHÔ GÀ 150k/ '
+                '1 Hũ 500g 260k/ 1kg (mua 1kg) 250k/ 1kg (mua từ 2kg) 245k/ '
+                '1kg (mua từ 3kg) _____________________________________ Liên '
+                'hệ 0934116821 để đặt hàng Địa chỉ 525/54 huỳnh văn bánh '
+                'phường 14 quận phú nhuận Giao hàng nhanh từ 20-60p trong nội '
+                'thành TP HCM#GHN #GiaoHangNhanh #Grab #khôgà #khogangon '
+                '#khogalachanh #khogacay #khogaheomi #heomishop #khôGàLáChanh '
+                '#khô_gà_lá_chanh #comchaychabong #khoheo',
+ 'name': 'Khô gà lá chanh giòn cay Sợi gà giòn rụm',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/12/01ee4069e2b05a9953ff09a427318d7f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/12/e39afc536096361f95e98d0f28839113.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/12/c914723b8085b39601bbd2f784c978cc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/12/308f5644bcffdf9685317cd2511ffd38.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/12/4482bba9b81df3e62186f52febf38334.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/12/88177eed6398f597fcdf8edf4f3b1cb4.jpeg'],
+ 'price': '75.000',
+ 'seller': {'address': '525/44 HUỲNH VĂN BÁNH- P14- PHÚ NHUẬN',
+            'date': '18-09-2019',
+            'name': 'KHÔ GÀ HEOMI',
+            'phone': '093 411 68 21'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Phú Nhuận',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'khô gà',
+          ' khô gà lá chanh',
+          ' khô gà bở tỏi']}

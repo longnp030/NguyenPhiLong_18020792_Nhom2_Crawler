@@ -1,0 +1,12 @@
+{'author': 'Minh Cương',
+ 'categories': ['Pháp luật'],
+ 'content': 'Ngày 3/5, Công an tỉnh Quảng Ninh đang tạm giữ Hoàng Anh Tuấn (23 '
+            'tuổi, trú xã Đông Xã, huyện Vân Đồn) để điều tra hành vi giết '
+            'người. Khoảng 20h ngày 1/5, do mâu thuẫn, Tuấn mua dao mang đến '
+            'quán Internet cùng xã để gặp Nguyễn Văn Tuấn (25 tuổi). Trong lúc '
+            'to tiếng, Tuấn rút dao đâm hai nhát gây thủng tim làm nạn nhân tử '
+            'vong.',
+ 'datetime': 'Thứ tư, 3/5/2017, 17:28 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2017/05/03/images1363385-Ho-ng-Anh-Tu-n-4444-1493800579.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=KvADyU49GBclYJdo6LAsaQ'],
+ 'tags': ['nam thanh niên', 'đâm gục đối thủ', 'bằng hai nhát dao.'],
+ 'title': 'Đâm chết đối thủ trong quán Internet'}

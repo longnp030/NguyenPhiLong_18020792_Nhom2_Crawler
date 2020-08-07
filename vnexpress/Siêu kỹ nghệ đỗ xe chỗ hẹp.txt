@@ -1,0 +1,14 @@
+{'author': 'Mỹ Anh',
+ 'categories': ['Xe'],
+ 'content': 'Ở một thành phố như New York (Mỹ), việc tìm được một chỗ đỗ xe '
+            'đôi khi được ví như mò kim đáy biển. Kịch bản tệ nhất là khi lái '
+            'xe lòng vòng cả giờ đồng hồ cuối cùng cũng tìm được một chỗ '
+            'trống, nhưng lại không thể nhét vừa chiếc xe của mình. Vì thế, có '
+            'tài xế chẳng thèm bận tâm rằng việc họ làm có ảnh hưởng gì tới '
+            'người khác hay không, giống chủ nhân của chiếc Toyota Camry trong '
+            'đoạn video dưới đây. Chiếc Toyota Camry cố chui vào chỗ trống '
+            'giữa 2 xe. ( Xem video )',
+ 'datetime': 'Thứ sáu, 9/12/2011, 15:37 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Siêu kỹ nghệ đỗ xe chỗ hẹp'}

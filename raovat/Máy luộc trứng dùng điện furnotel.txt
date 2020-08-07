@@ -1,0 +1,19 @@
+{'description': 'máy luộc trứng dùng điện furnotel Bán buôn đồ dùng khách sạn, '
+                'nhà hàng, văn phòng, đồ dùng gia đình, thiết bị bếp công '
+                'nghiệp, thiết bị nhà bếp, vệ sinh công nghiệp, chăn, ga gối '
+                'đệm, đồ gia dụng nhập khẩu. FURNOTEL VIETNAM INTERNATIONAL '
+                'HOTEL EQUIPMENT SUPPLY Địa chỉ: 161 Trần Hưng Đạo, Điện Ngọc, '
+                'Điện Bàn, Tỉnh Quảng Nam hotline: Mr Thạch: 0989 444 988 '
+                'http://thietbikhachsan.biz email : funotelvietnam@gmail.com',
+ 'name': 'Máy luộc trứng dùng điện furnotel',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/12/6e6c3cfb5f261e65b247a01915c4c4dc.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'funotelvietnam@gmail.com',
+            'date': '30-06-2016',
+            'name': 'funotelvietnam',
+            'phone': '0989444988'},
+ 'tags': ['Đà Nẵng',
+          'Quận Thanh Khê',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'máy luộc trứng dùng điện furnotel']}

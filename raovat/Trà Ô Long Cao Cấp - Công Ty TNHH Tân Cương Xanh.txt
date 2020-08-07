@@ -1,0 +1,25 @@
+{'description': '🥰Hộp Trà Ô Long Phúc Lộc 400g🥰 💥Đơn giá: 550.000 đ 🎁 Mô tả '
+                'sản phẩm: Khối lượng tịnh: 400gram bao gồm 02 gói 200gram búp '
+                'trà ô long ngon được bảo quản trong bao nhôm hút chân không '
+                'đựng trong 2 hộp sắt và đặt trong khay sang trọng ✅Đặc tính '
+                'của trà ô long do công ty cung cấp là không sử dụng bất kì '
+                'hương hay phụ gia nào trong quá trình chế biến, mà đó là mùi '
+                'hương đặc trưng sẵn có của trà ô long. Để có được thành phẩm '
+                'trà Oolong thì từ nguyên liệu tươi thu hái về phải mất hơn 30 '
+                'tiếng qua nhiều công đoạn khác nhau như: làm héo, quay thơm, '
+                'diệt men, định hình và cuối cùng là đóng gói tạo ra nhiều '
+                'chủng loại trà Oolong theo thị hiếu người tiêu dùng. Hotline '
+                'Tân Cương Xanh ☎Hotline : 0243 839 8447 - 0983 412 602 '
+                '🏠Website : https://tancuongxanh.com http://olongtra.com',
+ 'name': 'Trà Ô Long Cao Cấp - Công Ty TNHH Tân Cương Xanh',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/02/7f9d87ed94667e34258da4b6aa02debc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/b965965821c35a361360ca16eb870ae0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/bc42d22731bca2cf06fc5457e9179ad0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/427b4cd1ce24fc9d07c2dd366dd4d0d0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/02/fbbb943ae791432e2e76dfe5b9a73bf8.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2 Ngõ 31/26 Trần Quốc Hoàn , Cầu Giấy, Hà Nội.',
+            'date': '10-03-2020',
+            'name': 'Như Quỳnh',
+            'phone': '0333916204'},
+ 'tags': ['Ẩm thực, du lịch', 'Ẩm thực', 'tra olong']}

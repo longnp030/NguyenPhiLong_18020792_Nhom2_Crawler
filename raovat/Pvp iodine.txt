@@ -1,0 +1,27 @@
+{'description': 'Thành phần: Potassium hydrogen persulfate/ Potassium '
+                'monopersulfate 50% (min) ➡️ ➡️ ➡️ Công dụng: ➡️ Wirkon có tác '
+                'dụng sát trùng nguồn nước nuôi, tiêu diệt vi khuẩn, virus, '
+                'nấm và nguyên sinh động vật. ➡️ Wirkon làm giảm H2S và tăng '
+                'lượng oxy hòa tan trong nước ao nuôi nên phù hợp xử lý ao '
+                'nuôi có mùi hôi thối, hàm lượng oxy thấp. 🌞 Cách sử dụng: ➡️ '
+                'Hòa tan thuốc với nước tạt đều khắp ao, mở quạt nước cho '
+                'thuốc phân tán đều. ➡️ Trước khi thả tôm cá: 1 kg/ 1.500 – '
+                '2.000 m3 nước, 2 – 3 ngày trước khi thả. ➡️ Trong khi nuôi: + '
+                'Định kỳ: 1 kg/ 3.000 – 5.000 m3 nước, định kỳ 10 – 15 ngày/ '
+                'lần. + Khi tôm cá bệnh hay khi ao nuôi nhiễm khuẩn cao: 1 kg/ '
+                '2.000 – 2.500 m3 nước, 2 –3 ngày/ lần trong thời gian điều '
+                'trị. 🌞 Lưu ý: ➡️ Chỉ nên sử dụng Wirkon cho tôm cá trên 3 '
+                'tuần tuổi. ➡️ Sử dụng lúc trời mát. ➡️ Không dùng dụng cụ kim '
+                'loại để chứa đựng khi pha thuốc. ➡️ Wirkon tác động tốt trong '
+                'môi trường có pH thấp, do đó không dùng cho ao vừa xử lý vôi '
+                'ngày trước đó.',
+ 'name': 'Pvp iodine',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/08/19/e7c27e716124c3ed6453aec3e224b20e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/19/3f8b28bdede5d48f90dfb5d96750a287.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/19/f17dcc8fdd8ab87729722409c005caa6.jpeg'],
+ 'price': '280.000',
+ 'seller': {'address': 'ngan.navico@gmail.com',
+            'date': '17-08-2019',
+            'name': 'Nguyễn Thị Thúy Ngân',
+            'phone': '0946055533'},
+ 'tags': ['Khác', 'Thú nuôi', 'diệt khuẩn', ' pvp iodine', ' xử lý nước']}

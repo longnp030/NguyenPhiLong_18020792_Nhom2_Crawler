@@ -1,0 +1,14 @@
+{'author': '',
+ 'categories': ['Pháp luật'],
+ 'content': 'Khi đến đánh bạc tại thôn Sâm Dương, xã Ninh Sở (huyện Thường '
+            'Tín, Hà Tây), Toản và Bảy đã đánh đập, rồi cướp hơn 40 triệu đồng '
+            'của 2 con bạc khác là Trần Quang Bầu, Trần Văn Cường (đều ở Đông '
+            'Triều, Quảng Ninh). Sau đó, Toản và Bảy đã giam giữ Bầu và Cường '
+            'với lý do 2 người này gian lận cờ bạc, bắt gọi điện thoại về '
+            'Quảng Ninh, yêu cầu gia đình phải mang nộp 30 triệu đồng thì mới '
+            'thả người. Hiện vụ án đang được điều tra làm rõ. (Theo Thanh Niên '
+            ')',
+ 'datetime': 'Thứ sáu, 27/7/2001, 09:39 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Bắt 2 tên cướp giam người, tống tiền'}

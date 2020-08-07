@@ -1,0 +1,26 @@
+{'description': 'Thanh cua Nhật là món ăn của người Nhật chế biến đơn giản. '
+                'Thanh cua là loại thực phẩm tiện dụng nên thường được sử dụng '
+                'vào chế biến nhiều món ăn khác nhau. Các món ăn từ thanh cua '
+                'có thể kể đến như: trứng cuộn thanh cua, thanh cua chiên '
+                'giòn, sushi thanh cua, kimbap thanh cua, salad rong biển trộn '
+                'thanh cua, mì ramen hải sản… Các món ăn từ thanh cua có màu '
+                'sắc và hương vị khá hấp dẫn. Đặc biệt được các bé yêu thích. '
+                'Với công nghệ chế biến tiên tiến của Nhật Bản , người tiêu '
+                'dùng sẽ rất ngạc nhiên khi thưởng thức hương vị thơm ngon của '
+                'từng sớ thịt cua.Thanh cua Nhật Bản có thực đơn chế biến rất '
+                'đơn giản, phong phú và đặc biệt không kém phần hấp dẫn. Thanh '
+                'cua thuộc dòng sản phẩm độc đáo của thực phẩm đông lạnh. '
+                'Thanh cua Nhật Bản có thực đơn chế biến rất đơn giản, phong '
+                'phú và đặc biệt không kém phần hấp dẫn. Bạn có thể mua ngay '
+                'thanh cua và nhiều sản phẩm khác liên quan đến hải sản tại '
+                'Hải Sản Đại Dương Xanh. Liên hệ ngay: Hotline: 0906845636 – '
+                '0966836636(Có zalo) Email: haisandaid',
+ 'name': 'Thanh cua Nhật giá tốt mua ngay',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/10/aaf36d56e6ded985d3b589bbc1e9b05c.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '394/1 Nguyễn Tri Phương, P4, Q10, Thành phố Hồ Chí '
+                       'Minh',
+            'date': '13-04-2020',
+            'name': 'Hải Sản Đại Dương Xanh',
+            'phone': '0906845636'},
+ 'tags': ['Ẩm thực, du lịch', 'Ẩm thực', 'thanh cua', ' thanh cua nhật']}

@@ -1,0 +1,16 @@
+{'author': 'Bác Ba Phi ',
+ 'categories': ['Hài', 'Tiểu phẩm'],
+ 'content': 'Ông ta cảm thấy ăn năn nên an ủi bị cáo. - Ít nữa, sau khi mãn '
+            'hạn, tôi sẵn sàng giúp đỡ nếu anh yêu cầu. Bị cáo nhìn luật sư '
+            'đầy vẻ nghi ngờ: - Ông ư? ông không thấy cái nghề của tôi kiếm '
+            'tiền hơn nghề luật sư nhiều sao? - !?! Một nữ chuyên gia tư vấn '
+            'bắt đầu tách ra thành lập doanh nghiệp riêng.',
+ 'datetime': 'Thứ ba, 28/4/2015, 06:00 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2015/04/27/1-9140-1430144824.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=RKsZovCV9-IOSF1jTedjYA'],
+ 'tags': ['truyện cười',
+          'hài hước',
+          'cưới',
+          'thư giãn',
+          'giải trí',
+          'bác ba phi.'],
+ 'title': 'Nghề nào nhiều tiền hơn'}

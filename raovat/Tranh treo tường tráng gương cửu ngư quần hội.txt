@@ -1,0 +1,23 @@
+{'description': 'Ưu điểm : bề mặt phủ gương bóng loáng giúp tranh sáng sâu ảnh '
+                '. Chất liệu: In phun 3D trực tiếp trên gỗ nhập phủ melamine 2 '
+                'mặt chống ẩm mốc mối mọt cao cấp. Tranh được bọc viền nhựa '
+                'dẻo cao cấp giúp bảo vệ tranh chống va đập , giúp tôn vẻ đẹp '
+                'nổi bật của bức tranh Tranh dùng để treo phòng khách , phòng '
+                'ăn , cầu thang ,phòng ngủ ,quán cafe ,cửa hàng , văn phòng , '
+                'căn hộ chung cư , nhà hiện đại ... Thích hợp làm quà tặng tân '
+                'gia , kỷ niệm ... Miễn phí ship hàng toàn quốc Liên hệ zalo '
+                '0985 554 156 – 0835 166 268 để được hưởng ưu đãi tốt nhất '
+                'website: http://decor3dhoanggia.com',
+ 'name': 'Tranh treo tường tráng gương cửu ngư quần hội',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/07/76eb3bf37f224c8354a8cd8d438c39e8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/07/748f36b03a5e8a3b5f5f5f181f2c9782.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/07/040253f594988965180124e48aac2648.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/07/b7b591e9eee6a5de3fa85fefb2cf49ce.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/07/e5444d7c74deed994479bc180dd20160.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/07/6bfacc495d5670e8d59027facb49d14d.jpeg'],
+ 'price': '1.300.000',
+ 'seller': {'address': 'decorhoanggia@gmail.com',
+            'date': '23-10-2018',
+            'name': 'Nội Thất Hoàng Gia',
+            'phone': '0985554156'},
+ 'tags': ['Khác', 'Cây cảnh', 'tranh 3d', ' tranh gạch 3d', ' tranh bộ 3 đẹp']}

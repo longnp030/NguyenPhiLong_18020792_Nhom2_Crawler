@@ -1,0 +1,59 @@
+{'author': 'Dương Tâm',
+ 'categories': ['Khoa học', 'Tin tức'],
+ 'content': 'Trước thực trạng này Công ty RTD đề xuất nghiên cứu, sản xuất '
+            'được văcxin lở mồm long móng và được Bộ Khoa học và Công nghệ phê '
+            'duyệt dự án thuộc Chương trình phát triển sản phẩm quốc gia đến '
+            'năm 2020. TS Cao Văn Hùng, Phó tổng giám đốc Công ty RTD cho '
+            'biết, bắt đầu thực hiện dự án từ năm 2014, nhóm nghiên cứu đã '
+            'thực hiện\xa0thu thập mẫu bệnh phẩm, phân lập và tuyển chọn được '
+            'bộ chủng giống virus lở mồm long móng type O, A và Asia-1 phục vụ '
+            'cho công tác nghiên cứu, sản xuất văcxin quy mô phòng thí nghiệm '
+            'và quy mô công nghiệp để thương mại hóa sản phẩm. Công ty cũng '
+            'xây dựng được các quy trình phân lập, tuyển chọn chủng giống '
+            'virus, quy trình nhân giống và bảo quản chủng giống virus. Quy '
+            'trình nghiên cứu sản xuất văcxin lở mồm long móng type O quy mô '
+            'phòng thí nghiệm đã hoàn thiện\xa0tiến tới sản xuất quy mô công '
+            'nghiệp, thương mại hóa sản phẩm. Chủ động nguồn cung trong nước '
+            'Việt Nam đang nhập khẩu 100% văcxin lở mồm long móng vì vậy, việc '
+            'thực hiện thành công dự án và thương mại hóa sản phẩm của công ty '
+            'RTD đánh dấu lần đầu tiên Việt Nam sản xuất thành công, đưa vào '
+            'thương mại hóa văcxin lở mồm long móng. Từ nay ngành chăn nuôi sẽ '
+            'chủ động hơn trong công tác phòng chống dịch, tăng tỷ lệ tiêm '
+            'phòng lở mồm long móng cho đàn gia súc, tiết kiệm được ngoại tệ. '
+            'Ông Hùng cho biết với nghiên cứu này, lần đầu tiên Việt Nam làm '
+            'chủ được quy trình phân lập, tuyển chọn chủng giống virus lở mồm '
+            'long móng để sản xuất văcxin.Thông qua nghiên cứu, nhân sự của '
+            'công ty cũng được nâng cao năng lực nắm bắt được công nghệ mới '
+            'trong lĩnh vực nghiên cứu, sản xuất văcxin và chế phẩm sinh học '
+            'dùng trong thú y. Để có kết quả này, ông Hùng cho biết, nhóm '
+            'nghiên cứu không chỉ nhận được đầu tư kinh phí, Văn phòng Chương '
+            'trình quốc gia, Bộ Khoa học và Công nghệ còn hỗ trợ nhiều khâu '
+            'trong quá trình thực hiện để đề tài triển khai hiệu quả. Ông Hùng '
+            'tự tin về khả năng ứng dụng kết quả nghiên cứu trên vào thực tiễn '
+            'và hy vọng sản phẩm sẽ góp phần cải thiện tình trạng dịch lở mồm '
+            'long móng hàng năm tại Việt Nam. Nhiệm vụ nghiên cứu, sản xuất '
+            'được văcxin lở mồm long móng thuộc Chương trình phát triển sản '
+            'phẩm quốc gia đến năm 2020,\xa0do Bộ Khoa học và Công nghệ quản '
+            'lý. Bộ Khoa học và Công nghệ đã đưa vào triển khai các Chương '
+            'trình khoa học và công nghệ quốc gia \xa0với mục tiêu tập trung '
+            'các nguồn lực đầu tư có trọng tâm, trọng điểm, lấy doanh nghiệp '
+            'làm trung tâm hỗ trợ nghiên cứu, làm chủ, ứng dụng hiệu quả các '
+            'công nghệ cao và tiên tiến trên thế giới. Các nghiên cứu góp phần '
+            'phát triển kinh tế - xã hội, nâng cao năng suất, chất lượng và '
+            'năng lực cạnh tranh của sản phẩm, dịch vụ, hàng hóa trong quá '
+            'trình công nghiệp hóa, hiện đại hóa và hội nhập quốc tế của đất '
+            'nước. Để biết thêm thông tin chi tiết về các Chương trình khoa '
+            'học và công nghệ có thể liên hệ Văn phòng các Chương trình khoa '
+            'học và công nghệ quốc gia: Địa chỉ: Số 113 Trần Duy Hưng, P. '
+            'Trung Hòa, Q. Cầu Giấy, Hà Nội Điện thoại: (84.24) 3.5551.726 '
+            'Email: vpctqg@most.gov.vn Website: http://www.vpctqg.gov.vn',
+ 'datetime': 'Thứ năm, 29/11/2018, 07:00 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2018/11/28/vac-xin-1543393142-9227-1543393328.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=Fgu97lc60VNHEgFm3886Ag',
+                  'https://i1-vnexpress.vnecdn.net/2018/11/28/dong-chai-vacxin-2334-1543397508.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=6msW069aMeSfLx_iKlg6dQ'],
+ 'tags': ['doanh nghiệp',
+          'làm chủ',
+          'công nghệ',
+          'sản xuất vắc xin',
+          'vắc xin lở mồm long móng',
+          'lở mồm long móng'],
+ 'title': 'Lần đầu tiên Việt Nam tự sản xuất văcxin lở mồm long móng'}

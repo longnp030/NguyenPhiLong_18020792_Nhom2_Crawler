@@ -1,0 +1,13 @@
+{'author': 'Xù ',
+ 'categories': ['Hài', 'Tiểu phẩm'],
+ 'content': 'Một kịch sĩ nổi tiếng không tham gia bàn cãi, bỗng nhiên nói: - '
+            'Khỏi bàn cãi. Tôi sẽ chứng minh thế nào là nghệ thuật. Mọi người '
+            'chờ đợi xem ông làm gì, nhưng kịch sĩ lại đi ra khỏi phòng. Một '
+            'lúc sau ông trở lại, mặt tái nhợt, tóc rũ rượi, môi mấp máy nói '
+            'không ra hơi: - Cháy nhà... Ai nấy đều hốt hoảng, nháo nhác định '
+            'chạy khỏi phòng tranh. Đột nhiên, gương mặt kịch sĩ giãn ra, ông '
+            'cười: - Đấy, nghệ thuật đơn giản thế thôi! (Sưu tầm)',
+ 'datetime': 'Thứ hai, 13/1/2014, 14:51 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': ['hài hước', 'truyện cười', 'tiểu phẩm'],
+ 'title': 'Thế nào mới là nghệ thuật'}

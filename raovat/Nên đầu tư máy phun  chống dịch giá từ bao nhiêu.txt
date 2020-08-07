@@ -1,0 +1,28 @@
+{'description': 'Một sản phẩm máy cho nhóm ngành nông nghiệp giúp giải quyết '
+                'phun phòng dịch tả lợn châu phi hiệu quả nhất, giải quyết các '
+                'công việc phun thuốc khử trùng, tiết kiệm thời gian làm việc. '
+                'Máy phun vôi khử trùng đa năng ra đời phục vụ người dùng nâng '
+                'cao hiệu quả công việc, phục vụ được nhiều nhu cầu của người '
+                'dùng trong nhiều nhóm ngành nông nghiệp và chăn nuôi. Ngày '
+                'hôm nay, việc đầu tư một sản phẩm máy phun vôi đã trở thành '
+                'nhu cầu thứ yếu của người dân. '
+                'dienmaylongnhat.vn/cua-hang/binh-phun-voi/binh-phun-voi-kct/ '
+                'dienmaylongnhat.vn/cua-hang/binh-phun-voi/binh-phun-voi-mitsubishi/ '
+                'dienmaylongnhat.vn/cua-hang/binh-phun-voi/binh-phun-voi-kubota/ '
+                'dienmaylongnhat.vn/tu-van/mua-may-sa-phan-sa-thoc-da-nang-gia-re/ '
+                'dienmaylongnhat.vn/tin-tuc/tu-3-trieu-tro-len-mua-may-phun-voi-nao/ '
+                'dienmaylongnhat.vn/danh-muc/binh-phun-voi/ '
+                'dienmaylongnhat.vn/tu-van/nen-mua-may-phun-voi-sa-phan-sa-thoc-khong/ '
+                'dienmaylongnhat.vn/tu-van/hieu-qua-cong-viec-cua-may-phun-voi-sa-phan-sa-thoc-da-nang/',
+ 'name': 'Nên đầu tư máy phun  chống dịch giá từ bao nhiêu',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/03/04/7db4abfab9e9a1de482fce6befcb0432.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/04/8bf86cba47421a68aed16c0b890bef68.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/04/1aa15788222f4841fb6bf241e41606d0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/04/9e2d9cbcbf353598995e0f1d7a41b5ea.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/04/d54a63178717fc07c2ff931af5073ab8.jpeg'],
+ 'price': '2.700.000',
+ 'seller': {'address': 'số 65 đông mỹ - thanh trì - hà nội',
+            'date': '04-07-2019',
+            'name': 'thamteo1202',
+            'phone': '0971028588'},
+ 'tags': ['Khác', 'Thú nuôi', 'phun chống dịch', ' chống dịch corona']}

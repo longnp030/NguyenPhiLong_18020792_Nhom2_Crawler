@@ -1,0 +1,33 @@
+{'description': 'Khô gà bơ tỏi giòn rụm là món độc quyền của HEOMISHOP, được '
+                'rất nhiều khách hàng yêu thích và mua để làm quà tặng, biếu '
+                'cho người thân, bạn bè. Món khô này của Heomishop chính là '
+                'món đặc sản vạn người mê mà rất nhiều anh chị đi du lịch mua '
+                'về làm quà cho bạn bè, người thân vì vị ngon khó cưỡng của '
+                'nó. *CAM KẾT: ✔ Vị ĐẬM ĐÀ, VỪA ĂN cực hấp dẫn ✔ Từng thớ thịt '
+                'THƠM LỪNG, GIÒN TAN ✔ Thành phần 100% TỰ NHIÊN, không chất '
+                'bảo quản ✔ Đảm bảo VỆ SINH AN TOÀN THỰC PHẨM '
+                '_____________________________________ Liên hệ 0934116821 để '
+                'đặt hàng Địa chỉ 525/54 huỳnh văn bánh phường 14 quận phú '
+                'nhuận Giao hàng nhanh từ 20-60p trong nội thành TP HCM #GHN '
+                '#GiaoHangNhanh #Grab #khôgà #khogangon #khogalachanh '
+                '#khogacay #khogaheomi #heomishop #khôGàLáChanh '
+                '#khô_gà_lá_chanh #comchaychabong #khoheo',
+ 'name': 'Khô gà bơ tỏi giòn rụm thơm ngon',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/25/2bd679eb2a1b17311b540c03c3d8e888.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/25/eb0d8fb19beb12d70ce10c46bbafdfb5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/25/d4cd27699912bbb69c5ba92a6aa9b3d8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/25/92b9fb2ada1146572c2e17d6d2577419.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/25/ae5400e12520ca1b1026fa41e70c7a04.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/25/904f053706cf992fcf93de34ba918df8.jpeg'],
+ 'price': '37.000',
+ 'seller': {'address': '525/44 HUỲNH VĂN BÁNH- P14- PHÚ NHUẬN',
+            'date': '18-09-2019',
+            'name': 'KHÔ GÀ HEOMI',
+            'phone': '093 411 68 21'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Phú Nhuận',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'khô gà',
+          ' khô gà lá chanh',
+          ' khô gà bở tỏi']}

@@ -1,0 +1,31 @@
+{'description': 'Nem chua là một món ăn dân dã và thường được sử dụng làm mồi '
+                'nhậu hay trở thành món ăn vặt hấp dẫn với vô vàn kiểu biến '
+                'tấu. Nem chua có vị chua nhẹ của các nguyên liệu sau khi lên '
+                'men, bì lợn dai vừa phải, mùi thơm của thịt nạc hòa quyện với '
+                'tiêu, ớt, tỏi và lá đinh lăng. Nem Chua Thanh Hóa là gì? Nem '
+                'chua Thanh Hóa là nem chua được sản xuất tại Thanh Hóa. Nem '
+                'được làm từ thịt lợn nạc xay nhuyễn và bì lợn thái chỉ,  trộn '
+                'cùng các gia vị như muối, tiêu, đường, tỏi, ớt, lá ổi, lá '
+                'đinh lăng,… Trước kia, người Thanh Hóa chỉ làm nem chua trong '
+                'các dịp lễ, tết, cưới hỏi hoặc các ngày hội đặc biệt trong '
+                'năm, chủ yếu tự phục vụ là chính. Đến những năm 70 của thế kỷ '
+                '20, nghề làm nem chua dần hình thành và phát triển ở thành '
+                'phố Thanh Hóa để phục vụ nhu cầu của người dân trong và ngoài '
+                'tỉnh. Các cơ sở sản xuất chế biến và kinh doanh nem chua mở '
+                'ra nhiều hơn Nem chua xứ Thanh thường được chấm cùng tương ớt '
+                'cay. Vị ngọt của thịt heo quyện hòa với vị chua thanh nhẹ, vị '
+                'cay của ớt tỏi, thơm bùi',
+ 'name': 'Nem chua Thanh Hóa tại Hà Đông',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/30/34eb88b49865c7975f2851b8818e794b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/30/9bcdcef0a2d397aa9f369a985d16ef79.jpeg'],
+ 'price': '30.000',
+ 'seller': {'address': 'Phòng 2009, Tòa L, Chung cư Xuân Mai Complex, Yên '
+                       'Nghĩa, Hà Đông',
+            'date': '08-04-2020',
+            'name': 'Vũ Thị Mừng',
+            'phone': '0962918241'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'nem chua thanh hóa',
+          ' nem chua thanh hóa tại hà đông',
+          ' nem chua thanh hóa hà đông']}

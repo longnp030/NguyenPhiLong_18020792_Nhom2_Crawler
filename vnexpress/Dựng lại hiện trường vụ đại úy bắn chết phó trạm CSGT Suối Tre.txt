@@ -1,0 +1,57 @@
+{'author': 'Hoàng Trường',
+ 'categories': ['Pháp luật'],
+ 'content': 'Ngày 20/11, Cơ quan cảnh sát điều tra Công an tỉnh Đồng Nai đã '
+            'đưa bị can Ngô Văn Vinh (nguyên đại úy CSGT) đến Trạm kiểm soát '
+            'giao thông Suối Tre (thị xã Long Khánh) để thực nghiệm hiện '
+            'trường vụ bắn chết thiếu tá Trần Văn Sơn (39 tuổi, Phó trạm CSGT '
+            'Suối Tre) xảy ra hơn một năm trước. Động thái này nhằm làm rõ các '
+            'tình tiết , phục vụ công tác điều tra lại vụ án sau khi bị TAND '
+            'tỉnh Đồng Nai trả hồ sơ tại phiên sơ thẩm hồi cuối tháng 8. Buổi '
+            'thực nghiệm hiện trường diễn ra trong khoảng 2 tiếng dưới sự '
+            'chứng kiến của đại diện địa phương và các cơ quan tố tụng liên '
+            'quan. Kiểm sát viên VKSND tỉnh Đồng Nai đã yêu cầu các nhân chứng '
+            'Trương Ngọc Lâm (lái xe cho thiếu tá Sơn), Trương Thành Chí (bạn '
+            'ông Sơn), Đoàn Thanh Phú (CSGT trạm KSGT Suối Tre)... mô tả lại '
+            'diễn biến từ các hành động đến lời nói vào thời điểm xảy ra xô '
+            'xát giữa nạn nhân Sơn và Vinh; trước, trong và sau khi có tiếng '
+            'súng nổ. Theo nội dung vụ án, đầu giờ chiều 22/9/2013, đại úy '
+            'Vinh đang hát karaoke với đồng nghiệp thì thiếu tá Sơn, Trương '
+            'Thành Chí cùng một số người vào phòng đối diện. Trong lúc chào '
+            'hỏi, Vinh xảy ra mâu thuẫn với Chí và bị người này dùng ly bia '
+            'đập chảy máu mặt. Vinh tỏ ý trách thiếu tá Sơn đã không đứng về '
+            'phía mình khiến hai bên cãi nhau. Viên đại uý bỏ về cơ quan lấy '
+            'khẩu súng K59 tìm đến phòng của thiếu tá, song không gặp. Khoảng '
+            '17h cùng ngày ông Sơn về đến trạm. Biết chuyện cấp dưới xách súng '
+            'đi tìm mình, thiếu tá Sơn đến chỗ Vinh nằm, nói: “Vinh đen, mày '
+            'ngon mày bắn tao đi” rồi đấm 3 cái vào mặt Vinh. Lúc này, Vinh '
+            'rút súng ở đầu giường ra bắn. Anh Sơn giằng co khiến viên đạn đi '
+            'lạc, xuyên trúng hông thượng úy Đoàn Thanh Phú. Nghe thấy nhiều '
+            'tiếng súng, Chí và một số người có mặt tại trạm CSGT Suối Tre '
+            'chạy vào phòng thấy anh Sơn trúng đạn nằm gục dưới nền nhà. Khẩu '
+            'súng trên tay Vinh tiếp tục nổ thêm 2 phát nhưng không làm ai bị '
+            'thương. Trong quá trình giằng co với anh Sơn, Vinh cũng bị thương '
+            'nặng. Tối hôm đó, thiếu tá Sơn tử vong tại bệnh viện, thượng úy '
+            'Phú bị thương tật 15%, Vinh 40%. Với hành vi này, Vinh bị truy tố '
+            'về tội Giết người trong trạng thái tinh thần bị kích động mạnh có '
+            'khung hình phạt từ 6 tháng đến 3 năm tù. Tại phiên tòa sơ thẩm '
+            'ngày 26/8, bị cáo Vinh bác bỏ một số chi tiết trong cáo trạng như '
+            'không đem súng đi tìm ông Sơn, không trực tiếp nổ súng vào người '
+            'nạn nhân... Trong khi đó, bảo vệ cho gia đình bị hại, luật sư cho '
+            'rằng cơ quan điều tra đã vi phạm tố tụng khi khẩu súng K59 - hung '
+            'khí giết nạn nhân - là vật chứng quan trọng, ảnh hưởng đến việc '
+            'xử lý vụ án đã không được chuyển sang tòa xem xét đánh giá mà trả '
+            'lại cho Phòng CSGT; biên bản khám nghiệm hiện trường không có chữ '
+            'ký của kiểm sát viên; đồng thời trong quá trình điều tra, cơ quan '
+            'chức năng chưa thực nghiệm lại hiện trường... Ngoài ra, luật sư '
+            'cũng cho rằng bị cáo Vinh có dự mưu giết người từ trước, thương '
+            'tích của bị cáo chưa được làm rõ do người nào gây ra... và đề '
+            'nghị toà trả hồ sơ cho cơ quan điều tra khắc phục những thiếu '
+            'sót, truy tố Vinh về tội Giết người. HĐXX sau đó đã chấp thuận đề '
+            'nghị của vị luật sư này.',
+ 'datetime': 'Thứ năm, 20/11/2014, 18:34 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2014/11/20/suoitre-1-6035-1416474925.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=we5Azjel8B68L6mHYLg0-w',
+                  'https://i1-vnexpress.vnecdn.net/2014/11/20/suoitre-2-7958-1416474925.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=mPSbBdA1yhSZwCEebh8ykw'],
+ 'tags': ['cảnh sát giao thông bắn nhau',
+          'trạm suối tre',
+          'đại úy ngô văn vinh'],
+ 'title': 'Dựng lại hiện trường vụ đại úy bắn chết phó trạm CSGT Suối Tre'}

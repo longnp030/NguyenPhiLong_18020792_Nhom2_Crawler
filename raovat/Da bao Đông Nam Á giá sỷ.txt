@@ -1,0 +1,32 @@
+{'description': 'THỰC PHẨM  AN SINH ĐC: 331/70/125 Phan Huy Ích, P14, Gò Vấp '
+                'ĐiỆN THOẠI: 028 3589 7262  Mobile: 0906 963 009 - 0915 469 '
+                '009 zalo: 0909 056 488 - 0906 841 009 BÁO GIÁ  SỈ BAKERY Kính '
+                'gửi: Quý khách hàng                          Áp dụng từ '
+                '05/02/2017 "Nhằm hỗ trợ quý khách hàng tăng trưởng doanh số '
+                'và đạt hiệu quả cao trong kinh  doanh.Chúng tôi xin gửi đến '
+                'Quý Khách hàng báo giá Bakery như sau " 12\tĐÔNG NAM Á\tGIÒ '
+                'LỤA\tNguyên\tKg\t 70,000 13\t\t\tXắc lát\tKg\t 75,000 14\t\t'
+                'DA BAO ĐỎ 1\tNguyên\tKg\t 85,000 15\t\t\tXắc lát\tKg\t 90,000 '
+                '18\t\tDA BAO ĐỎ 3\tNguyên\tKg\t 70,000 19\t\t\tXắc lát\tKg\t '
+                '75,000 20\t\tDA BAO TRẮNG\tNguyên\tKg\t 85,000 21\t\t\tXắc '
+                'lát\tKg\t 90,000 22\t\tGIÒ THỦ\tNguyên\tKg\t 75,000 23\t\t\t'
+                'Xắc lát\tKg\t 80,000 24\t\tPATE GAN\tNguyên\tKg\t 60,000 '
+                '25\t\tDĂM BÔNG VUÔNG\tNguyên\tKg\t 110,000 26\t\t\tXắc lát\t'
+                'Kg\t 115,000 Phục vụ tân tình, chu đáo. (qúy khách,quý khách '
+                'vui lòng thêm thông tin để yêu cầu bất kỳ) Kim Dung: 0915 469 '
+                '009 zalo: 0909 056 488',
+ 'name': 'Da bao Đông Nam Á giá sỷ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2018/11/09/0221ca56f1032fbcdc03cd3b0af4cb15.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2018/11/09/81e85725b57bc04bd1b423753341ff4c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2018/11/09/a54b35865736535c8e0b100a8977470f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2018/11/09/8c243647a96e7d21f0ea58c72b0565aa.jpeg'],
+ 'price': '75.000',
+ 'seller': {'address': 'kimdung3425@gmail.com',
+            'date': '01-10-2016',
+            'name': 'kimdung3425',
+            'phone': '0915469009'},
+ 'tags': ['Bình Dương',
+          'Huyện Thuận An',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'thịt nguội kẹp bánh mỳ']}

@@ -1,0 +1,27 @@
+{'description': 'máy xay sinh tố công nghiệp Siêu vòng quay - 38.000 vòng / '
+                'phút. Máy xay sinh tố mạnh mẽ với 5 HP. Lưỡi thép gia cường '
+                'đặc biệt khó biến dạng. 5 mức công suất khuấy được lập trình '
+                'sẵn, máy sẽ tự động tắt khi hoàn thành hành động. Thiết kế '
+                'truyền động lõi thép hình lục giác chuyên nghiệp, mở rộng 10 '
+                'lần sử dụng thời gian. Máy xay sinh tố 4 trong 1 để chiết '
+                'xuất nước ép trái cây; sản xuất bánh quy, đồ uống nóng và '
+                'sinh tố đá; xay hạt khô, các loại hạt và các thành phần khô '
+                'khác thành bột - tất cả trong một lưỡi Bán buôn đồ dùng khách '
+                'sạn, nhà hàng, văn phòng, đồ dùng gia đình, thiết bị bếp công '
+                'nghiệp, thiết bị nhà bếp, vệ sinh công nghiệp, chăn, ga gối '
+                'đệm, đồ gia dụng nhập khẩu. FURNOTEL VIETNAM INTERNATIONAL '
+                'HOTEL EQUIPMENT SUPPLY Địa chỉ: 161 Trần Hưng Đạo, Điện Ngọc, '
+                'Điện Bàn, Tỉnh Quảng Nam hotline: Mr Thạch: 0989 444 988 '
+                'http://thietbikhachsan.biz email : funotelvietnam@gmail.com',
+ 'name': 'Máy xay sinh tố công nghiệp',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/08/eeb40226e70951ae2f8e5a22b88eca1d.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'funotelvietnam@gmail.com',
+            'date': '30-06-2016',
+            'name': 'funotelvietnam',
+            'phone': '0989444988'},
+ 'tags': ['Đà Nẵng',
+          'Quận Thanh Khê',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'máy xay sinh tố công nghiệp']}

@@ -1,0 +1,36 @@
+{'description': 'Chuyên sản xuất, lắp đặt hàng rào lưới thép hàn mạ kẽm, sơn '
+                'tĩnh điện LH 0976225366 Hàng rào lưới thép hàn (weldmesh) '
+                'được sản xuất theo tiêu chuẩn TCVN 9391-2012, từ sợi thép kéo '
+                'nguội cường độ 500MPa, lực chịu cắt của mối hàn: Min = 250Mpa '
+                '(2.500kg/cm).  Sản phẩm được sản xuất bằng máy hàn tự động '
+                'đảm bảo khoảng cách dây thép đúng như thiết kế, sai số nhỏ '
+                'cho sản phẩm có được vẻ thẩm mỹ nhất định. Dây lưới thép: D3, '
+                'D4, D5, D6 Mắt lưới: 50x50mm, 50x100mm, 50x150mm, 50x200mm, '
+                '75x150… Khổ lưới thông dụng: 1,5m, 1,6m, 1,8m, 2m, 2,2m, '
+                '2,4m…3m, 3,2m.. - Giảm chi phí cho công trình bởi sản phẩm có '
+                'giá thành hợp lý, có tuổi thọ cao, sử dụng lâu bền. - Lắp ráp '
+                'nhanh, tiện lợi, chất lượng ổn định qua thời gian. - Tiết '
+                'kiệm thời gian và nguyên vật liệu trong quá trình thi công. - '
+                'Hàng rào đảm bảo tính an toàn, thẩm mỹ và không che khuất tầm '
+                'nhìn, thoáng đãng. - Không gỉ và bền màu với thời gian. công '
+                'ty TNHH sản xuất và kinh doanh vật tư Hưng Thịnh Số 71 ngõ 17 '
+                'Phường Phú Đô, quận Nam Tư Liêm,',
+ 'name': 'Hàng rào thép, hàng rào lưới thép hàn mạ kẽm sơn tĩnh điện',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/21/87de9116245e59ec055695e6302f2e7d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/f4cc153268517b2d6d0087ebc07e5381.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/789e80ed38ce6b0582943fada96da781.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/09f1db9028d7547504cb67e03fbca8cc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/368070ff52ec6ec3802dfd38873f8e82.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/8d645d3f4eb7544f83edb90d4ff585e5.jpeg'],
+ 'price': '30.000',
+ 'seller': {'address': 'VPGD: KDT Pháp Vân, Hoàng Mai, Hà Nội',
+            'date': '04-02-2020',
+            'name': 'hungthinh.info123',
+            'phone': '0976225366'},
+ 'tags': ['Hà Nội',
+          'Quận Nam Từ Liêm',
+          'Dịch vụ',
+          'Tìm đối tác',
+          'Hàng rào thép',
+          ' hàng rào lưới thép',
+          ' lưới thép hàn']}

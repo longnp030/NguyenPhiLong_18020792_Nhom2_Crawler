@@ -1,0 +1,30 @@
+{'description': 'Chúng tôi chuyên cung cấp các sản phẩm cỏ nhân tạo, cỏ trang '
+                'trí, cỏ nhân tạo sân vườn, cỏ trang trí tường với giá rẻ tại '
+                'hải phòng nói riêng và trên toàn quốc nói chung. Cỏ trang trí '
+                'tường có kích thước 40x60cm rất thuận lợi cho việc thi công '
+                'lắp đặt và vận chuyển. Cỏ nhân tạo sân vườn có kích thước '
+                '2x25m với sợi cỏ mịn màng rất thích hợp làm sân chơi và trang '
+                'trí khu vui chơi, các nhà hàng, quán ăn... Với màu xanh của '
+                'cỏ sẽ làm tăng thêm mức độ đẹp của không gian nhà bạn, đặc '
+                'biệt tôn lên sự sang trọng của ngôi nhà, làm xoa dịu đi sự '
+                'nóng nóng của mùa hè. Hãy nhanh tay liên hệ với chúng tôi để '
+                'được tư vấn và giải đáp những thắc mắc mà quý khách còn chưa '
+                'hiểu rõ về sản phẩm.',
+ 'name': 'Tấm cỏ nhựa trang trí giá rẻ, thảm cỏ nhân tạo giá rẻ tại Hải Phòng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/30/192f2d8ebb7f50744fa9b0b43507c176.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/30/a84eb021e1240a33375246408e27c1ed.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/30/59bba49c4bcbb3489aad7c8e5c00913f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/30/b5e31e7e38e259d8b2b0cb4e8b01854f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/30/21742eea6bb6a4acfd16a96777c09f94.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/30/c396a8e14e6df9981332cac24d269d1d.png'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'số 58 ngõ 111, cầu cốc, tây mỗ, nam từ liêm, hà nội',
+            'date': '21-06-2017',
+            'name': 'nguyễn văn thắng',
+            'phone': '0978893974'},
+ 'tags': ['Hải Phòng',
+          'Khác',
+          'Cây cảnh',
+          'cỏ nhựa giá rẻ tại hải phòng',
+          ' cỏ trang trí giá rẻ tại hải phòng',
+          ' cotrangtrigiaretaihaiphong']}

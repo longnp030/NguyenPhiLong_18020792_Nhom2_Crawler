@@ -1,0 +1,60 @@
+{'author': 'Thanh Hương',
+ 'categories': ['Giáo dục', 'Du học'],
+ 'content': 'Visa sinh viên cho phép du học sinh Australia có thể làm việc tới '
+            '40 giờ/2 tuần trong học kỳ để vừa kiếm thêm thu nhập, vừa có thời '
+            'gian cho việc học. Trong dịp nghỉ hè, nghỉ lễ, du học sinh\xa0'
+            'được phép làm việc không giới hạn giờ. Để quá trình đi làm thêm '
+            'thuận lợi nhất, du học sinh nên mở tài khoản ngân hàng tại '
+            'Australia để chủ lao động gửi trả tiền lương. Các bạn cũng nên '
+            'đăng ký mã số thuế (TFN) từ Cục thuế Australia để đảm bảo không '
+            'bị đánh thuế ở mức cao (chủ lao động sẽ cung cấp một tờ khai TFN '
+            'hoặc du học sinh có thể lấy trực tuyến hoặc gọi số 132861). Điều '
+            'quan trọng nhất khi làm thêm là du học sinh cần ý thức được các '
+            'quyền lợi của mình. Các bạn cần được trả mức lương tương xứng cho '
+            'bất kỳ công việc nào và cần cảnh giác với chủ lao động khăng '
+            'khăng trả tiền mặt hoặc những người yêu cầu bạn làm không lương '
+            'để thử việc. Du học sinh nên nhớ, phải đọc kỹ tất cả hợp đồng lao '
+            'động trước khi ký. Nơi du học sinh có thể tìm việc làm thêm Du '
+            'học sinh nên tìm công việc thuận tiện cho bản thân, có thể là '
+            'trong khuôn viên trường hoặc gần nơi sinh sống. Các công việc làm '
+            'thêm phổ biến tại Australia gồm: - Công việc tại cửa hàng bán lẻ, '
+            'cửa hàng quần áo, đồ điện tử, chuỗi cửa hàng bách hóa. - Công '
+            'việc tại khách sạn, rạp chiếu phim, nhà hàng ăn, quán bar, cửa '
+            'hàng thực phẩm takeaway, địa điểm thể thao. - Công việc tại siêu '
+            'thị, trạm xăng, trung tâm điện thoại, doanh nghiệp yêu cầu công '
+            'tác quản trị. - Công việc liên quan đến lĩnh vực đang học. Chẳng '
+            'hạn một sinh viên truyền thông có thể làm việc bán thời gian tại '
+            'một đài truyền hình hoặc đài phát thanh địa phương. Làm thế nào '
+            'để tìm được việc làm thêm? Trước khi bắt đầu tìm kiếm và nộp đơn '
+            'xin việc, du học sinh cần có một bản lý lịch. Nhiều trường đại '
+            'học cung cấp dịch vụ nghề nghiệp, có thể hỗ trợ bạn viết và sắp '
+            'xếp một bản lý lịch chuyên nghiệp có liệt kê học vấn, kỹ năng, sở '
+            'thích và cả kinh nghiệm làm việc trước đây. Điều quan trọng là '
+            'bản lý lịch không được có lỗi và tốt nhất nên nhờ một sinh viên '
+            'bản địa kiểm tra giúp bản lý lịch trước khi bắt đầu tìm việc làm. '
+            'Một khi du học sinh đã hoàn tất khâu lý lịch thì có thể bắt tay '
+            'vào tìm việc và đây là những cách phổ biến nhất: - Bạn có thể đến '
+            'các trung tâm mua sắm địa phương và nộp lý lịch, hỏi quản lý ở đó '
+            'xem họ đang cần tuyển dụng vị trí nào. Nếu hiện không có vị trí '
+            'trống, bạn có thể để lại lý lịch để chờ những cơ hội sau. Hãy ăn '
+            'mặc thật chỉn chu để tạo ấn tượng với những người quản lý. - Hãy '
+            'lên các trang web công nghiệp, các trang web truyển dụng lao '
+            'động, bấm vào phần "career" (nghề nghiệp) để tìm vị trí đang có '
+            'nhu cầu tuyển dụng. Một số trang web sẽ cho phép bạn đăng ký trực '
+            'tuyến. - Bạn cũng thể lên các trang web tìm kiếm việc làm của '
+            'Australia để tìm công việc bán thời gian trong khu vực sinh sống. '
+            'Một số trang như: Seek, MyCareer, CareerOne và ApplyDirect. - '
+            'Ngoài ra, bạn cũng có thể tham khảo trường đại học của mình có '
+            'cung cấp dịch vụ nghề nghiệp giúp liên lạc với nhà tuyển dụng, '
+            'hoặc có mục tìm kiếm việc làm liệt kê công việc bán thời gian sẵn '
+            'có trên trang web của trường hay không. (Theo Studiesinaustralia '
+            ')',
+ 'datetime': 'Thứ năm, 29/8/2019, 05:00 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2019/08/28/du-hoc-sinh-3227-1566992477.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=NYkGOUBxCDjfn9LI_q2wAg'],
+ 'tags': ['cách tìm việc',
+          'làm thêm',
+          'du học sinh',
+          'australia',
+          'kinh nghiệm du học',
+          'du học australia'],
+ 'title': 'Cách tìm việc làm thêm cho du học sinh Australia'}

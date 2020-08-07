@@ -1,0 +1,14 @@
+{'author': 'T. An',
+ 'categories': ['Khoa học'],
+ 'content': '"Ớt cay là thứ không ngon đối với các loài thú hay phá hoại mùa '
+            'màng, vì thế chúng là một giải pháp giảm thiểu thiệt hại vừa kinh '
+            'tế vừa khả thi của người nông dân", Loki Osborn, giám đốc dự án '
+            'Elephant Pepper Development Trust cho biết. Nông dân cũng có phun '
+            'bột ớt để đuổi động vật đi xa. Ớt cay đã được sử dụng để đuổi voi '
+            'từ năm 1997, vì chúng là một giải pháp thay thế rẻ tiền cho các '
+            'hàng rào điện đắt đỏ. Ngoài ra, ớt còn mang lại thu nhập đáng kể '
+            'cho nông dân. (theo LiveScience )',
+ 'datetime': 'Thứ hai, 8/8/2005, 10:31 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Đuổi voi bằng ớt'}

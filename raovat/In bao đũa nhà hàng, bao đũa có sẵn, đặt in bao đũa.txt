@@ -1,0 +1,29 @@
+{'description': 'In bao đũa nhà hàng, địa chỉ in bao đũa, cung cấp bao đũa có '
+                'sẵn. - Nhiều kích thước cho khách lựa chọn. - In 1 màu hoặc '
+                'nhiều màu. - Thiết kế bao đũa hoàn toàn miễn phí theo yêu '
+                'cầu. - Thời gian giao hàng đúng hẹn và vận chuyển tận nơi cho '
+                'khách hàng. - Bao đũa hàng có sẵn tại VP phục vụ khách lấy '
+                'trong ngày. * Đội ngũ tư vấn hỗ trợ nhiệt tình, hệ thống ship '
+                'hàng có tâm và giao hàng đảm bảo nhanh chóng nhất. Liên hệ '
+                'đặt hàng: CÔNG TY IN BẢO AN: - Địa chỉ: Số 32 ngõ Thái Hà- '
+                'Đống Đa- Hà Nội. - Điện thoại: 024 32444 288 - Hotline: 0966 '
+                '967 467 - 0912 363 960 (Zalo/ Imess) - Skype: thuypt18 * Truy '
+                'cập để xem các mẫu: Fanpage: '
+                'https://www.facebook.com/inquyenmenunhahang/ Instagram: '
+                'https://www.instagram.com/In.an.gia.re/ * Hoặc truy cập vào '
+                'Website: inbaoan.vn',
+ 'name': 'In bao đũa nhà hàng, bao đũa có sẵn, đặt in bao đũa',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/18/99dd27b7ad81224856aca2dcca2ea476.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/18/00ecd0820501c66654b5a8225ff8ce2f.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '12-06-2016',
+            'name': 'thuypt18z6',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Huyện Đông Anh',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'In bao đũa nhà hàng',
+          ' bao đũa có sẵn',
+          ' đặt in bao đũa']}

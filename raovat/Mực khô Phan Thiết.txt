@@ -1,0 +1,26 @@
+{'description': 'Mực khô Phan Thiết làm từ mực ống, được câu và phơi xẻ trực '
+                'tiếp trên tàu, nên đảm bảo tươi ngon, hoàn toàn khô ráo khi '
+                'mà mực được phơi tới 6-8 ngày nắng. Mực khô Phan Thiết được '
+                'đánh giá là một trong những nơi có mực khô ngon nhất cả nước. '
+                'Mực khô có thể chế biến các món ăn ngon như: khô mực nướng, '
+                'khô mực rim me, khô mực ngào ớt, gỏi khô mực, cháo khô mực,… '
+                'Mực khô Phan Thiết thích hợp làm quà biếu tặng, mang đi máy '
+                'bay hay ra nước ngoài. Cách bảo quản mực khô: + Dùng báo bọc '
+                'kín mực khô, cho vào bao ni lông đóng kín bỏ vào ngăn đá tủ '
+                'lạnh hoặc là tủ đông. Điều kiện tốt nhất để -10 độ. Báo và '
+                'bao ni lông sẽ giúp mực không bị khô và không làm hôi tủ '
+                'lạnh. + Không để chung với các sản phẩm tươi sống khác. + Nên '
+                'sử dụng trong vòng 4 tháng khi mua về. + Khoảng 3 hoặc 4 tuần '
+                'bạn nên lấy chúng ra phơi nắng trong 10-15 phút Lý do bạn nên '
+                'mua mực khô câu tại Phan Thiết: + Đảm bảo 100% là mực khô '
+                'câu. + Đánh bắt trực tiếp tại Phan Thiết, vùng biển nổi tiếng '
+                'nhất với đặc sản mực khô câu.',
+ 'name': 'Mực khô Phan Thiết',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/11/b657296c21857dca2feb8f8d92a6f091.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '394/1 Nguyễn Tri Phương, P4, Q10, Thành phố Hồ Chí '
+                       'Minh',
+            'date': '13-04-2020',
+            'name': 'Hải Sản Đại Dương Xanh',
+            'phone': '0906845636'},
+ 'tags': ['Ẩm thực, du lịch', 'Ẩm thực', 'mực khô', ' mực khô Phan Thiết']}

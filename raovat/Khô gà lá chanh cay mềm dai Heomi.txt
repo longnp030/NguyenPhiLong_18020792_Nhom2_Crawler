@@ -1,0 +1,28 @@
+{'description': 'Chỉ với 75k là có ngay hũ khô gà như hình rồi nhé ƯU ĐÃI KHI '
+                'MUA 1kg=> giảm 40k 2kg => giảm 50k 3kg => giảm 60k SHIP TOÀN '
+                'QUỐC CUNG CẤP SỈ VÀ LẺ KHÔ GÀ GIÁ TỐT NHẤT THỊ TRƯỜNG '
+                '_____________________________________ Liên hệ 0934116821 để '
+                'đặt hàng Địa chỉ 525/54 huỳnh văn bánh phường 14 quận phú '
+                'nhuận Giao hàng nhanh từ 20-60p trong nội thành TP HCM #GHN '
+                '#GiaoHangNhanh #Grab #khôgà #khogangon #khogalachanh '
+                '#khogacay #khogaheomi #heomishop #khôGàLáChanh '
+                '#khô_gà_lá_chanh #comchaychabong #khoheo',
+ 'name': 'Khô gà lá chanh cay mềm dai Heomi',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/11/26f08204c7d2ee079c59dad88d7fcc26.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/11/81b3b465224e5a11d0c4c54e4e01b10c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/11/cfad85622e6484ecbb6180b861d3f176.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/11/1143cc0c847f1e918bc71ef675ed2331.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/11/57ec8d71861adc758f5dad150768fae0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/11/b5adc60ae787a84b1682446d94b274b2.jpeg'],
+ 'price': '75.000',
+ 'seller': {'address': '525/44 HUỲNH VĂN BÁNH- P14- PHÚ NHUẬN',
+            'date': '18-09-2019',
+            'name': 'KHÔ GÀ HEOMI',
+            'phone': '093 411 68 21'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Phú Nhuận',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Khô gà',
+          ' khô gà lá chanh',
+          ' khô gà lá chanh mềm']}

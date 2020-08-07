@@ -1,0 +1,30 @@
+{'description': 'Chúng tôi chuyên cung cấp các mẫu cỏ trang trí tường, cỏ '
+                'trang trí sân vườn, cỏ thảm trang trí giá rẻ tại Quảng Ninh '
+                'nói riêng và trên toàn quốc nói chung. Tấm cỏ trang trí '
+                'tường, thảm cỏ trang trí tường có kích thước nhỏ gọn '
+                '(40x60cm) rất thuận lợi cho việc vận chuyển và thi công. Thảm '
+                'cỏ trang trí tường được sản xuất bằng chất liệu PVC rất bền '
+                'và dẻo, có độ bền lên đến 10 năm. Mẫu mã đa dạng, màu sắc '
+                'xanh tươi giống cỏ thật đến 99%, dùng để trang trí các không '
+                'gian như nhà hàng, quán ăn, spa, văn phòng, biển quảng cáo, '
+                'ban công... Hãy nhanh tay liên hệ với chúng tôi để nhân viên '
+                'chăm sóc khách hàng sẽ tư vấn cho các bạn chi tiết hơn về sản '
+                'phẩm nhé',
+ 'name': 'Cỏ trang trí tường, cỏ trang trí sân vườn giá rẻ tại Quảng Ninh',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/06/4e35068c9a236d9349a865372f225d89.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/06/c95dc5dc94d3588db83aa3d09af82ce7.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/06/a216b0c094570f67cfdd8b5745c61f29.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/06/45dc3034ba4a4c093c601b981154c1ac.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/06/89dbd3e2e509d519b74d03571a309b15.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/06/0c801888a1fe231208de73657f77066a.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'số 58 ngõ 111, cầu cốc, tây mỗ, nam từ liêm, hà nội',
+            'date': '21-06-2017',
+            'name': 'nguyễn văn thắng',
+            'phone': '0978893974'},
+ 'tags': ['Quảng Ninh',
+          'Khác',
+          'Cây cảnh',
+          'cỏ trang trí giá rẻ',
+          ' cotrangtrigiare',
+          ' cỏ trang trí giá rẻ tại quảng ninh']}

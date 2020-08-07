@@ -1,0 +1,29 @@
+{'description': 'THÔNG TIN SẢN PHẨM Model : JZ Điện áp : 220/50HZ Công suất : '
+                '1.1kw Trọng lượng : 50 kg Sản lượng : 120kg/h Kích thước : '
+                '500x465x480mm Máy thái thịt sống JZ SẢN PHẨM CÙNG LOẠIXEM '
+                'DẠNG LIST Máy thái thịt đông lạnh, thịt chín bằng tay '
+                'Yamafuji HD150 Máy thái thịt đông lạnh, thịt chín bằng tay '
+                'Yamafuji HD150 850,000 VNĐ Bảo hành : 6 tháng Máy thái thịt '
+                'đông lạnh, thịt chín bằng tay Yamafuji HD-160 Máy thái thịt '
+                'đông lạnh, thịt chín bằng tay Yamafuji HD-160 1,250,000 VNĐ '
+                'Bảo hành : 12 tháng Máy thái bì lợn quay tay BL01 Máy thái bì '
+                'lợn quay tay BL01 1,550,000 VNĐ Bảo hành : 6 tháng Máy thái '
+                'thịt tươi sống SS-70 Máy thái thịt tươi sống SS-70 2,450,000 '
+                'VNĐ Bảo hành : 12 tháng Máy thái thịt tươi sống YJ-70 Máy '
+                'thái thịt tươi sống YJ-70 2,450,000 VNĐ Bảo hành : 12 tháng '
+                'Máy thái thịt Yamafuji RS-70D Máy thái thịt Yamafuji RS-70D '
+                '2,550,000 VNĐ Bảo hành : 6 tháng Máy thái thịt tươi sống thịt '
+                'tái Yamafuji HD80 Máy thái thịt tươi sống thịt tái Yamafuji '
+                'HD80 2,650,000 VNĐ Bảo hành : 12',
+ 'name': 'Máy thái thịt sống JZ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/07/58a4f41c55d9b5d74046dd3131968285.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'hoanganhokasu@gmail.com',
+            'date': '04-05-2020',
+            'name': 'hoanganhokasu',
+            'phone': '0939.219.368'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 7',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'máy thái thịt sống']}

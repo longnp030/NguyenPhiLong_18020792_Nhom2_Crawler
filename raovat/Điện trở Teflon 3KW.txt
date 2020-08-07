@@ -1,0 +1,20 @@
+{'description': 'Điện trở Teflon 3KW Điện trở Teflon Thông số kỹ thuật Thân '
+                'điện trở: Đồng nguyên chất Vỏ điện trở: Teflon Điện áp: 380V '
+                'Công suất: 3kW Điện trở Teflon có đặc điểm Cách điện tốt Chịu '
+                'mài mòn cao Chịu được môi trường axit đặc Quý khách có nhu '
+                'cầu mua hàng, hay muốn biết thêm chi tiết sản phẩm, vui lòng '
+                'liên hệ với chúng tôi: Công ty TNHH TM Hoàng Kim Địa chỉ: Số '
+                '42 ngõ 924 Nguyễn Khoái, P. Thanh Trì, Hoàng Mai, Hà Nội '
+                'Mobile: 0919575909 / 0967902850 ; 0979599533 / 0912086984 '
+                'Email: giaho.ceo@gmail.com http://maynganhnhua.vn '
+                'https://maynganhnhua.com.vn',
+ 'name': 'Điện trở Teflon 3KW',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/23/2267275b41b91bd1a5cd0178c9f750ca.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/f2aa8a0eb2008d1b6c1d4d58f91be968.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 42 ngõ 924 Nguyễn Khoái, P. Thanh Trì, Hoàng Mai, '
+                       'Hà Nội',
+            'date': '27-04-2020',
+            'name': 'hoangkimhn01@gmail.com',
+            'phone': '0912086984'},
+ 'tags': ['Hà Nội', 'Dịch vụ', 'Tìm đối tác']}

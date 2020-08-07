@@ -1,0 +1,25 @@
+{'description': 'THÀNH PHẦN: -\tNano bạc 500mg/lít -\tTrisodium citrate 35% -\t'
+                'Chất chống lắng, nước cất vừa đủ CÔNG DỤNG: -\tPhòng bệnh tôm '
+                'chết sớm (EMS) -\tPhòng và điều trị bệnh tôm phát sáng, bệnh '
+                'phân trắng, bệnh ký sinh trùng trên tôm: ăn mòn phụ bộ do vi '
+                'khuẩn, nấm gây ra. -\tƯu điểm: không gây sốc cho tôm, không '
+                'gây biến động các yếu tố môi trường pH, kH, và không gây '
+                'kháng thuốc, trộn được vào thức ăn cho tôm LIỀU DÙNG: \uf076\t'
+                'Phòng bệnh: -\tXử lý nước đầu vào: 600ml pha 120 lít nước cho '
+                '1000m3 ao nuôi -\tDiệt khuẩn định kỳ: 500ml pha 100 lít nước '
+                'cho 1000m3 nước ao nuôi -\tNgâm tắm: 25.000-30.000 con giống '
+                'trước khi nuôi trong 50ml nano bạc và 50 lít nước 10 đến 20 '
+                'phút. \uf076\tTrị bệnh: -\tDiệt khuẩn ao nuôi: 1-1.5 lít nano '
+                'bạc với 100 lít nước tạt đều cho 1000m3 nước ao nuôi -\tHòa '
+                '100ml nano bạc và 2 lít nước sạch trộn đều cho 10kg thức ăn, '
+                'để khô và dùng sản phẩm áo bọc thức ăn sau 30 phút cho tôm '
+                'ăn, định kì ngày 1 lần, liên tục 5-7 ngày.',
+ 'name': 'Nano bạc diệt khuẩn',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/08/19/26ce347b58663666160f5eedf57e94d5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/19/4c7087090e6d20e2ed9cf61a87e8b934.jpeg'],
+ 'price': '200.000',
+ 'seller': {'address': 'ngan.navico@gmail.com',
+            'date': '17-08-2019',
+            'name': 'Nguyễn Thị Thúy Ngân',
+            'phone': '0946055533'},
+ 'tags': ['Khác', 'Thú nuôi', 'diệt khuẩn', ' phòng trị bệnh trên tôm', ' cá']}

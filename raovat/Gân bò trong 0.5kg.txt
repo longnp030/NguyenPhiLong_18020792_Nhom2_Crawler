@@ -1,0 +1,16 @@
+{'description': 'Màu ngà trong có 1 ít đỏ Mùi bò đặc trưng Trạng thái tươi '
+                'Giao hàng tận nơi các khu vực: Hóc Môn, Quận 12, Tân Bình, Gò '
+                'Vấp Có ship COD Link mua sắm các sản phẩm khác: batvang.vn/',
+ 'name': 'Gân bò trong 0.5kg',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/14/d26eb98d6bfe74d61f5f586414ef5ccb.jpeg'],
+ 'price': '74.500',
+ 'seller': {'address': '79A Nguyễn Thị Đành, Hóc Môn',
+            'date': '13-05-2020',
+            'name': 'yenlinh1121987',
+            'phone': '0909581762'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'gân bò',
+          ' ganbo',
+          ' gan bo']}

@@ -1,0 +1,14 @@
+{'author': 'Tú Đạt',
+ 'categories': ['Thế giới'],
+ 'content': 'Các quan chức địa phương nhận định đây có thể là một vụ đánh bom. '
+            'Vài ngôi nhà xung quanh hiện trường bị hư hỏng nặng. Elie là chỉ '
+            'huy của lực lượng du kích Công giáo Libăng thân Israel. Ông này '
+            'có liên quan đến vụ thảm sát dân Palestine tại trại tị nạn Sabra '
+            'và Shatila ở Libăng, năm 1982. Ngày 5/7/2001, trong một buổi họp '
+            'báo, ông Elie đã tuyên bố sẽ tiết lộ vai trò của Thủ tướng Israel '
+            'Ariel Sharon trong vụ giết chóc tại hai trại tị nạn trên. (theo '
+            'Reuters )',
+ 'datetime': 'Thứ năm, 24/1/2002, 16:18 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Cựu bộ trưởng Libăng chết trong một vụ nổ'}

@@ -1,0 +1,22 @@
+{'description': 'Trại Gà Tây giống Thanh Bình LH: 0909.779.666 - 0938.063.063 '
+                'www.facebook.com/gataygilLtYE9uTpzo. — tại Thị Xã Gò Công - '
+                'Tiền Giang.',
+ 'name': 'Trại gà tây Thanh Bình cung cấp gà tây giống và gà tây thịt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/02/02/42eb11933468b7077b249905d28b35a1.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/02/539448d9c3598837da87152798d669e6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/02/a2979d242ba7131721ef634e7754fb17.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/02/ecf1ee2a9d9f47c9efbd6bc247727bea.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/02/68884c47e2adf7a06961075eb39212bc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/02/4e64f9db0e3a1f9822120e373e540d0c.jpeg'],
+ 'price': '50.000',
+ 'seller': {'address': '',
+            'date': '14-08-2016',
+            'name': 'Trần Thanh Bình',
+            'phone': '0909779666'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 8',
+          'Khác',
+          'Thú nuôi',
+          'Bán gà tây',
+          'gà tây giống',
+          'gà tây']}

@@ -1,0 +1,14 @@
+{'author': 'Nguồn video',
+ 'categories': ['Xe'],
+ 'content': 'Một độc giả của tờ Bild đã chụp được những bức ảnh vụ tai nạn. '
+            'Theo mô tả, tàu chở lô xe Porsche bị một chiếc tàu khác đâm từ '
+            'phía sau, vào lúc nửa đêm (giờ địa phương) ngày 5/11. Khoang chở '
+            'hàng bị dồn và nhiều Porsche rơi cả ra ngoài. Theo ước tính, tổng '
+            'giá trị vào khoảng 1 triệu euro. Người lái tàu chỉ bị thương nhẹ. '
+            'Nguyên nhân tai nạn vẫn chưa được làm rõ. 150 cảnh sát và cứu hộ '
+            'đã tới hiện trường. Nguyễn Nghĩa (theo Bild ) Ảnh : Bild : '
+            'Hr-online',
+ 'datetime': 'Thứ năm, 6/11/2008, 09:49 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': '18 chiếc Porsche bị hỏng trong một vụ tai nạn'}

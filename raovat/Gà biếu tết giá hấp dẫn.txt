@@ -1,0 +1,23 @@
+{'description': 'Nhà mình có nuôi được đàn gà chân to hơn 9 tháng tuổi nặng '
+                '>3kg 1e muốn bán cho mn về làm quà biếu tết hoặc làm giống '
+                'cũng đk giá từ 230k/1kg thịt. số lượng có hạn mn nhanh tay '
+                'đặt mua nhé địa chỉ tại xã văn đức giâ lâm hn mua bán tại nhà '
+                'nhé gà mifh k ship thanks.',
+ 'name': 'Gà biếu tết giá hấp dẫn',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/01/16/c67fe2c430a5d4d5aa2a5594b363e555.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/01/16/e91a6620fb0b80bbd7a28ab189f20df8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/01/16/e71092ee5dc01e1484d85b1ca536ad64.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/01/16/e9b13e6bcef898cd622adf5220b62b05.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/01/16/bbd998c8f1c193b0d9248eb98b4f4e0c.jpeg'],
+ 'price': '230.000',
+ 'seller': {'address': 'văn đức gia lâm hà nội',
+            'date': '26-10-2019',
+            'name': 'matterblack01',
+            'phone': '0961201115'},
+ 'tags': ['Hà Nội',
+          'Huyện Gia Lâm',
+          'Khác',
+          'Thú nuôi',
+          'gà ',
+          ' gà biếu tết ',
+          ' gà chân to ']}

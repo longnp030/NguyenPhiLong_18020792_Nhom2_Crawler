@@ -1,0 +1,57 @@
+{'author': 'Mạnh Tùng',
+ 'categories': ['Giáo dục', 'Tuyển sinh', 'Đại học'],
+ 'content': 'Đại học Y dược TP HCM vừa thông báo dự kiến việc xét tuyển đại '
+            'học hệ chính quy năm nay. Điều kiện dự xét tuyển là học sinh tốt '
+            'nghiệp THPT, có tham dự kỳ thi THPT quốc gia năm 2019 với tổng '
+            'điểm 3 môn Toán, Hóa, Sinh đạt ngưỡng đảm bảo chất lượng đầu vào '
+            'của trường cho từng phương thức. Năm nay, trường tuyển sinh theo '
+            '3 phương thức độc lập nhau. Thí sinh có thể đăng ký tất cả các '
+            'phương thức nhưng nếu trúng tuyển và nộp hồ sơ xác nhận trúng '
+            'tuyển sẽ không được tham gia xét tuyển bởi các phương thức khác. '
+            'Một - trường xét tuyển thẳng tối đa 5% chỉ tiêu từng ngành theo '
+            'quy chế của Bộ Giáo dục và Đào tạo. Hai - trường xét tuyển kết '
+            'hợp áp dụng riêng đối với ngành Y khoa và Dược học với chỉ tiêu '
+            '25% ở từng ngành. Điều kiện nộp hồ sơ đăng ký xét tuyển là đảm '
+            'bảo ngưỡng chất lượng đầu vào và có chứng chỉ tiếng Anh quốc tế '
+            'trong thời hạn (tính đến ngày nộp hồ sơ xét tuyển) đạt IELTS 6.0 '
+            'trở lên, hoặc TOEFL iBT 6.0 trở lên. Đơn vị cấp chứng chỉ gồm: '
+            'TOEFL iBT: Educational Testing Service (ETS); IELTS: British '
+            'Council (BC); International Development Program (IDP) Thí sinh '
+            'hội đủ điều kiện đăng ký xét tuyển theo phương thức xét tuyển kết '
+            'hợp chỉ được chọn một nguyện vọng, Y khoa hay Dược học, để đăng '
+            'ký. Trường xác định trúng tuyển căn cứ trên nguyện vọng đăng ký '
+            'của thí sinh và các tiêu chí đánh giá hồ sơ xét tuyển bao gồm '
+            'tổng điểm 4 môn và ưu tiên theo khu vực, đối tượng (nếu có) được '
+            'làm tròn đến hai chữ số thập phân. Điểm xét tuyển phương thức kết '
+            'hợp = Tổng điểm 3 môn thi Toán, Hóa, Sinh\xa0 + các điểm ưu tiên '
+            '+ Điểm quy đổi chứng chỉ tiếng Anh quốc tế quy theo thang điểm '
+            '10. Trường hợp số lượng thí sinh có cùng điểm chuẩn để được tuyển '
+            'vượt quá số lượng thí sinh dự kiến nhập học theo chỉ tiêu dự định '
+            'tuyển, trường sẽ chọn thí sinh có điểm môn Sinh (đối với ngành Y '
+            'khoa) hay Hóa (đối với ngành Dược học) cao hơn. Ba - trường xét '
+            'tuyển dựa trên kết quả kỳ thi THPT quốc gia năm 2019. Thí sinh '
+            'nộp hồ sơ nếu đảm bảo ngưỡng chất lượng đầu vào. Đại học Y dược '
+            'TP HCM không sử dụng điểm thi được bảo lưu theo quy định tại quy '
+            'chế thi THPT quốc gia và xét công nhận tốt nghiệp THPT để tuyển '
+            'sinh. Chỉ tiêu được xác định của từng ngành, sau khi trừ số thí '
+            'sinh được tuyển thẳng (bao gồm số thí sinh được xét tuyển thẳng '
+            'và số học sinh các trường dự bị đại học được giao về trường), số '
+            'sinh viên đã trúng tuyển phương thức xét tuyển kết hợp. Điểm xét '
+            'tuyển là tổng điểm thi tốt nghiệp THPT quốc gia 3 môn Toán, Sinh, '
+            'Hóa theo thang điểm 10 cộng với điểm ưu tiên đối tượng, khu vực '
+            'theo quy định và được làm tròn đến hai chữ số thập phân. Trong '
+            'trường hợp số lượng thí sinh đạt điểm trúng tuyển vượt quá số '
+            'lượng dự kiến thí sinh nhập học theo chỉ tiêu, trường áp dụng ưu '
+            'tiên thí sinh có nguyện vọng cao hơn. Năm ngoái, Đại học Y dược '
+            'TP HCM có 2.050 chỉ tiêu đại học chính quy. Điểm chuẩn đợt 1 của '
+            'trường hầu hết giảm mạnh so với năm 2017, cao nhất là Y khoa '
+            '24,95; thấp nhất là Y tế công cộng, Y học dự phòng, Điều dưỡng '
+            'chuyên ngành hộ sinh 18-19 điểm.',
+ 'datetime': 'Thứ tư, 9/1/2019, 11:44 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2019/01/09/y-duoc-tp-hcm-8773-1547008058.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=xIg53uedOND6WkfGZNWfTw',
+                  'https://i1-vnexpress.vnecdn.net/2019/01/09/bang-quy-doi-4173-1547008058.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=rBimx1IEdQTDgjrWh_yCLw'],
+ 'tags': ['đại học y dược tp hcm',
+          'phương thức xét tuyển',
+          'chỉ tiêu đại học',
+          'ngành y đa khoa'],
+ 'title': 'Đại học Y Dược TP HCM dự kiến 3 phương án tuyển sinh'}

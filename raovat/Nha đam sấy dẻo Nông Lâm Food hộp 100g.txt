@@ -1,0 +1,27 @@
+{'description': 'Giàu chất kháng oxi hóa tốt cho da, giảm nám da, nhăn da Giữ '
+                'nước giúp giảm táo bón, nhuận trường (không ăn quá nhiều) Làm '
+                'dịu thành ruột Loại sản phẩm Nha đam sấy dẻo Dạng sấy Sấy dẻo '
+                '- sử dụng nhiệt độ cao (50 - 70 độ C) để làm mất đi một phần '
+                'hơi nước của sản phẩm rồi đem đi làm mát Đặc tính Dẻo, mềm, '
+                'hơi dai Năng lượng 339kcal/100g Khối lượng 100g Thành phần '
+                'Nha đam (94.2%), đường kính trắng, glucose, chất điều chỉnh '
+                'độ acid (E330), chất bảo quản (E202) Bảo quản Dùng ăn liền. '
+                'Sau khi mở bao bì nên sử dụng hết trong vòng 10 ngày Thương '
+                'hiệu Nong Lam Food (Việt Nam) Nơi sản xuất Việt Nam',
+ 'name': 'Nha đam sấy dẻo Nông Lâm Food hộp 100g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/13/dfbcc8dbfe89630162ba99eef8d2608c.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/187c8f6540147e6c73dba0e89c6e97dd.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/d99d81f34ea850ae71c669af85496e5d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/2be2da3147be5e31ad616df6c9c9d0cc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/ac5e12c0f716541a18d2146601986d23.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/05f1c1e49ae69a61f6bf43059d42ae82.jpeg'],
+ 'price': '69.000',
+ 'seller': {'address': 'nonglamstorecom@gmail.com',
+            'date': '13-05-2020',
+            'name': 'Nông Lâm Store',
+            'phone': '0902 883 335'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Nha Đam Sấy Dẻo',
+          ' Nha đam sấy khô',
+          ' Xoài sấy dẻo NLF']}

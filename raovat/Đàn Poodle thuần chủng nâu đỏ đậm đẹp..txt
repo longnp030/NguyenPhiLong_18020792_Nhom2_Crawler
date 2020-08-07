@@ -1,0 +1,19 @@
+{'description': 'Xuât chuồng bầy Poodle nâu đỏ đậm. Poodle là giống chó khôn '
+                'hôi, không rụng lông rất thich hợp nuôi trong căn hộ thành '
+                'phố. Đây cũng là giống chó thông minh quấn chủ, đáng yêu. '
+                'Liên hệ để sở hữu cho mình bé Pet đáng yêu nhé',
+ 'name': 'Đàn Poodle thuần chủng nâu đỏ đậm đẹp.',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/01/28/f09e61e90b6eb90f3c36060c2aa4d126.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/01/28/ad4ded0b14434b3ee311bfa0eaac2d97.jpeg'],
+ 'price': '4.000.000',
+ 'seller': {'address': '',
+            'date': '28-01-2020',
+            'name': 'tranducgsd',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Quận Đống Đa',
+          'Khác',
+          'Thú nuôi',
+          'poodle',
+          ' nâu đỏ',
+          ' đâm']}

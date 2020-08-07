@@ -1,0 +1,27 @@
+{'description': 'MAP PERMETHRIN 50EC (100ml) – (Hàng của ANH QUỐC) thuốc diệt '
+                'muỗi, diệt dán, diệt ruồi, diệt bọ chét, diệt ve rận, diệt bọ '
+                'xít, diệt kiến ba khoang… Xuất sứ: Mappacific – Anh Quốc Công '
+                'dụng: Map Permethrin 50EC – Thuốc diệt muỗi Anh Quốc là sản '
+                'phẩm phòng chống muỗi truyền bệnh sốt rét, sốt xuất huyết, '
+                'viên não nhật bản … và trừ các loại côn trùng quấy nhiễu như: '
+                'Ruồi, kiến, gián, bọ chét, ve rận, mạt gà, bọ xít, bọ nhẩy '
+                'chó mèo…. và không ảnh hưởng sức khỏe người sử dụng, vật nuôi '
+                'cũng như môi trường. Cách pha: Pha 100ml dung dịch Map '
+                'Permethrin 50EC với 5 lít nước sạch, mỗi lít dung dịch đã pha '
+                'loãng phun cho 40m2 diện tích mặt sàn hoặc tường vách công '
+                'trình. Map Permethrin 50EC chính hãng được phân phối độc '
+                'quyền tại Pest3s.com',
+ 'name': 'Thuốc diệt muỗi tận gốc Map - Permethrin 50EC (Anh Quốc )',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/08/06/9aaa3bdf58bbb9439dc2cb1e909d4ad0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/06/6b1e5f4c7e86f66bde5cf2862fadbb52.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/08/06/bd463e160c2de99c65d7f6e81a4f9b49.jpeg'],
+ 'price': '80.000',
+ 'seller': {'address': '',
+            'date': '06-08-2019',
+            'name': 'pest3svn',
+            'phone': None},
+ 'tags': ['Khác',
+          'Thú nuôi',
+          'Thuốc diệt muỗi tận gốc',
+          ' Thuốc diệt muỗi Anh Quốc',
+          ' Thuốc muỗi nhập khẩu']}

@@ -1,0 +1,31 @@
+{'description': 'Nguyên liệu: Nhập khẩu USA Giàu vitamin C: tăng đề kháng Giàu '
+                'chất xơ: Giảm hấp thu mỡ và cholesterol, bảo vệ thành ruột, '
+                'nhuận trường, cải thiện sức khỏe ruột già Giàu các hợp chất '
+                'kháng oxi hóa nói chung Pectin: giảm cholesterol Công dụng '
+                'mật ong: tăng đề kháng, giảm sưng viêm, giải cảm ho, kháng '
+                'oxi hóa, vi chất dinh dưỡng “Mỗi ngày một quả táo sẽ tránh xa '
+                'được bác sỹ Loại sản phẩm Táo mật ong sấy dẻo Dạng sấy Sấy '
+                'dẻo - sử dụng nhiệt độ cao (50 - 70 độ C) để làm mất đi một '
+                'phần hơi nước của sản phẩm rồi đem đi làm mát Đặc tính Dẻo, '
+                'mềm, hơi dai Năng lượng 326kcal/100g Khối lượng 100g Thành '
+                'phần Táo (90.5%), mật ong (7%), đường kính trắng, chất điều '
+                'chỉnh độ acid E330 Bảo quản Dùng ăn liền. Sau khi mở bao bì '
+                'nên sử dụng hết trong vòng 10 ngày Thương hiệu Nong Lam Food '
+                '(Việt Nam) Nơi sản xuất Việt Nam',
+ 'name': 'Táo mật ong sấy dẻo Nong Lam Food hộp 100g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/13/caf9df1d0537e242c49b37ea5f790d78.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/908de3a70488c0ba39cc07acf9052971.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/94a8dca30289a4de48dab961ee6ffa8e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/3ca10b884e1a299a0b5d387c0e3ecbea.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/3c7e165317c0823fe7288270ed0c4b81.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/d593e3128334f900b6ee8817ce9b7cae.jpeg'],
+ 'price': '68.000',
+ 'seller': {'address': 'nonglamstorecom@gmail.com',
+            'date': '13-05-2020',
+            'name': 'Nông Lâm Store',
+            'phone': '0902 883 335'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Táo sấy',
+          ' Cách làm táo sấy dẻo',
+          ' Cách làm táo sấy ngon']}

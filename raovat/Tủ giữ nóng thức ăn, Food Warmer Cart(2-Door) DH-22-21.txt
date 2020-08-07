@@ -1,0 +1,21 @@
+{'description': 'Tủ giữ nóng thức ăn, Food Warmer Cart(2-Door) DH-22-21 Bán '
+                'buôn đồ dùng khách sạn, nhà hàng, văn phòng, đồ dùng gia '
+                'đình, thiết bị bếp công nghiệp, thiết bị nhà bếp, vệ sinh '
+                'công nghiệp, chăn, ga gối đệm, đồ gia dụng nhập khẩu. '
+                'FURNOTEL VIETNAM INTERNATIONAL HOTEL EQUIPMENT SUPPLY Địa '
+                'chỉ: 161 Trần Hưng Đạo, Điện Ngọc, Điện Bàn, Tỉnh Quảng Nam '
+                'Hotline: Mr Thạch: 0989 444 988 http://thietbikhachsan.biz '
+                'Email : funotelvietnam@gmail.com',
+ 'name': 'Tủ giữ nóng thức ăn, Food Warmer Cart(2-Door) DH-22-21',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/23/a0ff73c596038f3487730e5d55d7226a.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'funotelvietnam@gmail.com',
+            'date': '30-06-2016',
+            'name': 'funotelvietnam',
+            'phone': '0989444988'},
+ 'tags': ['Đà Nẵng',
+          'Quận Thanh Khê',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'tủ giữ nóng thức ăn',
+          ' Food Warmer Cart(2-Door) DH-22-21']}

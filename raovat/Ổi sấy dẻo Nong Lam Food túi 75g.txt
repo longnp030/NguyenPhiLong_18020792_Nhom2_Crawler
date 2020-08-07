@@ -1,0 +1,28 @@
+{'description': 'Thuộc trái cây đứng đầu về Vitamin C: tăng đề kháng cơ thể '
+                'Giàu chất xơ: Giảm hấp thu mỡ và cholesterol, bảo vệ thành '
+                'ruột, nhuận trường, cải thiện sức khỏe ruột già Thơm ngon (tự '
+                'nhiên, đặc trưng) Loại sản phẩm Ổi sấy dẻo Dạng sấy Sấy dẻo - '
+                'sử dụng nhiệt độ cao (50 - 70 độ C) để làm mất đi một phần '
+                'hơi nước của sản phẩm rồi đem đi làm mát Đặc tính Dẻo, mềm, '
+                'hơi dai Năng lượng 296 - 362kcal/100g Khối lượng 75g Thành '
+                'phần Ổi (92.9%), đường kính trắng, chất điều chỉnh độ acid '
+                '(E330) Bảo quản Dùng ăn liền. Sau khi mở bao bì nên sử dụng '
+                'hết trong vòng 10 ngày Thương hiệu Nong Lam Food (Việt Nam) '
+                'Nơi sản xuất Việt Nam',
+ 'name': 'Ổi sấy dẻo Nong Lam Food túi 75g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/13/237c9ae4c209f89ae9b78a8de491dbdb.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/b66dcf6c7ee4d88cf7f8c7254189b838.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/d3bfe51cfd61e59f3ef0cbc5911818f0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/d08eb9ff8e6513f35cbd90ecef388d2d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/e15ade0a2dbc031421180bec2a8c3f57.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/2ec7b96e5a6d3414ad841bdfedf61b5a.jpeg'],
+ 'price': '29.000',
+ 'seller': {'address': 'nonglamstorecom@gmail.com',
+            'date': '13-05-2020',
+            'name': 'Nông Lâm Store',
+            'phone': '0902 883 335'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Ổi Sấy Dẻo',
+          ' Cách làm ổi sấy dẻo',
+          ' Cách làm ổi sấy khô']}

@@ -1,0 +1,29 @@
+{'description': 'Hộp Trà Ô Long Tứ Long - 400gram Đơn giá: 550.000đ Mô tả: Bộ '
+                'Trà Ô Long Tứ Long được sản xuất trên nguyên liệu búp trà ô '
+                'long tứ quý thơm ngon đệ nhất của vùng trà ô long Bảo Lộc - '
+                'Lâm Đồng, tiếp đó những búp trà ô long được sao chế công phu '
+                'theo quy trình sản xuất của Tân Cương Xanh Hộp của Bộ Trà Ô '
+                'Long Tứ Long được thiết kế trên chất liệu giấy thủ công phủ '
+                'trên nền của chất liệu carton lạnh vô cùng chắc chắn, đi kèm '
+                'ngoài là 1 túi giấy nguyên bộ , trong hộp lớn là 4 hộp nhỏ, '
+                'mỗi hộp nhỏ sẽ chứa 10 gói 10gram trà ô long tứ quý ngon nhất '
+                'Sản phẩm phù hợp để biếu đối tác hoặc khách hàng cao cấp. Tân '
+                'Cương Xanh cam kết các sản phẩm đảm bảo an toàn, chất lượng '
+                'cao Hotline Tân Cương Xanh Hotline Hà Nội : 0243 839 8447 - '
+                '0983 412 602 Hotline Đà Nẵng : 02363 863 866 - 0836 968 368 '
+                'Hotline TP Hồ Chí Minh : 02838 111 866 - 0919 998 202 Hotline '
+                'Thái Nguyên : 0208 370 8998 Website : '
+                'https://tancuongxanh.vn/',
+ 'name': 'Trà ô long Tứ Long, Tân Cương Xanh',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/26/19a05a3ddde996ab0bc5808ccc211031.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/26/551e0f4ba7bbdd07726bb6e1e321984a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/26/5d0f7b53d8f813d2ef463a8d91ea9309.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/26/5d5dc900811c4865854f6ec5d10ea535.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/26/3c1d837021700bd1260bc7e2e908431f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/26/8610a92fd31d68ef71f0b1d166d95182.jpeg'],
+ 'price': '550.000',
+ 'seller': {'address': 'Số 2 Ngõ 31/26 Trần Quốc Hoàn , Cầu Giấy, Hà Nội.',
+            'date': '10-03-2020',
+            'name': 'Như Quỳnh',
+            'phone': '0333916204'},
+ 'tags': ['Ẩm thực, du lịch', 'Ẩm thực', 'trà ô long']}

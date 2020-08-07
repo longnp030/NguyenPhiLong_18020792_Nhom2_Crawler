@@ -1,0 +1,14 @@
+{'author': 'Anh Minh',
+ 'categories': ['Thế giới', 'Cuộc sống đó đây'],
+ 'content': '"Chiếc xe đắt tiền đã bị đốt cháy tại một bãi đỗ xe không người '
+            'trông, thuộc một trung tâm dịch vụ khách hàng ở Osenny '
+            'Boulevard", Ria Novosti dẫn lời phát ngôn viên cảnh sát cho biết. '
+            '"Lính cứu hỏa đã phát hiện ra một bình xăng gần chiếc xe, có thể '
+            'đã được sử dụng để phóng hỏa". Phát ngôn viên này cũng cho hay '
+            'chủ nhân của chiếc xe cho biết nó trị giá 6 triệu USD. Chiếc '
+            'Maybach không thể khôi phục được nữa. Cuộc điều tra đang được '
+            'tiến hành.',
+ 'datetime': 'Thứ tư, 23/2/2011, 10:42 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Siêu xe bị đốt tại Matxcơva'}

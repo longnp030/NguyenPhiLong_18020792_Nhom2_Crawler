@@ -1,0 +1,54 @@
+{'author': 'Nguyên Khoa',
+ 'categories': ['Xe', 'Thị trường'],
+ 'content': 'Kết thúc nửa đầu 2019, doanh số 10 xe bán chạy nhất toàn cầu theo '
+            'thống kê của Focus2move gồm: Trong bảng xếp hạng trên, ngoài ba '
+            'cái tên Ford F-series, Toyota RAV4, Ram Pick-up không được phân '
+            'phối chính hãng ở Việt Nam thì 7 mẫu xe còn lại đều xuất hiện. '
+            'Trong số đó, chỉ Honda CR-V đang có kết quả kinh doanh tốt khi '
+            'thường xuyên trong top 10 xe bán chạy , đứng đầu phân khúc. Những '
+            'mẫu xe khác đều có kết quả không tốt. Toyota Corolla (Altis), '
+            'Camry Tại Việt Nam và các nước Đông Nam Á, Corolla có tên Altis, '
+            'được phân phối nhiều năm nay. Altis vốn là một thế lực lớn, khi '
+            'thường xuyên bán chạy nhất thị trường Việt. Nhưng đó là câu '
+            'chuyện của năm 2013 trở về trước. Bắt đầu thế hệ mới năm 2014, '
+            'thiết kế đổi trẻ hóa khiến Altis mất dần vị thế vào tay các đối '
+            'thủ như Mazda3, Kia Cerato hay Hyundai Elantra. Kết thúc 7 tháng '
+            '2019, Altis bán được 423 xe, trong khi Mazda3 là 1.007 xe, Kia '
+            'Cerato là 716 xe, Hyundai Elantra 642 xe. Camry không để các đối '
+            'thủ qua mặt dễ dàng như Altis nhưng sự suy giảm chung của phân '
+            'khúc sedan cỡ D cũng khiến mẫu xe của Toyota mất hút trên bảng '
+            'doanh số xe bán chạy hàng tháng. Hết 7 tháng, hãng bán được 2.750 '
+            'chiếc Camry, mỗi tháng khoảng 393 xe. Hầu hết các mẫu xe trong '
+            'phân khúc như Mazda6, Kia Optima, Honda Accord, doanh số cũng chỉ '
+            'ở mức "làng nhàng". Mức giá của sedan cỡ D tương đương crossover '
+            'cỡ C vốn đang trở thành trào lưu trên toàn thế giới. Honda Civic '
+            'Sau thất bại nặng nề ở thế hệ 9, sang thế hệ thứ 10, Honda đã cải '
+            'tiến triệt để Civic từ thiết kế tới động cơ, công nghệ, giúp '
+            'Civic lấy lại vị thế trước đây. Trên toàn cầu, Civic đứng ở vị '
+            'trí thứ tư với hơn 400.000 xe sau nửa năm 2019. Tuy vậy, tại Việt '
+            'Nam, Civic tháng 7 bán 432 xe, chỉ nhỉnh hơn Altis, vẫn thua xa '
+            'các thế lực là Elantra, Cerato và đặc biệt Mazda3. Civic nhập '
+            'khẩu từ Thái Lan với giá cao bậc nhất phân khúc cùng thiết kế quá '
+            'trẻ và thể thao là hai nguyên nhân chính khiến mẫu xe này không '
+            'được lòng số đông như các đối thủ. Volkswagen Tiguan, Polo, Golf '
+            'Volkswagen hiện phân phối chính hãng Tiguan Allspace và Polo tại '
+            'Việt Nam, trong quá khứ từng bán cả Golf nhưng hiện đã dừng. '
+            'Thương hiệu xe Đức vốn là lựa chọn phổ thông, dành cho số đông ở '
+            'Âu, Mỹ và nước châu Á như Trung Quốc. Tuy vậy, tại Việt Nam, cách '
+            'định vị sản phẩm cao hơn xe Nhật, tiệm cận xe sang cùng mức giá '
+            'cao khiến các sản phẩm của Volkswagen bán túc tắc chứ không bùng '
+            'nổ về doanh số. Nissan X-Trail X-Trail được ưa chuộng vì nhiều '
+            'công nghệ, vận hành dễ chịu, thiết kế khá trung tính, không quá '
+            'già, không quá trẻ. Tuy vậy, tại Việt Nam, mẫu xe này luôn đứng '
+            'gần cuối bảng dù lắp ráp trong nước, mức giá cạnh tranh với các '
+            'đối thủ. Người Việt thích xu hướng mượt mà hơn là công năng.\xa0'
+            'Trong bảng doanh số toàn cầu sau nửa đầu 2019, X-Trail không nằm '
+            'trong top 10 (vị trí thứ 26). Nhưng tại Mỹ, xe ở vị trí thứ 7.',
+ 'datetime': 'Thứ ba, 13/8/2019, 07:19 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2019/08/12/Toyota-Altis-2017-500px-5166-1-4029-9592-1565601615.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=Rw26mnAkJT7OD9uYJ98LWQ',
+                  'https://i1-vnexpress.vnecdn.net/2019/08/12/IMG-3819-4661-1565601615.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=cNBb4CE62RJuL_lxHBCyVg',
+                  'https://i1-vnexpress.vnecdn.net/2019/08/12/Honda-Civic-3103-1565601616.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=TwXlsHI0jA2Jey35E8dTLQ',
+                  'https://i1-vnexpress.vnecdn.net/2019/08/12/VW-Tiguan-Allspace-2018-Bai-4-4879-9017-1565601616.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=9WM51Fn4DDjdmvCwBJJ6ew',
+                  'https://i1-vnexpress.vnecdn.net/2019/08/12/IMG-4317-JPG-3189-1565601616.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=qzYGWiCSAfYsjup0ImhU0w'],
+ 'tags': ['ôtô kén khách', 'xe bán chạy trên thế giới', 'doanh số ôtô'],
+ 'title': 'Những ôtô bán chạy trên thế giới nhưng kén khách tại Việt Nam'}

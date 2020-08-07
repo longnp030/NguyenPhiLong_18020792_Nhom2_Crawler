@@ -1,0 +1,34 @@
+{'description': 'Mật Ong Hoa Dại được thu hoạch tại các khu rừng, đồi núi  của '
+                'Tây Bắc vì thế tiếp nhận được nguồn mật từ các loại hoa rừng '
+                'tự nhiên liên tục theo từng mùa đem đến nguồn mật đa hoa thơm '
+                'ngon bổ dưỡng với hương vị của núi rừng mà ít loại mật ong '
+                'nào có được. Mật Ong Hoa Dại được lấy từ mật của các loài hoa '
+                'dại có trong tự nhiên nên sản lượng không nhiều nhưng lại '
+                'được người tiêu dùng đánh giá cao về chất lượng. Chúng tôi '
+                'với kinh nghiệm hơn 15 năm chăm nuôi ong mật nội điạ tự tin '
+                'mang đến bạn những sản phẩm chất lượng nhất. Đàn ong được '
+                'chăm sóc tự nhiên theo cách truyền thống hoàn toàn không sử '
+                'dụng các chất kháng sinh, các loại thuốc cấm trong sản xuất, '
+                'và chăm sóc đàn ong. Nếu bạn muốn mua loại Mật Ong Hoa Dại '
+                '100% tự nhiên nguyên chất hãy liên hệ với chúng tôi. Hoàn '
+                'tiền 300% nếu không phải mật ong tự nhiên nguyên chất, Quý '
+                'khách mua 1 lít trở lên sẽ được miễn phí ship !',
+ 'name': 'Mật ong hoa dại Tây Bắc',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/03/57969f7d4001cd8be1de4bc02640cd59.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/03/30d82943026258b25c2a13a0df70cada.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/03/0124d915d7cfc00d941f5f521f4c493f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/03/c9bfd97608a1c262e2b9b638bbab8e1a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/03/b2b85f76c5341eab54c9fa49c183dca1.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/03/cffb3acc5ec3ac3ae8f63d57794b5832.jpeg'],
+ 'price': '250.000',
+ 'seller': {'address': 'hoabachashop@gmail.com',
+            'date': '02-05-2020',
+            'name': 'Hoa Bạc Hà',
+            'phone': '0368181868'},
+ 'tags': ['Hà Giang',
+          'Huyện Đồng Văn',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'mật ong nguyên chất',
+          ' mật ong hoa dại',
+          ' mật ong rừng tây bắc']}

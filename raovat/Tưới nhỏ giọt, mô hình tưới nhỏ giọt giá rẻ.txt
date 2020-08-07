@@ -1,0 +1,30 @@
+{'description': 'Hệ thống tưới nước tưới cây nhỏ giọt tự động giá rẻ rau hệ '
+                'thống tưới  nước cây nhỏ giọt tự động là một trong nhưng mô '
+                'hình hiện nay đang được sử dụng khá phổ biến và rộng rãi '
+                'trong mô hình trồng rau cho gia đình để có rau sạch ăn đảm '
+                'bảo an toàn hoặc sử dụng tại các cây cảnh, các rau trong '
+                'thùng xốp với mô hình này sẽ giúp bạn tiết kiệm nước phù Hợp '
+                'lắp đặt sử dụng ban công, sân thươn, hành lang mà nước không '
+                'bắt tung té như phun mưa hoặc phun sương ảnh hưởng đến nhà '
+                'xung quanh LIÊN HỆ TRỰC TIẾP HOTLINE: 0971 682 666 Để được tư '
+                'vấn và hỗ trợ Công ty Cổ phần Công nghệ tưới Bình Minh VP bán '
+                'hàng Hà Nội: Số 2, Ngõ 238 Đường Hoàng Quốc Việt - Quận Cầu '
+                'Giấy - TP. Hà Nội ( Bên cạnh trường CĐ Du lịch Hà Nội, Đối '
+                'diện Triển lãm Nông nghiệp Việt Nam) Điện thoại: (+84) 0243. '
+                '212 3662  I  Fax: (+84) 0243. 212 3661 I Hotline: 0971 682 '
+                '666 Email: congnghetuoibinhminh@gmail.com Tại TP. Hồ Chí '
+                'Minh: Số 68/9 Tân Phú 2 - Phường Tân Bình - Thị xã Dĩ An - '
+                'Bình Dương Điện thoại: (+84) 0650. 373 8519',
+ 'name': 'Tưới nhỏ giọt, mô hình tưới nhỏ giọt giá rẻ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/07/23/33e9a107a1a4617faa13733518ffce19.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/07/23/1f7cbc5b1047528c46bcade9f7cee1da.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/07/23/cfc96a6adfcb3c3b5692478c51900efd.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/07/23/6128106a792516a1d739298c7ef4b567.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/07/23/474105d9293d66d8d952de30fabc1f3c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/07/23/53226e9967ab5bc98a04c3297828ad33.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '15-03-2019',
+            'name': 'mangkinhpolitivvn',
+            'phone': None},
+ 'tags': ['Khác', 'Cây cảnh', 'tưới nhỏ giọt']}

@@ -1,0 +1,10 @@
+{'author': 'Phương Hoa ',
+ 'categories': ['Khoa học'],
+ 'content': '(Ảnh: Bernie Worsford )',
+ 'datetime': 'Thứ ba, 3/1/2017, 14:05 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2017/01/03/VNE-Python-1-3783-1483415190.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=5LRWAn6hprysIaywl8Yvcw',
+                  'https://i1-vnexpress.vnecdn.net/2017/01/03/VNE-Python-2-7992-1483415190.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=CRKsMNuB7yg0z055kazkyw',
+                  'https://i1-vnexpress.vnecdn.net/2017/01/03/VNE-Python-3-1511-1483415190.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=qw9M6fY6LeejBD5JMNxHRg',
+                  'https://i1-vnexpress.vnecdn.net/2017/01/03/VNE-Python-4-2424-1483415190.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=JA_g-AVrogzeeMmytjiWoA'],
+ 'tags': ['thú có túi', 'trăn khổng lồ', 'săn mồi', 'nuốt chửng'],
+ 'title': 'Ngựa sững sờ nhìn trăn khổng lồ nuốt chửng chuột túi'}

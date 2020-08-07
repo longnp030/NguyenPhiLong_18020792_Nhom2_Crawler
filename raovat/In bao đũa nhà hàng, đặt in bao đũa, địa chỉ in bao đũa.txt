@@ -1,0 +1,31 @@
+{'description': 'Là người con của Việt Nam ai cũng đã từng thưởng thức Phở '
+                'nhưng để nói đến Phở ngon nhất nhì Hà thành phải kể đến Phở '
+                'Lý Quốc Sư. Độc đáo hơn cả bởi sự chăm chút từng gia vị món '
+                'ăn đến cách phục vụ của Nhà hàng. Chỉ bằng đấy thôi đã là '
+                'điểm (+) khi khách hàng ghé qua Nhà Hàng. In Bảo An chuyên '
+                'thiết kế và in ấn bao đũa độc quyền cho hệ thống Nhà hàng Phở '
+                'Lý Quốc Sư. - Chất liệu: giấy Ivory 230. - Kích thước phổ '
+                'biến: 3,2x23,2 (cm) - In màu chuẩn với hình ảnh cực rõ nét Hệ '
+                'thống Phở Lý Quốc Sư trên Toàn quốc nếu có nhu cầu in ấn bao '
+                'đũa hãy gọi ngay Hotline 0966 967 467 để được tư vấn [Hoặc] '
+                'nhắn tin cho Page để được báo giá tốt nhất. -----------In Bảo '
+                'An - In bao đũa nhà hàng giá rẻ------------- * Đội ngũ tư vấn '
+                'hỗ trợ nhiệt tình, hệ thống ship hàng có tâm và giao hàng đảm '
+                'bảo nhanh chóng nhất. Liên hệ đặt hàng: CÔNG TY IN BẢO AN: - '
+                'Địa chỉ: Số 32 ngõ Thái Hà- Đống Đa- Hà Nội. - Điện thoại: '
+                '024 32444 288 - Hotline: 0966 967 467 - 0912 363 960 (Zalo/ '
+                'Imess) - Skype: thuypt18 * Truy cậ',
+ 'name': 'In bao đũa nhà hàng, đặt in bao đũa, địa chỉ in bao đũa',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/23/957df313260ba220f2db72dd896cba03.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '12-06-2016',
+            'name': 'thuypt18z6',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Huyện Chương Mỹ',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'In bao đũa nhà hàng',
+          ' bao đũa rẻ nhất',
+          ' báo giá bao đũa']}

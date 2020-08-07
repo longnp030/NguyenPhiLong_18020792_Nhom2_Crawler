@@ -1,0 +1,27 @@
+{'description': 'Công ty Thảm trải sàn Khang Phú Gia là một trong những đơn vị '
+                'hàng đầu Việt Nam hoạt động trong lĩnh vực nhập khẩu – phân '
+                'phối thảm trải sàn như thảm gạch,thảm hành lang,thảm trải sàn '
+                'khách sạn,thảm trải sàn nhà,thảm phòng khánh tiết,thảm xốp '
+                '…thiết kế - thi công trang trí nội thất cho các công trình '
+                'dân dụng, tòa nhà văn phòng, khách sạn, nhà hàng, shop thời '
+                'trang, quán café… và hiện nay đã thực hiện nhiều dự án trang '
+                'trí nội thất trong khu vực TP Hồ Chí Minh nói riêng và cả '
+                'nước nói chung. Bên cạnh đó công ty Khang Phú Gia là công ty '
+                'chuyên nghiệp, chuyên cung cấp thi công lắp đặt sàn thể thao '
+                'đa năng dùng cho cầu lông, bóng đá trong nhà và ngoài trời, '
+                'bóng rổ….. Mọi chi tiết xin liên hệ: CTY THẢM TRẢI SÀN KHANG '
+                'PHÚ GIA VPGD: 80/7 Đặng Văn Ngữ, Phường 10, Quận Phú Nhuận, '
+                'TP Hồ Chí Minh Email: sales@khangphugia.com Website: '
+                'khangphugia.com | thamtraisanonline.com | sanvinylonline.com '
+                '| santhethaoonline.com Hotline: Mr. Khang - Mobile: 0936 159 '
+                '885            Ms. Trang – 0914 925 459',
+ 'name': 'Thi công sàn cao su phòng gym giá tốt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/780245ccd41275042f1456121fb0c0ec.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/23b53ad98f605a3c727964cac0f4ea4d.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/f37370f05649e7bb7a97248275aa134e.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'ketoan@khangphugia.com',
+            'date': '29-05-2017',
+            'name': 'Kieu Trang',
+            'phone': '0914925459'},
+ 'tags': ['Dịch vụ', 'Tìm đối tác']}

@@ -1,0 +1,33 @@
+{'description': 'Gỗ thông Mỹ là vật liệu tự nhiên, dễ chế tác và mang tính '
+                'thẩm mỹ khá cao. Với màu sắc có thể đa dạng hóa những sản '
+                'phẩm từ gỗ thông Mỹ. Dường như phù hợp với mọi không gian mà '
+                'nó kết hợp. Như nội thất gia đình, quán ăn, quán cafe, trà '
+                'sữa, homestay... Đặc biệt là tại các căn hộ chung cư cao cấp. '
+                'Nét đẹp mộc mạc đơn giản nhưng toát lên một nét đẹp hiện đại '
+                'trẻ trung. Về mặt giá thành thì gỗ thông Mỹ không quá cao hay '
+                'chênh lệch nhiều. Chất lượng gỗ tốt, có thể ứng dụng đa dạng '
+                'vào các thiết kế. Thu hút sự yêu thích của khách hàng, khả '
+                'năng thu hồi vốn cao. Càng tiết kiệm được chi phí đầu vào '
+                'hơn. Nếu tìm kiếm được một nhà cung cấp gỗ uy tín. Là điều '
+                'rất cần thiết có thể giảm bớt chi phí nguyên liệu của bạn. '
+                'gerWood\xa0(0907.665.335). - Đơn vị cung cấp gỗ thông Mỹ uy '
+                'tín tại Bình Dương. Với quy cách và phẩm cấp đa dạng, đáp ứng '
+                'nhu cầu khách hàng. Phục vụ cho sản xuất nội thất và thi công '
+                'công trình. Liên hệ ngay để được tư vấn và báo giá.',
+ 'name': 'Giá gỗ thông mỹ TP HCM',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/23/981c5f95f7f8b5213d9df89bfbc167f9.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/201b1211f20aee2652bff664710b663e.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/290e91c1d4c5078da8de04d6cc32efb7.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/a7de34709f8638fa838c0d24dcce707c.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '661,The oasis II, KDC Vietsing, P.An Phú, Thuận '
+                       'An,Bình Dương',
+            'date': '21-07-2020',
+            'name': 'thpt.thaihoa.tranvanhung@gmail.com',
+            'phone': '0907665335'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Dịch vụ',
+          'Tìm đối tác',
+          'giá gỗ thông mỹ',
+          ' gỗ thông mỹ giá rẻ',
+          'gỗ thông mỹ xẻ sấy']}

@@ -1,0 +1,20 @@
+{'description': 'Cung cấp sỉ lẻ nước tương gói nhỏ 7ml cholimex quy cách 800 '
+                'gói/thùng nước tương gói nhỏ 7ml cholimex Khách có nhu cầu '
+                'lh: 0902 772 496',
+ 'name': 'Nước tương gói nhỏ 7ml cholimex',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/06/f2bfb667b68c8b0b7c671bff900b510a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/971048af7af1e4ad7b57de1f917716e6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/c4ce6dfc02a997233099b240075b08e6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/f0e64484f7e0cf825da12ca086e6634b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/56346d02cf51fef0c8d71e9db052891e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/6343030819a861d45531d58d9408ab06.jpeg'],
+ 'price': '230.000',
+ 'seller': {'address': '',
+            'date': '16-03-2017',
+            'name': 'yenquyen2909',
+            'phone': '0902772496'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'nước tương',
+          ' nước tương gói nhỏ',
+          ' nước tương nhỏ']}

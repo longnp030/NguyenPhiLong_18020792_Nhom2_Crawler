@@ -1,0 +1,28 @@
+{'description': 'MÍT SẤY hàng loại A miếng mít to không vụn 55k/ Hũ 200g '
+                '195k/1kg Sỉ từ 1 thùng 7kg Mít được sấy khô nhưng vẫn giữ '
+                'được hương vị thơm ngon đặc trưng, mít sau khi sấy khô đã '
+                'loại bỏ được phần nước thừa, cô đặc dưỡng chất giúp người '
+                'dùng có thể gia tăng hàm lượng dưỡng chất bổ sung vào cơ thể '
+                'mỗi ngày. _____________________________________ Liên hệ '
+                '0934116821 để đặt hàng Địa chỉ 525/54 huỳnh văn bánh phường '
+                '14 quận phú nhuận Giao hàng nhanh từ 20-60p trong nội thành '
+                'TP HCM #mitsay #mitsaygion #mitsayngon #mitngon #mit',
+ 'name': 'Mít sấy khô',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/04/2de61c8c9535b6a1bf3b0adc686d3755.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/04/006ea3a7b256f1e4634e25b8f251a68c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/04/7e59a7d848bfd84ca635c76d41d52de1.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/04/00c21531c470be0ca3a02f0f9d673c48.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/04/cfe4a3a7a406f6ab2ffc51e117f66cb8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/04/6743ba5414f3ec389df7849a966d0c2c.jpeg'],
+ 'price': '55.000',
+ 'seller': {'address': '525/44 HUỲNH VĂN BÁNH- P14- PHÚ NHUẬN',
+            'date': '18-09-2019',
+            'name': 'KHÔ GÀ HEOMI',
+            'phone': '093 411 68 21'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Phú Nhuận',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'mít sấy',
+          ' mit sấy giòn',
+          'mít sấy loại a']}

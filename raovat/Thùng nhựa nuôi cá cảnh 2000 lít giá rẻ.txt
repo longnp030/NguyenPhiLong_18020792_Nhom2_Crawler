@@ -1,0 +1,32 @@
+{'description': 'Nhựa công nghiệp Phước Đạt chuyên cung cấp các sản phẩm thùng '
+                'nhựa công nghiệp, thùng nhựa tròn, thùng nhựa đặc chữ '
+                'nhật.... với giá thành tốt nhất trên toàn quốc. Hotline/Zalo: '
+                '096 7788 450 Ms Ngọc Các kích thước thùng nhựa công nghiệp '
+                'thùng chữ nhật (Loại 1 lớp - 2 lớp) +Thùng nhựa chữ nhật '
+                '2000l (1800 x 1400 x 1000 mm) +Thùng nhựa chữ nhật 1100l '
+                '(2060 x 1050 x 670 mm) +Thùng nhựa chữ nhật 1000l (2150 x '
+                '1160 x 510 mm) +Thùng nhựa chữ nhật 750l (1510 x 1100 x 720 '
+                'mm) +Thùng nhựa chữ nhật 500l (1320 x 950 x 660 mm) +Thùng '
+                'nhựa chữ nhật 300l (1050x 840x 410 mm) +Thùng nhựa chữ nhật '
+                '200l (910 x 760 x 410 mm) +Thùng nhựa chữ nhật 100l (850 x '
+                '650 x 310 mm) +Thùng nhựa chữ nhật 50l (670 x 510 x 260 mm) '
+                '*Thông tin liên hệ* Công ty TNHH XNK TM DV Phước Đạt ĐC: '
+                '35-36 Đg DD6, Chợ An Sương, P.Tân Hưng Thuận, Q12, Tp.HCM '
+                'Hotline/zalo: 096 7788 450 Ms Ngọc Web: nhuaphatdat.com  ; '
+                'nhuacongnghiep.net.vn Email: phuocdat8@gmail.com',
+ 'name': 'Thùng nhựa nuôi cá cảnh 2000 lít giá rẻ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/03/24/0194447d658281925fad7d0aee6c42e2.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/24/da4845df50b9f30509afd375cec12ce2.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/24/0d7e65113c58d7828909199d29987acf.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/03/24/4c35a1d11e8d377ca62e33e340c0194c.jpeg'],
+ 'price': '1.200.000',
+ 'seller': {'address': 'phuocdat8@gmail.com',
+            'date': '21-06-2017',
+            'name': 'Kim Ngọc',
+            'phone': '0967788450'},
+ 'tags': ['Bình Dương',
+          'Khác',
+          'Thú nuôi',
+          'thùng nhựa nuôi cá',
+          ' thùng chữ nhật giá rẻ',
+          ' thùng nhựa nuôi cá cảnh']}

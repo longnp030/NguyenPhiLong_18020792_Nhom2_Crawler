@@ -1,0 +1,15 @@
+{'author': 'Tất Nhiên',
+ 'categories': ['Hài', 'Tiểu phẩm'],
+ 'content': '- Chồng ơi, hôm nay có người nói em đi chơi xa với anh ta 3 ngày. '
+            'Sau đó sẽ mua một cái iPhone X cho em. Anh có để em đi không? Anh '
+            'chồng nhanh chóng đáp: - Đi 6 ngày luôn đi! - Tại sao? - cô vợ '
+            'kinh ngạc. Anh chồng cười tủm tỉm: - Tiện thể lấy giúp anh một '
+            'cái nữa! - !!!',
+ 'datetime': 'Thứ sáu, 12/4/2019, 07:32 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2019/04/09/nguyen-nhan-chong-muon-vo-di-c-4028-6787-1554798786.png?w=680&h=0&q=100&dpr=1&fit=crop&s=iVWXHMMzb67ewCsu0qBs2A'],
+ 'tags': ['truyện cười',
+          'tiểu phẩm cười',
+          'nguyên nhân',
+          'vợ chồng',
+          'trai lạ'],
+ 'title': 'Nguyên nhân chồng muốn vợ đi chơi cùng trai lạ'}

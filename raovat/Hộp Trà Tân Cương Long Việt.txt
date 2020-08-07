@@ -1,0 +1,21 @@
+{'description': 'Hộp Trà Tân Cương Long Việt - 400gram Chè Tân Cương Thái '
+                'Nguyên loại hảo hạng nhất được đóng trong túi nhôm hút chân '
+                'không để trà được bảo quản tốt nhất; Hai hộp trà hình trụ, '
+                'màu vàng ánh kim ép nhũ đỏ,  trang trí đẹp, sang trọng được '
+                'xếp trong hộp cứng lót lụa vàng, ép nhũ, trình bày họa tiết- '
+                'hoa văn ấn tượng- đặc biệt sang trọng; Tất cả được trang trí '
+                'theo sản phẩm quà biếu cao cấp- sang trọng; Hotline Tân Cương '
+                'Xanh ☎Hotline Hà Nội : 0243 839 8447 - 0983 412 602 ☎Hotline '
+                'Đà Nẵng : 02363 863 866 - 0836 968 368 ☎Hotline TP Hồ Chí '
+                'Minh : 02838 111 866 - 0919 998 202 ☎Hotline Thái Nguyên : '
+                '0208 370 8998 Website : https://tancuongxanh.vn/',
+ 'name': 'Hộp Trà Tân Cương Long Việt',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/05/da09aa5663a8bcb61703707813c56f11.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/05/bd39f156b9913d90e8b949f57a2404a9.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/05/6bda17425ea39010207db58c81a67ae7.jpeg'],
+ 'price': '450.000',
+ 'seller': {'address': 'Hà Nội',
+            'date': '28-04-2020',
+            'name': 'tancuongxanh202@gmail.com',
+            'phone': '0976454663'},
+ 'tags': ['Ẩm thực, du lịch', 'Ẩm thực', 'chè thái nguyên']}

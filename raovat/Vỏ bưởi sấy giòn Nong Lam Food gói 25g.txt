@@ -1,0 +1,30 @@
+{'description': 'Nguyên liệu: GlobalGAP Tính chất có lợi của vỏ bưởi Hợp chất '
+                'naringin: Giảm mỡ máu, mỡ gan, giảm đường máu. Nhiều chất xơ: '
+                'Giảm hấp thu mỡ và cholesterol, bảo vệ thành ruột, nhuận '
+                'trường, cải thiện sức khỏe ruột già. Flavonoids, polyphenols '
+                '(chất kháng oxi hóa): Giảm nguy cơ các bệnh do oxi hóa trong '
+                'cơ thể: ung thư, tiểu đường, giảm trí nhớ, … Tinh dầu '
+                '(limonene, g-terpinene, pinene): Thông cổ, kháng vi sinh vật '
+                'gây bệnh. Vỏ Bưởi Sấy Giòn là kết quả của quy trình chế biến '
+                'được nghiên cứu và phát triển bởi các Giáo Sư, Tiến Sĩ ở '
+                'trường Đại học Nông Lâm TPHCM. Thương hiệu: NONG LAM FOOD. Vỏ '
+                'bưởi sấy giòn không theo cách chiên với chất béo như các '
+                'fruit chips (mít giòn, chuối giòn…), mà dùng phương pháp sấy '
+                'thông thường',
+ 'name': 'Vỏ bưởi sấy giòn Nong Lam Food gói 25g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/13/768f6023be899bfa859d0fd0b62b9bd5.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/7232562b6f00c17b8a9162a1fed3ca19.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/aabe9baff8ce623e21f0d8e3aebbd4b8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/38e9675961f0496b5a24e6a3c08dabc6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/190b1eebb68c181616fed23aa40bf783.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/48e87a597624c2567d6dea405a8673b8.jpeg'],
+ 'price': '20.000',
+ 'seller': {'address': 'nonglamstorecom@gmail.com',
+            'date': '13-05-2020',
+            'name': 'Nông Lâm Store',
+            'phone': '0902 883 335'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'vỏ bưởi sấy giòn',
+          ' vo buoi gion nong lam food',
+          ' vo buoi']}

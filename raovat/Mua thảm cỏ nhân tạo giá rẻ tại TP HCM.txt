@@ -1,0 +1,15 @@
+{'description': 'Nơi mua thảm cỏ nhân tạo tphcm giá rẻ nhất toàn quốc. Sợi cỏ '
+                'cao 2cm 3cm và 1cm.! Hotline: 0908 502 478 Webside: '
+                'https://conhantaotanthanh.com/tham-co-nhan-tao-tphcm/ Địa '
+                'chỉ: 122/28/26 Bùi Đình Túy, Phường 12, Bình Thạnh',
+ 'name': 'Mua thảm cỏ nhân tạo giá rẻ tại TP HCM',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/06/05/473fed2217ccf8637e2905e06be24100.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/05/09a4fc1473b9824f10e274d09e4eee05.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/05/24e367de662488ad99780e9c7e119113.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/05/b7c20e7131fb13e18e70ee79a51ceaa2.jpeg'],
+ 'price': '90.000',
+ 'seller': {'address': '122/28/26 Bùi Đình Túy, Phường 12, Bình Thạnh',
+            'date': '05-06-2019',
+            'name': 'trần đình quốc',
+            'phone': '0908502478'},
+ 'tags': ['Khác', 'Cây cảnh', 'mua cỏ nhân tạo', ' bảng giá cỏ nhân tạo']}

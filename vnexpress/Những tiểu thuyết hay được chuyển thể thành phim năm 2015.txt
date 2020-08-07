@@ -1,0 +1,58 @@
+{'author': 'Lam Thu',
+ 'categories': ['Giải trí', 'Sách', 'Làng văn'],
+ 'content': 'Hỏa ngục là tiểu thuyết thứ ba của Dan Brown được chuyển thể '
+            'thành phim. Nhân vật chính là Robert Langdon - nhà biểu tượng học '
+            'xuất hiện trong nhiều tác phẩm của ông. Lần này, Robert có cuộc '
+            'phiêu lưu thấm đẫm dấu ấn lịch sử và văn hóa. Tác giả Dan Brown '
+            'đã tạo nên sợi dây liên kết giữa trường ca kinh điển có tính tiên '
+            'tri của đại thi hào Italy đến vấn đề bùng nổ dân số thế giới ngày '
+            'nay. Theo thống kê của 100 bảng xếp hạng, Hỏa ngục là cuốn sách '
+            'bán chạy nhất thế giới năm 2014. Bản tiếng Việt do công ty Bách '
+            'Việt phát hành cũng là sách bán chạy, với gần 30.000 bản được '
+            'tiêu thụ trong vòng hơn 2 tháng. Phim Hỏa ngục sẽ được bấm máy '
+            'tại Italy - bối cảnh câu chuyện trong tiểu thuyết diễn ra. Phim '
+            'dự kiến ra mắt khán giả mùa Noel 2015. Insurgent là phần tiếp '
+            'theo của loạt truyện ăn khách Divergent của tác giả Veronica '
+            'Roth. Sách được dịch sang tiếng Việt với tên Những kẻ nổi loạn , '
+            'do Nhà xuất bản Trẻ phát hành tháng 3/2014. Truyện thuộc thể loại '
+            'phiêu lưu hành động pha chút lãng mạn, lấy bối cảnh tương lai xa '
+            'nơi dân cư được chia thành 5 nhóm, với những con người có tố chất '
+            'và tính cách khác nhau. Cô bé Beatrice Prior phát hiện mình không '
+            'thuộc nhóm nào, đã gặp những kẻ khác biệt như mình, thành một '
+            'nhóm liều lĩnh, quả cảm để bảo vệ thành phố tương lai, xóa bỏ xã '
+            'hội bất công đương thời. Bộ phim chuyển thể của Insurgent được '
+            'coi là bom tấn của của điện ảnh Mỹ, sẽ khởi chiếu ngày 20/3. Far '
+            'from the Madding Crowd phát hành tại Việt Nam với tên Xa đám đông '
+            'điên loạn . Tác phẩm được nhà văn Anh Thomas Hardy cho đăng tải '
+            'từng phần trên báo từ năm 1874, xuất bản thành sách năm 1895. '
+            'Tiểu thuyết kể về chuyện tình yêu của Bathsheba Everdene - một cô '
+            'gái xinh đẹp, độc lập và mạnh mẽ với ba chàng trai: Gabriel Oak - '
+            'một nông dân chăn cừu, Frank Troy - một trung sĩ liều lĩnh và '
+            'William Boldwood - ông chủ trang trại giàu có và lạnh lùng. Câu '
+            'chuyện tình yêu trong sách khiến biết bao thế hệ độc giả thổn '
+            'thức. Đó là một cuộc hành trình dài tìm kiếm hạnh phúc với đầy đủ '
+            'cảm xúc, dư vị với những giận hơn, si mê, trả thù, chết chóc, đau '
+            'đớn… Phim chuyển thể từ tiểu thuyết dự kiến ra rạp vào tháng 5. '
+            'Đứa trẻ thứ 44 là một tiểu thuyết trinh thám của Tom Rob Smith. '
+            'Tác giả là người Anh, nhưng lại lấy bối cảnh tiểu thuyết tại nước '
+            'Nga những năm 1950. Nhân vật chính là thanh tra Leo Dimidov bị '
+            'thất sủng và bị đày về một vùng xa xôi. Tại đó, anh gặp rất nhiều '
+            'cái chết thương tâm, bí ẩn. Nhưng chính quyền đã tuyên bố chính '
+            'thể mà họ quản lý có tỷ lệ tội phạm là 0%, nên không bao giờ các '
+            'nhà quản lý chịu thừa nhận sự tồn tại của một kẻ ác. Không thể '
+            'công khai điều tra, Leo với sự sát cánh của vợ, từng bước vén tấm '
+            'màn che đậy cái chết của những đứa trẻ trên khắp đất nước. Quá '
+            'trình săn đuổi tội phạm đó còn vấp phải những chướng ngại vật bất '
+            'khả kháng được dựng nên bởi chính chế độ, chính thể mà Leo đang '
+            'sống trong đó. Đứa trẻ thứ 44 ra mắt năm 2008, từng nhận đề cử '
+            'tại 17 giải thưởng văn chương khác nhau. Tại Việt Nam, sách được '
+            'Nhã Nam phát hành tháng 7/2014. Phim chuyển thể dự kiến ra mắt '
+            '17/4.',
+ 'datetime': 'Thứ năm, 26/2/2015, 18:22 (GMT+7)',
+ 'paths_to_img': ['https://i1-giaitri.vnecdn.net/2015/02/26/body-Hoa-nguc-8812-1424943445.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=GmR_1VJz5f89maUT0-QXRg',
+                  'https://i1-giaitri.vnecdn.net/2015/02/26/body-dua-tre-5828-1424943445.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=4sLdewHyh6v_bXCLRj1reQ'],
+ 'tags': ['đứa trẻ thứ 44',
+          'hỏa ngục',
+          'xa đám đông điên loạn',
+          'phim chuyển thể'],
+ 'title': 'Những tiểu thuyết hay được chuyển thể thành phim năm 2015'}

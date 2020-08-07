@@ -1,0 +1,24 @@
+{'description': 'Cá thiều que 115k/1 hũ 300g 85k/ 1 hũ khi mua từ hũ Khô cá '
+                'thiều mà ăn chơi, kèm tí bia là say quên đường về Khô cá '
+                'thiều que sợi cá dai dai thơm thơm mùi cá chấm cùng nước sốt '
+                'hết sẩy _____________________________________ Liên hệ '
+                '0934116821 để đặt hàng Địa chỉ 525/54 huỳnh văn bánh phường '
+                '14 quận phú nhuận Giao hàng nhanh từ 20-60p trong nội thành '
+                'TP HCM',
+ 'name': 'Khô cá thiều que đặc sản vùng biển Phú Quốc',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/29/6295a1553f5de57af4836d54ae88b490.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/5db314c8715c43454b56f9eab2f5fe17.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/d3a3d7c8ab51b9687c1aad68e9a170c3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/fb719b14e11e8959885e207b9043a849.jpeg'],
+ 'price': '85.000',
+ 'seller': {'address': '525/44 HUỲNH VĂN BÁNH- P14- PHÚ NHUẬN',
+            'date': '18-09-2019',
+            'name': 'KHÔ GÀ HEOMI',
+            'phone': '093 411 68 21'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Phú Nhuận',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'khô cá thiều',
+          ' cá thiều que',
+          ' cá thiều']}

@@ -1,0 +1,60 @@
+{'author': 'Bá Đô',
+ 'categories': ['Pháp luật', 'Hồ sơ phá án'],
+ 'content': 'Trung tâm huấn luyện Đông vật nghiệp vụ thuộc Bộ Tư lệnh Cảnh sát '
+            'cơ động (Bộ Công an) đang huấn luyện hàng trăm chó nghiệp vụ với '
+            'nhiều chủng loại. Trong số này, 26 chú chó thường xuyên tham gia '
+            'phá các vụ án ma túy, giết người, cướp của tại Hà Nội và các địa '
+            'phương... Theo thượng tá Lê Sỹ Hà, chó nghiệp vụ được tuyển chọn '
+            'kỹ, huấn luyện liên tục trong vòng nửa năm, thành thục các chuyên '
+            'khoa và vượt qua hai kỳ thi, sát hạch. Loại béc-giê Đức và Bỉ thể '
+            'hiện khả năng vượt trội hơn cả với sự nhanh nhẹn, thần kinh vững '
+            'và thích nghi cao ở các môi trường. Năm 2018, ông Hà cùng một số '
+            'cán bộ ở trung tâm huy động 5 chó béc-giê tham gia giám định mùi '
+            'hơi đôi giầy, đôi tất để truy tìm thủ phạm sát hại đôi vợ chồng ở '
+            'Hưng Yên . Theo đó, giữa tháng 8, Đinh Công Tráng ở thành phố '
+            'Hưng Yên đột nhập, trộm cắp tài sản tại gia đình anh Đặng Văn '
+            'Trường (41 tuổi), chị Nguyễn Thị Hoa (40 tuổi) . Khi bị phát '
+            'hiện, Tráng dùng dao bầu có chuôi gỗ mang sẵn theo đâm nhiều nhát '
+            'khiến đôi vợ chồng tử vong. Qua điều tra, công an thu được con '
+            'dao có dính máu và đôi giầy, đôi tất. Ngoài các biện pháp kỹ '
+            'thuật nghiệp vụ, Bộ Công an huy động thêm chó nghiệp vụ từ Trung '
+            'tâm để giám định mùi hơi ở các mẫu vật thu được và ngửi hơi của '
+            'các nghi can để xác định hung thủ. Theo thượng tá Hà, trải qua '
+            'trận mưa, mùi hơi trên đôi giầy, tất đã không còn được nguyên '
+            'vẹn, tuy nhiên cơ quan điều tra vẫn cho trưng cầu giám định. '
+            'Trong 5 chó béc-giê được điều đến có ba con cho kết quả ổn định '
+            'và đồng nhất; thể hiện mùi hơi trên đôi tất, đôi giầy trùng khớp '
+            'với mùi hơi trên người Tráng. "Đây là căn cứ để hỗ trợ thêm cho '
+            'cơ quan điều tra; phối hợp cùng nhiều manh mối khác như ADN của '
+            'hung thủ trên con dao đã giúp cảnh sát sớm tìm được hung thủ", '
+            'ông Hà nói. Trước đó, vụ án sát hại người phụ nữ buôn đồng nát ở '
+            'Cẩm Khê, Phú Thọ cũng được phá thành công với cách tương tự. Vào '
+            'cuối năm 2004, Công an huyện Cẩm Khê, Phú Thọ, nhận được tin báo '
+            'có một xác chết trong bao tải, buộc đằng sau xe đạp vứt lại ở Dốc '
+            'Sệ thị trấn Sông Thao, Cẩm Khê. Cảnh sát thu nhiều đồ vật ở hiện '
+            'trường, trong đó có chiếc khăn mùi xoa. Trung tâm sử dụng, huấn '
+            'luyện động vật nghiệp vụ đã được sử dụng chó Rex để giám biệt '
+            'hơi. Cán bộ điều tra và cán bộ huấn luyện đã lấy mẫu mùi hơi trên '
+            'chiếc khăn mùi xoa thu được ở hiện trường và mùi hơi thu được của '
+            'một nữ nghi can. Kết quả, chó nghiệp vụ xác định mùi hơi để lại ở '
+            'chiếc khăn mùi xoa thu được ở hiện trường với hơi của kẻ nghi vấn '
+            'Hà Thị Bích Thủy là đồng nhất, giúp cho cơ quan điều tra nhanh '
+            'chóng kết luận Thuỷ đã cùng chồng giết chị Hà Thị Thơm, người thu '
+            'mua sắt vụn, để lấy 360.000 đồng. Ngoài án hình sự, chó nghiệp vụ '
+            'cũng tham gia nhiều chuyên án triệt phá đường dây buôn bán vận '
+            'chuyển ma túy lớn. Trong chuyên án đặc biệt ở Sơn La vào năm 2014 '
+            'thu 148 bánh heroin cùng nhiều vũ khí, một chú chó đã bị kẻ vận '
+            'chuyển ma túy dùng súng bắn chết khi đang tấn công nghi phạm bỏ '
+            'chạy mang theo hơn 25 bánh heroin.',
+ 'datetime': 'Chủ nhật, 26/5/2019, 11:42 (GMT+7)',
+ 'paths_to_img': ['https://i1-vnexpress.vnecdn.net/2019/05/25/Le-sy-ha-8002-1558758426.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=v22MpxaJSHb7eVX7iEvACA',
+                  'https://i1-vnexpress.vnecdn.net/2019/05/25/cho-pha-an-3725-1558758426.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=nILuAX-fdmp1i_4cBsEmJQ'],
+ 'tags': ['chiếc khăn mùi xoa',
+          'để lại mùi hơi',
+          'lật tẩy',
+          'tội ác',
+          'vợ chồng',
+          'sát hại',
+          'giết người',
+          'phú thọ'],
+ 'title': 'Tài ngửi mùi phát hiện thủ phạm giết người của chó nghiệp vụ'}

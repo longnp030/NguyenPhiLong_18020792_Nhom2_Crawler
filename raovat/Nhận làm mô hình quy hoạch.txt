@@ -1,0 +1,28 @@
+{'description': 'Đầu tiên chúng ta tìm hiểu 1 chút về sa bàn kiến trúc tức là '
+                'mô hình kiến trúc qui hoạch hay mô hình qui hoạch đô thị: Mô '
+                'hình qui hoạch  là mô hình tổng quát hóa từ các dạng cấu trúc '
+                'đô thị đã được đúc kết từ: - Quá trình phát triển lịch sử đô '
+                'thị được phản ánh qua hiện trạng đô thị; - Kinh nghiệm, thực '
+                'tiễn xây dựng phát triển đô thị; - Từ các lí luận, lí thuyết '
+                'về đô thị. (Theo Lí thuyết qui hoạch đô thị, Trường ĐH Kiến '
+                'trúc Thành phố Hồ Chí Minh) Hai ba chục năm về trước khi qui '
+                'hoạch 1 khu vực đô thị nào đó tại Việt nam các chuyên gia '
+                'thường phải nghiên cứu và kết hợp với các đối tác nước ngoài '
+                'để tìm công ty làm mô hình kiến trúc qui hoạch.Nhưng với tố '
+                'độ phát triển hiện nay, khoảng vài chục năm đổ lại đây đã có '
+                'nhiều công ty hình thành và phát triển về mảng làm mô hình '
+                'kiến trúc qui hoạch tại Việt Nam. Tự hào là Công ty phát '
+                'triển ngành làm mô hình trong giai đoạn phát triển tại  Việt '
+                'Nam. Chúng tôi luôn luôn mang đến khách hàng sự hài lòng về '
+                'mọi mặt. K',
+ 'name': 'Nhận làm mô hình quy hoạch',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/c12cde65550f085bea3db8732c34abae.jpeg'],
+ 'price': '100.000',
+ 'seller': {'address': 'ĐHT 17,P.đông hưng thuận, quận 12',
+            'date': '09-07-2019',
+            'name': 'lê kỳ anh',
+            'phone': '0848822482'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Dịch vụ',
+          'Tìm đối tác',
+          'nhận làm mô hình quy hoạch']}

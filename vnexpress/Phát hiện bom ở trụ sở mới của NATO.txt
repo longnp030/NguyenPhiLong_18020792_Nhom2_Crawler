@@ -1,0 +1,14 @@
+{'author': 'Hải Minh',
+ 'categories': ['Thế giới'],
+ 'content': 'Ria Novosti cho hay giao thông trên đại lộ Leopold III, nơi xây '
+            'dựng trụ sở, bị phong tỏa. NATO cũng sơ tán nhân viên từ trụ sở '
+            'cũ, một quán cà phê, một siêu thị và trung tâm thể thao, gần đó. '
+            'Công việc vô hiệu hóa quả bom dừng lại tối qua và sẽ tiếp tục vào '
+            'hôm nay. Khu làm việc mới của lực lượng NATO bắt đầu xây dựng hồi '
+            'tháng 9 và dự kiến sẽ hoàn tất vào mùa thu 2015. Dự án trị giá '
+            '626 triệu USD. Khu nhà mới trải trên 250.000 m2, cách trụ sở hiện '
+            'tại 100 mét.',
+ 'datetime': 'Thứ ba, 16/11/2010, 09:25 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Phát hiện bom ở trụ sở mới của NATO'}

@@ -1,0 +1,24 @@
+{'description': 'TRÀ TÂN CƯƠNG ƯỚP HOA NHÀI 100G Đơn giá: 50.000đ Trà thái '
+                'nguyên ướp hoa nhài - Tân Cương Xanh là sản phẩm trà ngon cao '
+                'cấp. Với nguyên liệu là các búp trà tân cương và hoa nhài sấy '
+                'khô tự nhiên Trà ướp hoa nhài không chỉ thơm ngon mà còn có '
+                'thể làm quà tặng, đẳng cấp nhất biếu tặng đối tác,nguyên thủ '
+                'quốc gia , cũng như thưởng thức hương vị thơm ngon,tinh hoa '
+                'đất trời hội tụ của một dòng sản phẩm đệ nhất trà. Trà mang '
+                'ướp phải là trà búp 1 tôm 1 lá sao chế theo phương pháp thủ '
+                'công truyền thống để có được tách trà thái nguyên thơm ngon '
+                'ngọt hậu và thơm mùi hoa nhài Hoa nhài tươi sau đó sấy khô '
+                'vào ướp vào trà. Tỷ lệ ướp là 9/1 Hotline: 0912 74 1357 - '
+                '0983 412 602 Website : https://tancuongxanh.vn/ '
+                'http://sieuthitratuiloc.com/ http://traolong.vn/ '
+                'https://olongtra.com/',
+ 'name': 'Trà Tân Cương Ướp Nhài 100g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/29/77416b692098623f300631d05dde148b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/bf9221f11e487af72f226b333a36533c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/29/b4d4c277e3a06ab280d305d9c6e83f9c.jpeg'],
+ 'price': '55.000',
+ 'seller': {'address': 'Số 2 Ngõ 31/26 Trần Quốc Hoàn , Cầu Giấy, Hà Nội.',
+            'date': '10-03-2020',
+            'name': 'Như Quỳnh',
+            'phone': '0333916204'},
+ 'tags': ['Ẩm thực, du lịch', 'Ẩm thực', 'trà ướp nhài']}

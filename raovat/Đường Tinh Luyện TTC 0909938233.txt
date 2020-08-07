@@ -1,0 +1,23 @@
+{'description': 'Các sản phẩm chúng tôi cung cấp chính: + Đường tinh luyện '
+                '(RE): RE Mimosa, RE Biên Hòa, RE Juna, RE La Ngà, RE Khánh '
+                'Hòa, RE KCP… + Đường kính trắng (RS): RS 333, RS Kon Tum, '
+                'RS1- Bình Định, RS An Khê, RS Gia Lai, RS Juna, RS Phan Rang, '
+                'RS Nước Trong… + Đường Vàng: Đường vàng Đồn Điền, Đường vàng '
+                'La Ngà, Đường Vàng Vạn Phát, Đường Vàng Attapue... + Đường '
+                'Túi: TTC, Biên Hòa, T.SU…Quy cách đóng gói : 500g, 1kg, 10kg, '
+                '25kg...',
+ 'name': 'Đường Tinh Luyện TTC 0909938233',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/19/e6fac1b974241255f979ba7dc102bbb4.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/19/6b7ea4eb163a68d1947ad474bbb05436.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/19/e232e8e48fff83bff2a4bd3bee2b555a.jpeg'],
+ 'price': '120.000',
+ 'seller': {'address': 'hung.jkexport@gmail.com',
+            'date': '29-02-2016',
+            'name': 'Lê Hoàng Hưng',
+            'phone': '0909771233'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'đường',
+          'đương',
+          'tinh luyện']}

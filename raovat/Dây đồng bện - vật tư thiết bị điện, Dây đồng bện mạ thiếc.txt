@@ -1,0 +1,30 @@
+{'description': 'Sản phẩm được chế tạo theo đơn đặt hàng, với các kích thước '
+                'đa dạng: dây đồng bện tiết diện 4mm2, dây đồng bện tiết diện '
+                '6mm2, dây đồng bện tiết diện 8mm2, dây đồng bện tiết diện '
+                '10mm2, dây đồng bện tiết diện 13mm2, dây đồng bện tiết diện '
+                '16mm2, dây đồng bện tiết diện 19mm2, dây đồng bện tiết diện '
+                '25mm2, dây đồng bện tiết diện 35mm2, dây đồng bện tiết diện '
+                '63mm2,...Ngoài ra, Công ty chúng tôi có sản xuất theo yêu cầu '
+                'của khách hàng với tiết diện từ 6-240mm2 Vật liệu: Dây đồng '
+                '(mạ thiếc) Quý khách có nhu cầu vui lòng liên hệ : '
+                'http://dandat.com.vn/; https://khopnoimem.vn/; Email: '
+                'dandatflex@gmail.com Phòng kinh doanh: 028 2243 3913 / 028 '
+                '3863 5178 Hotline: 0903 666 217 - Mr Hưng 0908 825 129 Mr '
+                'Cường 0908 925 129 Mrs Thùy – 0988 073 330 (Zalo- Mrs Thùy) '
+                'Cửa hàng: 88C Nguyễn Thị Nhỏ, P.15, Quận 11, Tp.HCM.',
+ 'name': 'Dây đồng bện - vật tư thiết bị điện, Dây đồng bện mạ thiếc',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/abce9cd8b8af8b68a837b929f4227965.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/d2dc20b42f4c62842452d77cda177c7f.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/2bd2316d8f9d1bbe32f12eec9b3b70b0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/b08ceb183f45971ccc22bc8971b03413.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/623bdcf1bf1167f716a5aff5c4161301.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/6ba7f6943463b65ecf198e2b3570f481.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '88C Nguyễn Thị Nhỏ, Phường 15, Quận 11, Tp.HCM',
+            'date': '08-08-2019',
+            'name': 'Liêm - Công Ty Dân Đạt',
+            'phone': '02838635178'},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          'Dây đồng bện - vật tư thiết bị điện',
+          ' Dây đồng bện mạ thiếc']}

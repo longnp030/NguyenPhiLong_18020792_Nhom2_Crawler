@@ -1,0 +1,34 @@
+{'description': 'Nguyên liệu: GlobalGAP Tính chất có lợi của vỏ bưởi Hợp chất '
+                'naringin: Giảm mỡ máu, mỡ gan, giảm đường máu. Nhiều chất xơ: '
+                'Giảm hấp thu mỡ và cholesterol, bảo vệ thành ruột, nhuận '
+                'trường, cải thiện sức khỏe ruột già. Flavonoids, polyphenols '
+                '(chất kháng oxi hóa): Giảm nguy cơ các bệnh do oxi hóa trong '
+                'cơ thể: ung thư, tiểu đường, giảm trí nhớ, … Tinh dầu '
+                '(limonene, g-terpinene, pinene): Thông cổ, kháng vi sinh vật '
+                'gây bệnh. Chanh Dây: Bổ xương, máu, mắt, an thần, tăng đề '
+                'kháng, giảm ho … Loại sản phẩm Vỏ bưởi chanh dây sấy dẻo Dạng '
+                'sấy Sấy dẻo - sử dụng nhiệt độ cao (50 - 70 độ C) để làm mất '
+                'đi một phần hơi nước của sản phẩm rồi đem đi làm mát Đặc tính '
+                'Dẻo, mềm, hơi dai Năng lượng 280kcal/100g Khối lượng 100g '
+                'Thành phần Vỏ bưởi (87.7%), nước cốt chanh dây (11.1%), đường '
+                'kính trắng, glucose, chất điều chỉnh độ acid (E330) Bảo quản '
+                'Dùng ăn liền. Sau khi mở bao bì nên sử dụng hết trong vòng 10 '
+                'ngày Thương hiệu Nong Lam Food (Việt Nam) Nơi sản xuất Việt '
+                'Nam',
+ 'name': 'Vỏ bưởi chanh dây sấy dẻo Nông Lâm Food hộp 100g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/13/99fc1d539d26b8901b34bab6a78e5771.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/962437471b1f2aca5a2abfb7089fc0c9.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/461c29bdfc54f64f46645d6f8482d025.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/f49671a431f9b42f7587b66c3430e795.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/f4bac59ababc5cfc172b2956faffacfb.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/c22cf2acb85e0cba15d7d7226e4694db.jpeg'],
+ 'price': '56.000',
+ 'seller': {'address': 'nonglamstorecom@gmail.com',
+            'date': '13-05-2020',
+            'name': 'Nông Lâm Store',
+            'phone': '0902 883 335'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Vỏ Bưởi Chanh Dây Sấy Dẻo',
+          ' Vỏ bưởi Sấy khó Nông Lâm',
+          ' Vỏ bưởi sấy']}

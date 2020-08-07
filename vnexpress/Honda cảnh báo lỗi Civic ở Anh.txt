@@ -1,0 +1,14 @@
+{'author': 'Nguyễn Nghĩa',
+ 'categories': ['Xe'],
+ 'content': '63.000 khách mua Civic từ nhà máy Swindon nằm trong diện cảnh '
+            'báo. Lỗi này được xác định khi một số khách hàng phàn nàn về việc '
+            'phanh tay không ăn khi kéo mà vẫn giữ nút bấm nhả. Honda cho biết '
+            'khách hàng sẽ nhận được bộ phanh mới nếu cảm thấy không hài lòng. '
+            'Hãng này sẽ gửi thư đến các khách hàng trong tháng 3 và tháng 4, '
+            'đề nghị họ mang xe tới các đại lý để kiểm tra và thay mới. Đợt '
+            'sửa chữa này áp dụng cho Civic được sản xuất trong khoảng thời '
+            'gian 2006-2007. (theo BBC )',
+ 'datetime': 'Thứ tư, 26/3/2008, 11:06 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Honda cảnh báo lỗi Civic ở Anh'}

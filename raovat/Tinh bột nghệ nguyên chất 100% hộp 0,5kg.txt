@@ -1,0 +1,32 @@
+{'description': 'INH BỘT NGHỆ  là tinh chất được chiết xuất ra từ củ nghệ vàng '
+                'có thành phần chính là chất curcumin. Tinh Bột Nghệ do tự tay '
+                'gia đình làm cẩn thận và an toàn vệ sinh, đảm bỏa chất lượng '
+                'tinh bột nghệ tốt nhất.  Chất curcumin này đóng vai trò chủ '
+                'chốt trong việc xác định công dụng của tinh bột nghệ đối với '
+                'sức khỏe con người. Thành phần trong tinh bột nghệ: - 100% '
+                'được làm thủ công từ củ nghệ tươi nguyên chất đã cạo vỏ. - '
+                'Cam kết không sử dụng hóa chất trái phép, không phụ gia, '
+                'không sử dụng chất trộn khác như tinh bột... - Sản phẩm làm '
+                'ra sẽ được để dạng viên nhỏ, không nghiền nát thành bột để '
+                'chứng minh là sản phẩm chất lượng.( hình minh họa sản phẩm) '
+                'Lưu ý: Sản phẩm không phải là thuốc,  không có tác dụng thay '
+                'thế thuốc chữa bệnh. Bảo quản: - Để nơi khô ráo, thoáng mát, '
+                'tránh ánh nắng trực tiếp. Qui cách đóng gói : 500gr hoặc 1kg '
+                'hoặc đóng gói theo yêu cầu của khách hàng - HSD: 2 năm kể từ '
+                'ngày sản xuất. CẦN TƯ VẤN THÊM THÔNG TIN LIÊN HỆ HOTLINE '
+                '24/24 :0963.75.27.22',
+ 'name': 'Tinh bột nghệ nguyên chất 100% hộp 0,5kg',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/06/0b06c7e845dc8049f161215798c71fc4.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/19611183795bb5245d71ce8c799ced05.jpeg'],
+ 'price': '350.000',
+ 'seller': {'address': '28/15 Đường số 1, Phường Tăng Nhơn Phú B, Quận 9',
+            'date': '26-05-2018',
+            'name': 'vantuannguyen993',
+            'phone': '0963752722'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 9',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'tinh bột nghệ',
+          ' tinh bột nghệ nguyên chất',
+          ' tinh bột nghệ vàng']}

@@ -1,0 +1,30 @@
+{'description': 'Cơ sở sản xuất Nem chua Dì Yến tự hào với nhiều năm kinh '
+                'nghiệm sản xuất và kinh doanh Nem Chua Thanh Hóa. Mỗi sản '
+                'phẩm của chúng tôi đều mang tâm huyết quảng bá văn hóa ẩm '
+                'thực Xứ Thanh. Cơ sở Nem chua Dì Yến cung cấp các sản phẩm '
+                'nem chua như: Nem chua thanh hóa dài, nem chua thanh hóa '
+                'vuông, nem chua cối, nem chua nướng,… Chúng tôi cam kết 100% '
+                'sản phẩm làm từ Thịt lợn sạch Đầy đủ nguyên liệu và an toàn '
+                'Sản phẩm hoàn thiện được đóng gói và hút chân không để bảo '
+                'quản được lâu dài Cơ sở đủ điều kiện vệ sinh an toàn thực '
+                'phẩm Nem không bột, không phụ gia, không chất bảo quản Vì sao '
+                'khách hàng chọn nem chua Dì Yến Có nhiều năm kinh nghiệm sản '
+                'xuất và kinh doanh Nem chua Thanh Hóa Được sử dụng công thức '
+                'và các gia vị truyền thống: tỏi, ớt, tiêu đen, muối, mắm '
+                'cốt,…. Tạo nên món Nem chua Thanh Hóa chuẩn vị quê hương. Với '
+                'chúng tôi, mỗi chiếc nem bán ra gửi gắm theo đó niềm tự hào, '
+                'tâm huyết của nghề làm nem! Chúng tôi không chỉ bán những '
+                'chiếc nem, mà tình cảm quê hương người xứ Thanh,',
+ 'name': 'Nem chua Thanh Hóa tại Gia Lâm',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/13/3bd5b5d64b47b3b9785590c09aeb89cb.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/13/5a3a5adeb0040424f22e776282ea6e28.jpeg'],
+ 'price': '30.000',
+ 'seller': {'address': 'Phòng 2009, Tòa L, Chung cư Xuân Mai Complex, Yên '
+                       'Nghĩa, Hà Đông',
+            'date': '08-04-2020',
+            'name': 'Vũ Thị Mừng',
+            'phone': '0962918241'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'nem chua thanh hóa',
+          ' nem chua thanh hóa tại gia lâm']}

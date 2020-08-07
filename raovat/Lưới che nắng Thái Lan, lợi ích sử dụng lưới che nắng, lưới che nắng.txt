@@ -1,0 +1,32 @@
+{'description': 'CÁCH DỰNG NHÀ LƯỚI CHE NẮNG CHO VƯỜN LAN [\u200bIMG] Lưới che '
+                'nắng Made in Thái Lan 4m x 50m phủ 60% Giá sản phẩm: Liên hệ '
+                'Làm khung nhà lưới Thông thường nhà lưới trồng lan được làm '
+                'bằng sắt tròn d90 và sắt V 5. Khẩu độ nhà lưới nằm trong '
+                'khoảng 8m – 10m. Độ cao nhà lưới: 4m. Kết cấu khung sườn được '
+                'làm từ thép đen hoặc thép mã kẽm với khả năng chịu lực và '
+                'chịu được gió mạnh. Khung nhà lưới chịu lực tốt mà không cầu '
+                'kỳ, dễ dàng tháo lắp và sửa chữa. Khi dựng khung nhà lưới '
+                'người thi công sẽ lắp đặt luôn; các thanh treo giá thể, máng '
+                'xối, quạt gió, phun sương.Kết cấu mái nhà lưới che nắng Thông '
+                'thường với những mẫu nhà lưới trồng hoa lan đều dạng đơn '
+                'giản, thiết kế hở. Lưới che nắng Thái lan che phủ hoàn toàn '
+                'phần mái phía trên để chống được mưa, các bức xạ nhiệt. Đôi '
+                'khi lưới này được che phủ cả xung quanh thành nhà lưới kín để '
+                'đảm bảo môi trường cho lan phát triển. Ở các khu nhà trồng '
+                'lan công nghiệp, nhà lưới được thiết kế giống dạng nhà kính '
+                'nông nghiệp với lưới mùng. Lưới che nắng',
+ 'name': 'Lưới che nắng Thái Lan, lợi ích sử dụng lưới che nắng, lưới che nắng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/20/cb3ecfeb1e893da026fcf553ce7142d6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/64d43ab294399554ef179e5a97995560.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/b147865b95d847fdaa87ec5eb04e1d2e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/20/127d0b0fb0a7baa440f59b727147816d.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt, TP. Hà Nội',
+            'date': '10-11-2017',
+            'name': 'thietbituoitudongbinhminh',
+            'phone': '0971682666'},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          'Lưới che nắng Thái lan',
+          ' lợi ích sử dụng lưới che nắng',
+          ' lưới che nắng giá rẻ hà nội']}

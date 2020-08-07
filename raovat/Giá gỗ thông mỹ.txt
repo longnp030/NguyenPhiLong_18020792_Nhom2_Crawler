@@ -1,0 +1,32 @@
+{'description': '🔥🔥🔥Gỗ Thông Mỹ Tại Kho Tigerwood 🔥🔥🔥 Tigerwood vừa nhập kho 4 '
+                'cont Gỗ Thông Mỹ với chất lượng tuyệt vời luôn sẵn sàng phục '
+                'vụ quý khách. – Xuất xứ: Mỹ – Độ đày: 25mm, 32mm,... ( Xẻ sấy '
+                'theo yêu cầu) – Độ dài: Từ 2m đến 6m – Mặt rộng: 100-150-200 '
+                '(mm) Sở hữu vân gỗ đẹp, màu sắc giữ được độ bền cao, hài hòa '
+                'với nhiều điều kiện ánh sáng. – Gỗ rất dễ gia công và chế '
+                'tác. Khả năng bám đinh, ốc, vít hay keo đều rất tốt. – Bề mặt '
+                'gỗ có khả năng bắt màu sơn, giữ màu sơn lâu, tạo ra vẻ ngoài '
+                'như mới cho thành phẩm. – Nhựa gỗ thông tiết ra chính là chất '
+                'bảo quản tự nhiên khiến cho thành phẩm bền, và lâu bị hư mục '
+                'do tác động của môi trường bên ngoài. – Khả năng kháng sâu, '
+                'bọ, côn trùng tốt, kể cả trong điều kiện dễ hư mục thì gỗ vẫn '
+                'có độ bền cao. Liên hệ với chúng tôi để được báo giá chính '
+                'xác nhất nhé !!!! THÔNG TIN LIÊN HỆ Công Ty TNHH TigerWood 🏣 '
+                'Địa chỉ: 661 The Oasis 2, KDC Việt Sing, Phường An Phú, Thị '
+                'Xã Thuận An, Tỉnh Bình Dương',
+ 'name': 'Giá gỗ thông mỹ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/21/4359a536c758ca6a66ed4c4f5f7ff9d6.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/903f8c8389da179071c8602f0687b3c8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/da700dca5243f64ca2f47c710283311c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/21/cea6ffc7d7834378bce963cc40e360c8.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '661,The oasis II, KDC Vietsing, P.An Phú, Thuận '
+                       'An,Bình Dương',
+            'date': '21-07-2020',
+            'name': 'thpt.thaihoa.tranvanhung@gmail.com',
+            'phone': '0907665335'},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          'giá gỗ thông mỹ',
+          ' gỗ thông mỹ giá rẻ',
+          ' gỗ thông mỹ ốp tường']}

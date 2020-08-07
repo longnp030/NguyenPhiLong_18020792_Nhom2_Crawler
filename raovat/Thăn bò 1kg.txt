@@ -1,0 +1,13 @@
+{'description': 'Thịt màu đỏ đến đỏ sậm Mùi bò đặc trưng Thịt tươi, bề mặt '
+                'thịt khô cơ thịt chắc có độ đàn hồi cao, lớp thịt và lớp gân '
+                'mỡ xen nhau Giao hàng tận nơi các khu vực: Hóc Môn, Quận 12, '
+                'Tân Bình, Gò Vấp Có ship COD Hotline: 0909 581 762 Link mua '
+                'sắm các sản phẩm khác: batvang.vn/',
+ 'name': 'Thăn bò 1kg',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/14/f0621b5446e0be2d3d14cf079a924fbd.jpeg'],
+ 'price': '228.500',
+ 'seller': {'address': '79A Nguyễn Thị Đành, Hóc Môn',
+            'date': '13-05-2020',
+            'name': 'yenlinh1121987',
+            'phone': '0909 581 762'},
+ 'tags': ['TP Hồ Chí Minh', 'Ẩm thực, du lịch', 'Ẩm thực']}

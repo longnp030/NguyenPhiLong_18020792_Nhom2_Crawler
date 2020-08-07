@@ -1,0 +1,14 @@
+{'author': 'Bá Thùy',
+ 'categories': ['Thế giới'],
+ 'content': 'Nếu MILF không làm như vậy, Manila sẽ tuyên bố nhóm này là một tổ '
+            'chức khủng bố. Ngoài ra, trong hai tuần tới, nếu Mặt trận Giải '
+            'phóng Hồi giáo Moro ngừng các hoạt động khủng bố, chính quyền sẽ '
+            'cân nhắc tiếp tục đàm phán. Chính phủ Philippines tuần trước '
+            'tuyên bố ngừng đối thoại với MILF sau khi nghi ngờ tổ chức này '
+            'tiến hành một loạt các vụ tấn công nhằm vào dân thường. MILF là '
+            'nhóm Hồi giáo đòi ly khai lớn nhất ở miền nam Philippines. (theo '
+            'AFP )',
+ 'datetime': 'Thứ ba, 13/5/2003, 15:54 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': [''],
+ 'title': 'Tổng thống Philippines ra tối hậu thư cho phiến quân'}

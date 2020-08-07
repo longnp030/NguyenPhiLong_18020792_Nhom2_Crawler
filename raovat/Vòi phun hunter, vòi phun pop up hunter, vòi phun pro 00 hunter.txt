@@ -1,0 +1,29 @@
+{'description': 'Đầu tưới Hunter pop up PGP ultra Sử dụng cho tưới cảnh quan, '
+                'thảm cỏ, sân vườn, các khu trung tâm thương mại, nhà máy, xí '
+                'nghiệp, khu công nghiệp, tưới giải phân cách, lươn đường, '
+                'tưới sân bóng, sân golf…Chắc chắn, bền bỉ, không rò rỉ nước '
+                'Tích hợp lọc rác trong lõi thiết bị Dễ dàng lắp đặt, vận hành '
+                'và bảo dưỡng Có nhiều cỡ họng để thay thế tuỳ vào nhu cầu bán '
+                'kính tưới Công ty Cổ phần Công nghệ tưới Bình Minh VP bán '
+                'hàng Hà Nội: Số 2, Ngõ 238 Đường Hoàng Quốc Việt - Quận Cầu '
+                'Giấy - TP. Hà Nội ( Bên cạnh trường CĐ Du lịch Hà Nội, Đối '
+                'diện Triển lãm Nông nghiệp Việt Nam) Điện thoại: (+84) 0243. '
+                '212 3662  I  Fax: (+84) 0243. 212 3661 I Hotline: 0971 682 '
+                '666 Email: congnghetuoibinhminh@gmail.com / '
+                'hethongtuoivn@gmail.com Tại TP. Hồ Chí Minh: Số 68/9 Tân Phú '
+                '2 - Phường Tân Bình - Thị xã Dĩ An - Bình Dương Điện thoại: '
+                '(+84) 0650. 373 8519  I  Hotline: 0938 261 888  I  Email: '
+                'congnghetuoibinhminh@gmail.com Địa chỉ Kho hàng:  Số 2 đường '
+                'Dương Đình Nghệ - Phường Yên Hòa - Quận Cầu Giấy -',
+ 'name': 'Vòi phun hunter, vòi phun pop up hunter, vòi phun pro 00 hunter',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/05/20/f3ebb23bea38a999d96445e44032dae7.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/20/bfb3aa453271beccab132fd88ff20d67.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/20/cbb9d84f76e92cea8c7aef5d271217fc.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/20/c15c00dc3d7ef898da4d82e49e98a5ac.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/05/20/1b3c602fa5b77154c49d7eb0174b1fc7.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '15-03-2019',
+            'name': 'mangkinhpolitivvn',
+            'phone': None},
+ 'tags': ['Khác', 'Cây cảnh', 'tuoi canh quan']}

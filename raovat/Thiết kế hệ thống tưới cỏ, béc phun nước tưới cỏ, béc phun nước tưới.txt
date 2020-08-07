@@ -1,0 +1,30 @@
+{'description': 'NHẬN TƯ VẤN VÀ THIẾT KẾ TƯỚI SÂN VƯỜN Công ty Cổ phần Công  '
+                'nghệ tưới Bình Minh ngoài việc cung cấp các loại béc tưới, '
+                'dây dẫn nước tưới và phụ kiện cho khách hàng lắp đặt hệ thống '
+                'tưới và hệ thống tưới tiết kiệm, chúng tôi có thêm dịch vụ '
+                'như sau: Tư vấn chi tiết miễn phí cho khách hàng muốn lắp đặt '
+                'hệ thống tưới gia đình và vườn nhỏ nhằm giúp cho khách hàng '
+                'có được niềm vui tự lắp đặt và chăm sóc cây xanh cho gia đình '
+                'mình. Nhận thiết kế, thi công và lắp đặt hệ thống tưới từ '
+                'động và vận hành bằng tay trên ban công, sân vườn và sân '
+                'thượng các khách hàng có nhu cầu. .LIÊN HỆ TRỰC TIẾP HOTLINE: '
+                '0971 682 666 – 0938 261 888  Để được tư vấn và hỗ trợ Công ty '
+                'Cổ phần Công nghệ tưới Bình Minh VP bán hàng Hà Nội: Số 2, '
+                'Ngõ 238 Đường Hoàng Quốc Việt - Quận Cầu Giấy - TP. Hà Nội ( '
+                'Bên cạnh trường CĐ Du lịch Hà Nội, Đối diện Triển lãm Nông '
+                'nghiệp Việt Nam) Điện thoại: (+84) 0243. 212 3662  I  Fax: '
+                '(+84) 0243. 212 3661 I Hotline: 0971 682 666 Email: '
+                'congnghetuoibinhminh@gmail.com',
+ 'name': 'Thiết kế hệ thống tưới cỏ, béc phun nước tưới cỏ, béc phun nước tưới',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/06/01/8a7102835f1900ae3996752fee1733cf.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/01/57f874b189f69dd28bc86002b45791f1.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/01/9c4e552bf8dd1d93640c6fdb8e0eb8b9.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/01/a8d0a06a544dbead9694173f5aefc7c3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/01/48c67cc3836cdd395aa13a7577d1dc6e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/01/256ed098c2006731dba4c3a74e090d0f.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt, TP. Hà Nội',
+            'date': '10-10-2018',
+            'name': 'Vương Công Phong',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

@@ -1,0 +1,28 @@
+{'description': 'Tưới nhỏ giọt tiết kiệm nước, xu hướng tất yếu trong nông '
+                'nghiệp Trước thách thức nhiệt độ tăng cao, khô hạn kéo dài, '
+                'biến đổi khí hậu và tình trạng sử dụng nước tưới trong nông '
+                'nghiệp lãng phí… gây ảnh hưởng nghiêm trọng trới hàng chục '
+                'ngành héc ta cây trồng tại các tỉnh Trung bộ, Tây nguyên, duy '
+                'hải Nam trung bộ… Tưới tiết kiệm nước đã được BỘ nông nghiệp '
+                'chỉ đạo áp dụng phổ biến và được cho là vấn đề cấp bác. Ông '
+                'Lê Văn Minh, Giám đốc Sở NN&PTNT Lâm Đồng, cho biết công nghệ '
+                'tưới tiết kiệm nước (công nghệ TKN) đã được áp dụng rộng rãi '
+                'hầu hết tại các địa phương trong tỉnh. Đối với cây công '
+                'nghiệp như chè, cà phê được ứng dụng rộng rãi ở TP. Bảo Lộc '
+                'và H. Di Linh; với các giống rau, hoa được các doanh nghiệp '
+                'và các nông hộ áp dụng phổ biến và tập trung nhiều nhất ở TP. '
+                'Đà Lạt, các huyện Đơn Dương, Đức Trọng, Lạc Dương.',
+ 'name': 'Hệ thống tưới nhỏ giọt Israel, đầu tưới nhỏ giọt bù áp',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/06/11/f182e83f7a4ddabcdba9aca5e5f85b96.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/11/2810480d63539bf4bf9afd587e3b12f3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/11/367210e9c0fc543cdda171352f37bde8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/11/1fc14eeff0463f93c05f356b493a03cd.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/11/543aaba417b06238136203552107eb8a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/11/af8fd75aed9a4fa55b1b7e72a29c2d02.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt - Quận Cầu Giấy - '
+                       'TP. Hà Nội',
+            'date': '15-09-2018',
+            'name': 'tuoinhogiottaybannha',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

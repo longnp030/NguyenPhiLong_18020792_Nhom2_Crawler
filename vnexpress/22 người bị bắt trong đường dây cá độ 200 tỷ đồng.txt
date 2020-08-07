@@ -1,0 +1,13 @@
+{'author': 'Phạm Dự',
+ 'categories': ['Pháp luật'],
+ 'content': 'Ngày 2/4, Công an tỉnh Vĩnh Phúc cho biết vừa phá thành công '
+            'chuyên án đánh bạc dưới hình thức cá độ bóng đá qua mạng do Lưu '
+            'Văn Nam, 28 tuổi, cầm đầu. Nhà chức trách đã khởi tố 22 người, '
+            'thu 400 triệu đồng và đang tiếp tục mở rộng điều tra. Theo cảnh '
+            'sát, từ tháng 6 đến 12/2017, nhóm này đã tổ chức cá độ hơn 14.000 '
+            'trận tại các giải bóng đá khu vực và quốc tế. Số tiền giao dịch '
+            'khoảng 200 tỷ đồng.',
+ 'datetime': 'Thứ hai, 2/4/2018, 16:46 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': ['đánh bạc', 'đánh bạc qua mạng', 'cá độ bóng đá'],
+ 'title': '22 người bị bắt trong đường dây cá độ 200 tỷ đồng'}

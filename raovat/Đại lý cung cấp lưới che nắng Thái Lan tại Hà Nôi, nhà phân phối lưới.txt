@@ -1,0 +1,32 @@
+{'description': 'Lưới che nắng Thái lan chuẩn tại Hà Nội Hiện nay nhiều khách '
+                'hàng quan tâm tới lưới che nắng giá bao nhiêu, công ty CP '
+                'Công nghệ tưới Bìn Minh cung cấp các loại lưới che nắng chất '
+                'lượng cao giá cạnh tranh. Lưới che nắng Thái lan,Lưới che mát '
+                'công trình xây dựng.. .-Lưới Thái Lan :Độ bền 5-6 năm, nhẹ và '
+                'không thấm nước. Màu đen hoặc xanh đen Kích thước 2m x100m, '
+                '3m x 50m, 4m x 50m Độ phủ : 60%, 70% và 80%, -Lưới che nắng '
+                'Việt Nam : Màu đen Độ phủ 50% khổ 2m dài 50m độ bền 2 năm '
+                '-Lưới che nắng Việt Nam liên doanh Hàn Quốc: Màu đen Độ phủ '
+                '60% 70%; 80% Kích thước: 2m x 100m độ bền 3-4 năm Lưới che '
+                'nắng được dùng để che nắng cho các vườn lan, cây vườn ươm, '
+                'khu nghỉ mát, nhà ở, khu vui chơi , giải trí , mái hiên nhà '
+                'ở…. Tuỳ theo ý thích của khách hàng có thể chọn độ che râm '
+                'nhiều hay ít để lựa chọn. Giá cả chênh lệch theo từng độ phủ '
+                'khác nhau. Ngoài ra chúng tôi còn cung cấp lưới chắn côn '
+                'trùng các loại khổ như: 1m;1,2m;2,5m;và 3m ;3,6m với độ dài '
+                'tùy ý Độ bền 3 năm',
+ 'name': 'Đại lý cung cấp lưới che nắng Thái Lan tại Hà Nôi, nhà phân phối '
+         'lưới',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/06/26/e9db0704a7ad570192c181f5ea1f0112.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/26/1b8943f31e2163bf3808822d83ae236c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/26/ea91d51c631c244c51a4de31a066e498.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/26/1366a723f51425a316585bc1a523e145.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/26/24a1dfb194eecc1bfe937af912307a82.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/06/26/41beb11b290c48791982fb6d42f9210c.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt - Quận Cầu Giấy - '
+                       'TP. Hà Nội',
+            'date': '10-10-2018',
+            'name': 'nhaluoibinhminh',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

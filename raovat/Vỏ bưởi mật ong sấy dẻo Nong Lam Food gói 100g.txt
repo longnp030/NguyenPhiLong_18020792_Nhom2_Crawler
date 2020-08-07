@@ -1,0 +1,34 @@
+{'description': 'Nguyên liệu: GlobalGAP Tính chất có lợi của vỏ bưởi Hợp chất '
+                'naringin: Giảm mỡ máu, mỡ gan, giảm đường máu Nhiều chất xơ: '
+                'Giảm hấp thu mỡ và cholesterol, bảo vệ thành ruột, nhuận '
+                'trường, cải thiện sức khỏe ruột già Flavonoids, polyphenols '
+                '(chất kháng oxi hóa): Giảm nguy cơ các bệnh do oxi hóa trong '
+                'cơ thể: ung thư, tiểu đường, giảm trí nhớ, … Tinh dầu '
+                '(limonene, g-terpinene, pinene): Thông cổ, kháng vi sinh vật '
+                'gây bệnh. Mật ong: tăng đề kháng, giảm sưng viêm, giải cảm '
+                'ho, kháng oxi hóa, vi chất dinh dưỡng. Loại sản phẩm Vỏ bưởi '
+                'mật ong sấy dẻo Dạng sấy Sấy dẻo - sử dụng nhiệt độ cao (50 - '
+                '70 độ C) để làm mất đi một phần hơi nước của sản phẩm rồi đem '
+                'đi làm mát Đặc tính Dẻo, mềm, hơi dai Năng lượng 315kcal/100g '
+                'Khối lượng 100g Thành phần Vỏ bưởi (90.5%), mật ong (7%), '
+                'đường kính trắng, glucose, chất điều chỉnh độ acid (E330), '
+                'hương mật ong tổng hợp Bảo quản Dùng ăn liền. Sau khi mở bao '
+                'bì nên sử dụng hết trong vòng 10 ngày Thương hiệu Nong Lam '
+                'Food (Việt Nam) Nơi sản xuất Việt Nam',
+ 'name': 'Vỏ bưởi mật ong sấy dẻo Nong Lam Food gói 100g',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/13/38b84cfa559e9537b1257a56359a2ccc.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/98d0fd05110e27cb73c5cf05a3c069e3.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/444bebb6764cd788c4e8e25b7f9a9ab8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/5151b2667b2b6a4f61ff9c7120004848.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/6afc919127a104189fcfdd90924427a1.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/13/073514a6f10476f59ff26a23178b89b7.jpeg'],
+ 'price': '59.000',
+ 'seller': {'address': 'nonglamstorecom@gmail.com',
+            'date': '13-05-2020',
+            'name': 'Nông Lâm Store',
+            'phone': '0902 883 335'},
+ 'tags': ['Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Vỏ Bưởi Mật Ong Sấy Dẻo',
+          ' Vỏ bưởi Sấy khó Nông Lâm',
+          ' Vỏ bưởi sấy dẻo 200g']}

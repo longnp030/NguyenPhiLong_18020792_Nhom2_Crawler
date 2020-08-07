@@ -1,0 +1,32 @@
+{'description': 'Ngoài cung cấp khăn lạnh, in menu, bao đũa, quyển order. In '
+                'Bảo An còn nhận in lót bàn hay còn gọi là tờ setup dành cho '
+                'các Nhà hàng. - Nhiều kích thước phù hợp: A4, 25x35 (cm),.... '
+                '- Chất liệu: giấy Of 100, Of 120, Kraft. - Nhận thiết kế lót '
+                'bàn miễn phí theo yêu cầu khách đưa ra. - Thời gian giao '
+                'hàng: trong ngày (nội thành), tùy thuộc vào đơn vị vận chuyển '
+                '(ngoại thành). - Đóng bọc thùng hàng lót bàn cẩn thận - đảm '
+                'bảo hàng đi & hàng nhận đều đầy đủ nguyên đai, nguyên kiện. * '
+                'Đội ngũ tư vấn hỗ trợ nhiệt tình, hệ thống ship hàng có tâm '
+                'và giao hàng đảm bảo nhanh chóng nhất. Liên hệ đặt hàng: CÔNG '
+                'TY IN BẢO AN: - Địa chỉ: Số 23 ngõ 34 Nguyên Hồng- Đống Đa- '
+                'Hà Nội. - Điện thoại: 024 32444 288 - Hotline: 0966 967 467 - '
+                '0912 363 960 (Zalo/ Imess) - Skype: thuypt18 * Truy cập để '
+                'xem các mẫu: Fanpage: '
+                'https://www.facebook.com/inquyenmenunhahang/ Instagram: '
+                'https://www.instagram.com/In.an.gia.re/ * Hoặc truy cập vào '
+                'Website: inbaoan.vn',
+ 'name': 'In lót bàn nhà hàng, in tờ setup, địa chỉ in lót bàn',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/04/30/528b0f898a807aeaf8a7c3d320df96ec.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/30/d369b9b5a92083d3ca6cd0383d5aad50.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '12-06-2016',
+            'name': 'thuypt18z6',
+            'phone': None},
+ 'tags': ['Hà Nội',
+          'Quận Đống Đa',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'In lót bàn nhà hàng',
+          ' in lót ly quán café',
+          ' in lót bàn lấy nhanh']}

@@ -1,0 +1,17 @@
+{'description': 'Máy đánh bột 20lit công nghiệp Kích thước: 415 * 530 * 780mm '
+                'Tối đa Công suất nhào: 6kg Điện áp: ~ 220v / 3 ~ 380V / 50Hz '
+                'Công suất: 0,75kW Công suất định mức: 1 / 1.1kW IPNO: IPX1 '
+                'Thể tích bát: 20L Tốc độ trộn: 113/168/400 r / phút Trọng '
+                'lượng tịnh: 98kg',
+ 'name': 'Máy đánh bột 20lit công nghiệp',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/05/8410b701f07d71786f6249b01015f680.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'funotelvietnam@gmail.com',
+            'date': '30-06-2016',
+            'name': 'funotelvietnam',
+            'phone': '0989444988'},
+ 'tags': ['Đà Nẵng',
+          'Quận Thanh Khê',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'Máy đánh bột 20lit công nghiệp']}

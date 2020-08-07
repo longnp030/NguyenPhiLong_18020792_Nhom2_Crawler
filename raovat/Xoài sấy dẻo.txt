@@ -1,0 +1,23 @@
+{'description': 'Cơ sở Thanh Thanh chuyên sản xuất Mứt rong sụn biển và trái '
+                'cây sấy - Đặc sản Ninh Thuận ☎️ Hãy liên hệ ngay để được giá '
+                'bán sỉ hoặc làm đại lý: 0946.719.613 Ms. Thanh website: '
+                'www.dacsanninhthuan.vn Đ/c: 09 Nguyễn Thượng Hiền - TP. Phan '
+                'Rang - Tháp Chàm',
+ 'name': 'Xoài sấy dẻo',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/04/29/ba5e1fcde98eb9e964a758f9aea69d61.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/dff7f26d90bb847e7aa96e955527ff39.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/7679f875b740fbe113926c36e3feb453.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/0166ee3a4dd1c7aa2d20fd5e6f19ba84.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/04/29/d1368ab84a0221811bdfb6757f224979.jpeg'],
+ 'price': '180.000',
+ 'seller': {'address': 'thh42th@gmail.com',
+            'date': '29-04-2020',
+            'name': 'Thanh Thanh',
+            'phone': '0946719613'},
+ 'tags': ['Ninh Thuận',
+          'Thành phố Phan Rang - Tháp Chàm',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'xoài sấy dẻo',
+          ' xoài sấy',
+          ' trái cây sấy']}

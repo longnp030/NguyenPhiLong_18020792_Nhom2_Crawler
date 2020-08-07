@@ -1,0 +1,30 @@
+{'description': 'Hến có tính hàn, ăn mát, kết hợp với thịt băm cùng các nguyên '
+                'liệu rau gia vị, tạo nên 1 món ăn cực kì lôi cuốn. Các món '
+                'ngon từ thịt hến: •\tHến xào lá lốt ăn kèm bánh tráng •\tBún '
+                'hến xào kiểu Huế •\tTrứng chiên hến •\tCanh rau hến với dưa '
+                'cải •\tCanh hến nấu hoa chuối Sauk hi mua về, khách hàng cho '
+                'vào ngăn đông tủ lạnh để bảo quản, trước khi sử dụng, cho '
+                'vào  nước  hoặc để ở nhiệt độ bình thường khoảng 30p. Sản '
+                'phẩm của công ty chuyên xuất khẩu thuỷ sản, đảm bảo an toàn '
+                'vệ sinh thực phẩm, hoá đơn chứng từ đầy đủ. Ngoài ra, cửa '
+                'hàng còn rất nhiều  sản phẩm phục vụ nhu cầu ăn uống của Quý '
+                'Khách. Zalo: 0937.813.138 – Quốc Hân hạnh phục vụ Quý Khách.',
+ 'name': 'Hến hấp đông lạnh',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/06/01/cc4362910c95c7546ccb171fa65515f0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/999fbb817facc88b82142040949debbf.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/6329e43644a8f9ed4d95e3ef5a171c14.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/4cd6d79e7ac8cf643f0bbe61685827af.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/98abad08f97fa34a5050ead0a320b5d8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/06/01/650b075df2b3024db448ed8bbd451311.png'],
+ 'price': '80.000',
+ 'seller': {'address': '270 Tạ Quang Bửu, P.4, Q.8',
+            'date': '05-03-2020',
+            'name': 'Nghêu Sạch Bến Tre',
+            'phone': '0937813138'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 8',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'hến',
+          ' hến hấp',
+          ' thịt hến']}

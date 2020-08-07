@@ -1,0 +1,60 @@
+{'author': 'Thành Lê',
+ 'categories': ['Ý kiến', 'Thời sự'],
+ 'content': 'Dù Việt Nam đang trong giai đoạn căng thẳng dập dịch Covid-19 '
+            'nhưng một câu hỏi vẫn cần được lên kế hoạch giải quyết ngay từ '
+            'bây giờ, đó là "làm gì để phục hồi nền kinh tế sau đại dịch?". '
+            'Nhiều độc giả VnExpress đề xuất các giải pháp: Ngay sau khi chúng '
+            'ta chặn đứng được hoàn toàn việc lây nhiễm Covid-19 trong cộng '
+            'đồng, cả nước\xa0sẽ bước qua giai đoạn kế tiếp là phục hồi kinh '
+            'tế, có thể\xa0bằng các giải pháp sau đây: 1. Mở cửa lại các cửa '
+            'khẩu (đường hàng không, đường bộ, đường thủy): nhưng toàn bộ '
+            'khách nhập cảnh vào Việt Nam vẫn\xa0phải chịu cách ly 14 ngày. '
+            'Sau đó, nếu ai có xác nhận sức khỏe tốt thì mới được tự do đi lại '
+            'trong lãnh thỗ Việt Nam\xa0(số lượng khách nhập cảnh vào Việt '
+            'Nam\xa0tùy thuộc vào khả năng quản lý của các khu vực cách ly). '
+            '2. Đầu tư các đảo như Phú Quốc, Côn Đảo, Cù Lao Chàm, các đảo ở '
+            'vùng biển Tây Nam... thành các điểm đến du lịch hấp dẫn vửa là '
+            'khu vực cách ly để làm dịch vụ y tế, điều trị bệnh nhiễm Covid-19 '
+            'cho bệnh nhân đến từ các nước trên thế giới. 3. Áp dụng các giải '
+            'pháp để hạn chế tình trạng kẹt xe ở các thành phố lớn, đông dân, '
+            'đảm bảo việc giao thông thuận lợi, không khí trong lành, ít khói '
+            'bụi, tạo điều kiện thuận lợi cho việc phát triển đất nước trên '
+            'mọi mặt: kinh tế, văn hóa, và an ninh trật tự xã hội. 4. Dù mọi '
+            'hoạt động trong xã hội trở lại bình thường, nhưng trước mắt vẫn '
+            'nên\xa0tiếp tục duy trì các biện pháp an toàn của mỗi người trong '
+            'cộng đồng để tránh việc dịch bệnh lây nhiễm trở lại (đeo khẩu '
+            'trang nơi công cộng, vệ sinh an toàn cho cá nhân...). Thai Son '
+            'Nhân cơ hội này Việt Nam nên siết chặt bán lẻ để ít người làm chủ '
+            'và kiểm soát về chất lượng sản phẩm, giá thành sẽ tốt hơn. Đồng '
+            'thời nâng cấp cơ sở hạ tầng các chợ đầu mối để đảm bảo vệ sinh '
+            'môi trường làm đẹp cho quốc gia. Thang nguyen Bản thân những '
+            'người bán hàng rong (bán lẻ) không tạo ra giá trị của một sản '
+            'phẩm. Càng đông người bán lẻ thì giá dịch vụ thêm vào sản phẩm '
+            'càng lớn, cũng có nghĩa là khách hàng (người tiêu dùng) sẽ phải '
+            'gánh phần đó mà người sản xuất (nông dân và công nhân) thì không '
+            'được hưởng. Thay vì quá nhiều người bán lẻ không tạo ra giá trị '
+            'thì cơ cấu lại đội ngũ bán lẻ đi làm công nhân, nông dân. Thế Tấn '
+            'Giờ là lúc Việt Nam\xa0sử dụng "tấm đệm rủi ro" để ngăn chặn khả '
+            'năng khủng hoảng kinh tế\xa0có thể xảy ra bằng cách giải ngân '
+            'nhanh và\xa0mạnh hơn vào lĩnh vực y tế, an sinh xã hội và cơ sở '
+            'hạ tầng giao thông thiết yếu để vừa dập dịch nhanh chóng, đảm bảo '
+            'an sinh xã hội, vừa chuẩn bị nền tảng vững chắc để bứt tốc sau '
+            'dịch. Nguyen Tuan Giờ là lúc tranh thủ triển khai các dự án giao '
+            'thông để tận dụng nhiều lao động nhàn rỗi. Tuy nhiên phải phân '
+            'nhóm nhỏ theo công việc và ăn ở luôn tại lều bạt ở công trường. '
+            'Sửa chữa đường xá rất tuyệt trong giai đoạn này. Vinh Tuong Hiện '
+            'tại, ta nên áp dụng chính sách thắt lưng buộc bụng, tập trung '
+            'kiểm soát tốt dịch bệnh, làm chủ, nâng cao sản xuất nguồn nguyên '
+            'vật liệu và sản phẩm chất lượng. Đây là cơ hội để Việt Nam đẩy '
+            'mạnh sản xuất và xuất khẩu lúa gạo cùng các mặt hàng thiết yếu '
+            'khác mà thế giới đang cần. Chúng ta không hoang mang, thách thức '
+            'cũng là cơ hội. Minh Nguyễn >> Chia sẻ bài viết của bạn cho mục Ý '
+            'kiến tại đây .',
+ 'datetime': 'Thứ hai, 6/4/2020, 04:00 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': ['covid-19',
+          'dịch covid-19',
+          'kinh tế',
+          'phục hồi kinh tế',
+          'chống dịch covid-19'],
+ 'title': 'Những việc cần làm ngay để phục hồi kinh tế Việt Nam sau đại dịch'}

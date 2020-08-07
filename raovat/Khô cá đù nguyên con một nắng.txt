@@ -1,0 +1,21 @@
+{'description': 'Khô cá đù 1 nắng, tươi ngon, chất lượng. Hàng của công ty '
+                'chuyên xuất khẩu nên đảm bảo được độ tươi của cá khi đến với '
+                'khách hàng. Món ngon trong bữa cơm gia đình và tạo khẩu vị lạ '
+                'trong bữa tiệc. Dễ sử dụng, không tốn thời gian để làm sạch, '
+                'bảo quản được lâu, không bị hao hụt. Cửa hàng hiện tại cung '
+                'cấp các size: 20-30 (Lam Điền) : 150.000 5-10 con/kg: 170.000 '
+                '15-25 con/kg: 160.000 25-40 con/kg: 140.000 Ngoài ra, cửa '
+                'hàng còn rất nhiều sản phẩm phục vụ nhu cầu ăn uống của Quý '
+                'Khách hang. Zalo: 0937813138 - Quốc Hân hạnh được phục vụ Quý '
+                'Khách.',
+ 'name': 'Khô cá đù nguyên con một nắng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/23/fd4097a39080d2cf37030d5e4dd73c01.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/23/8099c3214fc3c919dc548089ef97bd18.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/23/9a7677f631b247e189e101eb5d65760c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/23/ac4d941997dbc3a3852f53674995afe8.jpeg'],
+ 'price': '140.000',
+ 'seller': {'address': '270 Tạ Quang Bửu, P.4, Q.8',
+            'date': '05-03-2020',
+            'name': 'Nghêu Sạch Bến Tre',
+            'phone': '0937813138'},
+ 'tags': ['TP Hồ Chí Minh', 'Quận 8', 'Ẩm thực, du lịch', 'Ẩm thực', 'cá đù']}

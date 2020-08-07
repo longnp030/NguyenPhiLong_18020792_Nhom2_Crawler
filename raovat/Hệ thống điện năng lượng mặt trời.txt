@@ -1,0 +1,28 @@
+{'description': 'Công ty TNHH Đầu tư sản xuất VinaMax  luôn  nhận  cung cấp, '
+                'lắp đặt hệ thống điện năng lượng mặt trời giúp cho các hộ gia '
+                'đình và doanh nghiệp trong  việc tiết kiệm điện năng. Hệ '
+                'thống điện năng lượng mặt trời hòa lưới là một hệ thống kinh '
+                'tế nhất. Với ứng dụng năng lượng mặt trời rất lớn đặc biệt là '
+                'điện mặt trời mái nhà. Tiết kiệm tiền cho các giải pháp chống '
+                'nóng, vì tấm pin năng lượng mặt trời có tác dụng hấp thụ tối '
+                'đa năng lượng mặt trời. Với ưu điểm: - Sử dụng năng lượng '
+                'xanh từ tài nguyên thiên nhiên vô tận. - Lắp đặt đơn giản, dễ '
+                'vận hành, dễ dàng nâng cấp mở rộng. - Tiết kiệm tiền điện '
+                'tiêu thụ hàng ngày của các thiết bị trong gia đình. - Có độ '
+                'bền cao, mang giá trị sử dụng lâu dài Thông tin liên hệ: Công '
+                'ty TNHH Đầu tư sản xuất VinaMax Địa chỉ: LK11/26 Khu đô thị '
+                'mới An Hưng – P. Dương Nội – Q. Hà Đông – Hà Nội Trang '
+                'Web:https:// dienmattroimienbac.vn Hotline: 0966691189',
+ 'name': 'Hệ thống điện năng lượng mặt trời',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/07/23/a0a869de0ba80559b1ec814d1b63bda0.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/07/23/b380a934c6eb580d0b22135147ec8fb9.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '',
+            'date': '07-07-2020',
+            'name': 'hoahoctro0820',
+            'phone': None},
+ 'tags': ['Dịch vụ',
+          'Tìm đối tác',
+          'Điện mặt trời',
+          ' điện năng lượng',
+          ' điện năng lượng mặt trời']}

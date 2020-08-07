@@ -1,0 +1,13 @@
+{'author': 'Quyết Đại Ka',
+ 'categories': ['Hài', 'Tiểu phẩm'],
+ 'content': 'Anh chàng rất thẹn thùng, còn cô gái muốn được bạn trai hôn, bèn '
+            'nói: - Ôi, má em đau quá. Chàng trai bèn hôn vào má cô gái. - Em '
+            'thấy thế nào? Còn đau không? - Úi, hết đau rồi. Ít phút sau... - '
+            'Ôi, cổ em lại đau. Chàng lại hôn vào cổ nàng. - Còn đau không em? '
+            'Cô gái bẽn lẽn: - Hết rồi. Cụ già ngồi gần đó cáu tiết liền hỏi: '
+            '- Hỡi chàng trai có đôi môi thần kỳ, cháu có thể chữa được bệnh '
+            'trĩ không? ( Sưu tầm )',
+ 'datetime': 'Thứ ba, 3/6/2014, 16:22 (GMT+7)',
+ 'paths_to_img': [],
+ 'tags': ['nụ hôn chữa được bệnh trĩ', 'truyện cười', 'truyện tiếu lâm'],
+ 'title': 'Nụ hôn chữa được bệnh trĩ'}

@@ -1,0 +1,31 @@
+{'description': '1. Màng PE nhà kính Israel là loại màng đặc biệt đầu tiên và '
+                'duy nhất có 5 lớp trên thế giới. Mỗi lớp màng có một đặc tính '
+                'riêng: Đặc tính chống UV làm tăng tuổi thọ của màng; Đặc tính '
+                'truyền ánh sáng (P.A.R); Đặc tính khuếch tán ánh sáng; Đặc '
+                'tính chống nước nhỏ giọt; Đặc tính chống côn trùng và virus; '
+                'Đặc tính giữ nhiệt; Đặc tính ngăn sự hình thành sương trong '
+                'nhà kính; Đặc tính chống bụi bẩn. Những đặc tính nêu trên chỉ '
+                'có ở màng của Israel. 2. Màng PE của Israel được tin dùng tại '
+                'hơn 100 Quốc gia, đây cũng là loại màng chiếm tới gần 80% thị '
+                'phần thế giới và trên 90% thị phần tại Việt Nam. 3. Có rất '
+                'nhiều loại màng trên thị trường Việt Nam nhưng màng Israel '
+                'luôn là sự lựa chọn tốt nhất vì sao? + Là loại màng đặc biệt '
+                'với 5 lớp. Đây là loại màng vào thị trường Việt Nam lâu nhất '
+                '15 năm. + Màng Israel bảo hành 3 năm, thời gian sử dụng lên '
+                'đến 10 năm. + Israel là Quốc gia nóng quanh năm với nhiệt độ '
+                'rất cao, đặc điểm này khá giống với thời tiết khí hậu nước '
+                'ta. Màng PE Israel',
+ 'name': 'Nhà màng trồng rau, nẹp gài nhà màng, quy cách chọn nhà màng',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/04/27/b62ac3bcfd726f4139c2704ae43b08cb.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/27/83ad12bcdddfed7226fba194cdcca00e.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/27/ddfd1d54d26b9ff5cd0537031fffbaa8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/27/53ede082372b0289e9a88f5320a0499b.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/27/949a2dde58641797ebf247b5be120817.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/04/27/5424f47cfab62db02e91f588eb11d6bb.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': 'Số 2, Ngõ 238 Đường Hoàng Quốc Việt - Quận Cầu Giấy - '
+                       'TP. Hà Nội',
+            'date': '10-10-2018',
+            'name': 'nhaluoibinhminh',
+            'phone': '0971682666'},
+ 'tags': ['Khác', 'Cây cảnh']}

@@ -1,0 +1,36 @@
+{'description': 'Châu Âu được biết đến là thị trường khó tính chuyên nhập khẩu '
+                'nông sản, thủy sản…từ Việt Nam với nhiều tiêu chuẩn vệ sinh '
+                'chất lượng đặt ra cho sản phẩm hàng nhập khẩu. Xoài sấy dẻo '
+                'Nanufood lần đầu tiên chinh phục thị trường Châu Âu, cụ thể '
+                'là Liên Bang Nga với 1 container 14 tấn đã có mặt tại đây đầu '
+                'tháng 05/2020. Không chỉ dừng lại ở Nga, Xoài sấy dẻo tiếp '
+                'tục được Nga xuất bán sang nhiều thị trường nước bạn lân cận. '
+                'Với hương vị chua ngọt tự nhiên, xoài sấy dẻo miền nhiệt đới '
+                'là món ăn vặt khoái khẩu của người tiêu dùng Châu Âu từ xưa '
+                'đến nay. Hãy cùng điểm qua một chút những nét đặc trưng của '
+                'món Xoài sấy dẻo nhé! -\tCông nghệ sấy dẻo 50-70oC, không '
+                'dùng dầu chiên -\tXoài mềm dẻo, mang hương vị chua ngọt tự '
+                'nhiên, màu vàng sáng -\tGiàu vitamin, chất xơ mang lại nhiều '
+                'hữu ích cho sức khỏe -\tThành phần: 95% xoài, 5.5% đường và '
+                'một số chất khác. Quy cách đóng gói đa dạng từ túi zip '
+                '500g-01kg hoặc nguyên thùng 20kg, Nanufood sẵn sàng đáp ứng '
+                'mọi nhu cầu đóng gói và số lượng đơn hàng.',
+ 'name': 'Xoài sấy dẻo Nanufood xuất khẩu thị trường Nga',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/08/fddfecfe11a38231913bd9ca7fab44ed.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/08/49ef79bec3b150a771e3bf5bb9365fec.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/08/c04e148dc5cb382317c5a5192c9c4fa4.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/08/58eb08e801d1cc69fda2be305d00d5a8.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/08/06d44c3fd52cbbb258023c0b1d31df91.jpeg'],
+ 'price': 'Thương lượng',
+ 'seller': {'address': '147/53 Tân Kỳ Tân Quý, P.Tân Sơn Nhì, Q.Tân Phú, '
+                       'TP.HCM',
+            'date': '28-09-2019',
+            'name': 'Ngo Thi Hong Nhung',
+            'phone': '0941765577'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Tân Phú',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'xoài sấy dẻo xuất khẩu',
+          ' xoài sấy dẻo',
+          ' soft dried mango']}

@@ -1,0 +1,17 @@
+{'description': 'Chuyên phối giống và cung cấp giống chó Bully American - Trại '
+                'chó Bully American - Quoc Pagoda Kennels. DT : 0908326070 '
+                '(Quốc Bully). www.bullysaigon.com '
+                'https://www.facebook.com/ngohoaiquoc',
+ 'name': 'Phối giống chó bully',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/02/20/c3a57f062f227201306a0d4638af5e90.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/20/b64a81d833ad8814729b50cda8a70b1c.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/20/9682c2a718006f51bb35580b803d5513.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/20/2cc282078eab8f0304a3c2550a62ba52.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/20/8239133686e3f30bdc23bb8efdadbe4e.png',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/02/20/ed21c87b478a14d9b023dec14c67d740.jpeg'],
+ 'price': '5.000.000',
+ 'seller': {'address': '',
+            'date': '14-12-2017',
+            'name': 'hoaiquoc ngo',
+            'phone': None},
+ 'tags': ['Khác', 'Thú nuôi', 'chó bully', ' bully', ' bully american']}

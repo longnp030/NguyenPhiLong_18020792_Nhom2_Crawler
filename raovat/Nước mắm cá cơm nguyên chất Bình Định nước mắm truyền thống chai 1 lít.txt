@@ -1,0 +1,33 @@
+{'description': 'NƯỚC MẮM NHỈ NGUYÊN CHẤT TỪ CÁ CƠM BÌNH ĐỊNH Nước mắm ngon '
+                'Bình Định từ lâu đã làm sản phẩm nổi tiếng khắp 3 miền bởi '
+                'hương vị đặc trưng nước mắm Miền Trung mà hiếm sản phẩm nào '
+                'sánh bằng. Thành phần nước mắm - Được làm từ cá cơm biển tươi '
+                'nguyên chất. - Độ đạm nước mắm truyền thống khoảng từ 25-37 '
+                'độ rất thơm ngon - Nước mắm có màu vàng trong, mùi thơm đặc '
+                'trưng, hương vị đậm đà. -ĐẶC BIỆT:  Khi ăn vị ngọt đậm ( mặn '
+                'đậm) đặc trưng,dịu nhẹ thấm dần xuống cổ họng, không gắt và '
+                'mặn như nước mắm công nghiệp trên thị trường. - Không sử dụng '
+                'chất phụ gia. - HẠN SỬ DỤNG: Từ 1-2 năm kể từ ngày sản xuất. '
+                'Cách dùng - Dùng để chấm trực tiếp các loại rau, thịt, '
+                'đậu,.... và các món theo sở thích ăn uống của mỗi người. - '
+                'Dùng làm gia vị để nêm nếm trong món ăn cực ngon.- Đặc biệt '
+                'phù hợp với gu ăn uống của người Miền Trung xa quê. CẦN THÊM '
+                'THÔNG TIN CÓ THỂ LIÊN HỆ QUA HOTLINE 24/24 : 0963.75.27.22 - '
+                '039.308.4695 #nuocmamcacom #nuocmamngon #nuocmamcacombinhdinh '
+                '#nuocmamnhi #nuocmamnguyencha',
+ 'name': 'Nước mắm cá cơm nguyên chất Bình Định nước mắm truyền thống chai 1 '
+         'lít',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2020/05/06/68550d5c71285e3b65f2d7d6f7519694.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2020/05/06/eb0d9683eef0f10d897913c5a9380b18.jpeg'],
+ 'price': '89.000',
+ 'seller': {'address': '28/15 Đường số 1, Phường Tăng Nhơn Phú B, Quận 9',
+            'date': '26-05-2018',
+            'name': 'vantuannguyen993',
+            'phone': '0963752722'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận 9',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'nước mắm',
+          ' nước mắm nguyên chất',
+          ' nước mắm cá cơm']}

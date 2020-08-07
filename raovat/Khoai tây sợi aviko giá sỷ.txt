@@ -1,0 +1,23 @@
+{'description': 'Xin chào cả nhà. thực Phẩm An Sinh có cung cấ dòng khoai '
+                'aviko sợi 7mm. khoai giòn ngon, không gãy nát. Khoai có độ '
+                'giòn gữ đc 30 Phút sau khi chiên. Rất Phù hợP với các món bò '
+                'né, hoặc nhà hàng làm các món ăn đãi tiệc. giá sỷ 55kkg. lấy '
+                'số lượng trên 20kg liên hệ để có giá tốt hơn NPP THỰC PHẨM AN '
+                'SINH Đ/C: 331/70/125 Phan Huy ich, P14, Go Vap ĐT: 08 3589 '
+                '7262 FAX: 08 3589 7262 DĐ: KIM DUNG: 0915 469 009 - 0909 056 '
+                '488',
+ 'name': 'Khoai tây sợi aviko giá sỷ',
+ 'path_to_img': ['https://imgraovat.vnecdn.net/images/300_180/2019/01/09/ba0a59d567c08ab421169f6192ee8cda.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/01/09/51f8f54baf756abe4dcf1c345ef03900.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/01/09/4d4233f632d52d83004d37b2d8372a6a.jpeg',
+                 'https://imgraovat.vnecdn.net/images/300_180/2019/01/09/5e615e609ccd486d5069eef40c84e762.jpeg'],
+ 'price': '55.000',
+ 'seller': {'address': 'kimdung3425@gmail.com',
+            'date': '01-10-2016',
+            'name': 'kimdung3425',
+            'phone': '0915469009'},
+ 'tags': ['TP Hồ Chí Minh',
+          'Quận Gò Vấp',
+          'Ẩm thực, du lịch',
+          'Ẩm thực',
+          'khoai tây chiên giá sỷ']}
